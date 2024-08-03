@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Ando ñoño	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 20 Nov 2007 19:21:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: rapaza		</title>
+		<link>./../index.html#comment-1046</link>
+
+		<dc:creator><![CDATA[rapaza]]></dc:creator>
+		<pubDate>Tue, 20 Nov 2007 19:21:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=262#comment-1046</guid>
+
+					<description><![CDATA[si es que sois unos soletes los dooosss!!!! aportando sentidiño comun!! ay q majos ^^&lt;br/&gt;bueno hay algo por lo que os odio... ¬¬ cuanto mas os leo mas ganas me dan de visitar Japon (y conoceros)! jajaja&lt;br/&gt;un abrazo!]]></description>
+			<content:encoded><![CDATA[<p>si es que sois unos soletes los dooosss!!!! aportando sentidiño comun!! ay q majos ^^<br />bueno hay algo por lo que os odio&#8230; ¬¬ cuanto mas os leo mas ganas me dan de visitar Japon (y conoceros)! jajaja<br />un abrazo!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: nora		</title>
+		<link>./../index.html#comment-1042</link>
+
+		<dc:creator><![CDATA[nora]]></dc:creator>
+		<pubDate>Mon, 19 Nov 2007 13:12:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=262#comment-1042</guid>
+
+					<description><![CDATA[Gracias a tí, Oskar&lt;br/&gt;心から　ありがとう　ございました。&lt;br/&gt;No lo olvidaré nunca :)]]></description>
+			<content:encoded><![CDATA[<p>Gracias a tí, Oskar<br />心から　ありがとう　ございました。<br />No lo olvidaré nunca <img src="./../../wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Cerveza &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Wed, 10 Jun 2009 12:07:11 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>La familia Asahi</title>
+		<link>./../../../la-familia-asahi/index.html</link>
+					<comments>./../../../la-familia-asahi/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Wed, 10 Jun 2009 11:35:15 +0000</pubDate>
+				<category><![CDATA[Vete a saber]]></category>
+		<category><![CDATA[Asahi]]></category>
+		<category><![CDATA[Cerveza]]></category>
+		<category><![CDATA[Japón]]></category>
+		<category><![CDATA[Tokyo]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=876</guid>
+
+					<description><![CDATA[¡Arranca, que ya estamos todos! Conté hasta cinco tamaños distintos de la misma cerveza en el súper del Sr. Kitamura El latacaco de 3l, y latas de 500, 350, 200 y 135ml Ahora que ya he sacado la foto, a esto habrá que darle salida un día de estos&#8230; ¡Sin problema! ¡Llamaré a mi amigo &#8230; <a href="./../../../la-familia-asahi/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">La familia Asahi</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: center;"><strong><span style="font-size: large;">¡Arranca, que ya estamos todos!</span></strong></p>
+<p style="text-align: center;"><img fetchpriority="high" decoding="async" class="pie-img" src="http://lh3.ggpht.com/_pE6wnLeL87o/SixT0ZW5BeI/AAAAAAAAvSE/TX54-DLPxvg/DSC_0118-1.jpg?imgmax=576" alt="DSC_0118-1.jpg" width="576" height="383" /></p>
+<div id="pieFoto"><em>Conté hasta cinco tamaños distintos de la misma cerveza en el súper del Sr. Kitamura</em></div>
+<p style="text-align: center;"><img decoding="async" class="pie-img" src="http://lh6.ggpht.com/_pE6wnLeL87o/SixTy6-2oSI/AAAAAAAAvR8/zNUzhEXjkoo/DSC_0114-1.jpg?imgmax=576" alt="DSC_0114-1.jpg" width="576" height="383" /></p>
+<div id="pieFoto"><em>El latacaco de 3l, y latas de 500, 350, 200 y 135ml</em></div>
+<p style="text-align: center;"><img decoding="async" class="pie-img" src="http://lh6.ggpht.com/_pE6wnLeL87o/SixT1UT06pI/AAAAAAAAvSM/kOe4dlfvGv4/DSC_0121-1.jpg?imgmax=576" alt="DSC_0121-1.jpg" width="576" height="383" /></p>
+<div id="pieFoto"><em>Ahora que ya he sacado la foto, a esto habrá que darle salida un día de estos&#8230;<br />
+¡Sin problema! ¡Llamaré a mi amigo el <a href="http://www.nerelorco.com/se-van-a/Tokio/clases-de-ninja-por-cojones/">ninja</a>!</em></div>
+<p style="text-align: center;"><img loading="lazy" decoding="async" class="pie-img" src="http://lh6.ggpht.com/_pE6wnLeL87o/SixT3JUJ5hI/AAAAAAAAvSc/Uw4RuBiVInk/DSC_0128-1.jpg?imgmax=576" alt="DSC_0128-1.jpg" width="576" height="383" /></p>
+<div id="pieFoto"><em>La pequeña es muy pequeña, pero mucho mucho, es el bonsai de las laticas</em></div>
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" class="pie-img" src="http://lh6.ggpht.com/_pE6wnLeL87o/SixT4Zt4iMI/AAAAAAAAvSk/iGjoecjy8Qs/DSC_0130-1.jpg?imgmax=576" alt="DSC_0130-1.jpg" width="576" height="383" /></p>
+<div id="pieFoto"><em>Solo dió para el culo de la jarra, me hicieron falta tres para llenarla&#8230;</em></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../la-familia-asahi/feed/index.html</wfw:commentRss>
+			<slash:comments>31</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">876</post-id>	</item>
+	</channel>
+</rss>

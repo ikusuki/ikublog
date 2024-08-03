@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: And the winner is&#8230;	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 14 Nov 2006 21:58:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-52</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Tue, 14 Nov 2006 21:58:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=38#comment-52</guid>
+
+					<description><![CDATA[Pues entre finales de éste y principios de diciembre... ¡¡esperamos!!]]></description>
+			<content:encoded><![CDATA[<p>Pues entre finales de éste y principios de diciembre&#8230; ¡¡esperamos!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Vincent Vega		</title>
+		<link>./../index.html#comment-51</link>
+
+		<dc:creator><![CDATA[Vincent Vega]]></dc:creator>
+		<pubDate>Tue, 14 Nov 2006 06:31:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=38#comment-51</guid>
+
+					<description><![CDATA[pa cuando las vais a tener]]></description>
+			<content:encoded><![CDATA[<p>pa cuando las vais a tener</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-49</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Mon, 13 Nov 2006 13:22:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=38#comment-49</guid>
+
+					<description><![CDATA[Tranquilidad Jose!&lt;br /&gt;Es roja con las mangas blancas, bueno ya la veréis cuando la tengamos. Esa negra es un modelo de chica y simplemente estábamos probando distintos tamaños del diseño para ver cual quedaba mejor.&lt;br /&gt;&lt;br /&gt;no preocuparse!]]></description>
+			<content:encoded><![CDATA[<p>Tranquilidad Jose!<br />Es roja con las mangas blancas, bueno ya la veréis cuando la tengamos. Esa negra es un modelo de chica y simplemente estábamos probando distintos tamaños del diseño para ver cual quedaba mejor.</p>
+<p>no preocuparse!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Yose22		</title>
+		<link>./../index.html#comment-48</link>
+
+		<dc:creator><![CDATA[Yose22]]></dc:creator>
+		<pubDate>Mon, 13 Nov 2006 13:09:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=38#comment-48</guid>
+
+					<description><![CDATA[eeeee? pro es negra? yo pensaba que era rojaaaaaaaaa&lt;br /&gt;Toscanooooo no me engañes!]]></description>
+			<content:encoded><![CDATA[<p>eeeee? pro es negra? yo pensaba que era rojaaaaaaaaa<br />Toscanooooo no me engañes!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Luigi		</title>
+		<link>./../index.html#comment-47</link>
+
+		<dc:creator><![CDATA[Luigi]]></dc:creator>
+		<pubDate>Mon, 13 Nov 2006 11:39:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=38#comment-47</guid>
+
+					<description><![CDATA[claro q si, es la q tenia q ganar]]></description>
+			<content:encoded><![CDATA[<p>claro q si, es la q tenia q ganar</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

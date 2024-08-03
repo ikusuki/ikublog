@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Informativo matinal de Ángel Martín	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 29 Jun 2021 14:23:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Pau		</title>
+		<link>./../index.html#comment-62304</link>
+
+		<dc:creator><![CDATA[Pau]]></dc:creator>
+		<pubDate>Tue, 29 Jun 2021 14:23:28 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=10672#comment-62304</guid>
+
+					<description><![CDATA[Jejeje ya es casi una costumbre a primera hora del día ver el de Ángel y el tuyo. 
+
+Una abrazo grande tío Tosca.]]></description>
+			<content:encoded><![CDATA[<p>Jejeje ya es casi una costumbre a primera hora del día ver el de Ángel y el tuyo. </p>
+<p>Una abrazo grande tío Tosca.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Nacho		</title>
+		<link>./../index.html#comment-62303</link>
+
+		<dc:creator><![CDATA[Nacho]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 20:58:22 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=10672#comment-62303</guid>
+
+					<description><![CDATA[¡Grande!]]></description>
+			<content:encoded><![CDATA[<p>¡Grande!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Tío Tosca		</title>
+		<link>./../index.html#comment-62302</link>
+
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 12:34:52 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=10672#comment-62302</guid>
+
+					<description><![CDATA[Salen en twitter, eh?, aquí no!
+https://twitter.com/ikusuki]]></description>
+			<content:encoded><![CDATA[<p>Salen en twitter, eh?, aquí no!<br />
+<a href="https://twitter.com/ikusuki" rel="nofollow ugc">https://twitter.com/ikusuki</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Tiny		</title>
+		<link>./../index.html#comment-62301</link>
+
+		<dc:creator><![CDATA[Tiny]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 10:04:18 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=10672#comment-62301</guid>
+
+					<description><![CDATA[De lux! Me encantaron! Breves, concisos, mucha información y sobre todo muy divertidos! No lo dejes, porfa!!
+
+Gracias!!]]></description>
+			<content:encoded><![CDATA[<p>De lux! Me encantaron! Breves, concisos, mucha información y sobre todo muy divertidos! No lo dejes, porfa!!</p>
+<p>Gracias!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Battosai		</title>
+		<link>./../index.html#comment-62300</link>
+
+		<dc:creator><![CDATA[Battosai]]></dc:creator>
+		<pubDate>Sun, 27 Jun 2021 09:52:09 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=10672#comment-62300</guid>
+
+					<description><![CDATA[Al igual que a Neki, solo de oírte intento respirar porque me da la sensación de que me ahogo XDDDDDD
+
+Pero dale, que molan y así nos enteramos de como andan por ahí las cosas
+
+ :ungusto:]]></description>
+			<content:encoded><![CDATA[<p>Al igual que a Neki, solo de oírte intento respirar porque me da la sensación de que me ahogo XDDDDDD</p>
+<p>Pero dale, que molan y así nos enteramos de como andan por ahí las cosas</p>
+<p> <img src="./../../wp-includes/images/smilies/ungusto.gif" alt=":ungusto:" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: neki		</title>
+		<link>./../index.html#comment-62299</link>
+
+		<dc:creator><![CDATA[neki]]></dc:creator>
+		<pubDate>Sun, 27 Jun 2021 06:35:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=10672#comment-62299</guid>
+
+					<description><![CDATA[Vas a toda hostia. Me falta el aire solo escuchándote.
+Mola :olakease:]]></description>
+			<content:encoded><![CDATA[<p>Vas a toda hostia. Me falta el aire solo escuchándote.<br />
+Mola <img src="./../../wp-includes/images/smilies/smiley-with-glasses23.gif" alt=":olakease:" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Inocentes!	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:47:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Nagore		</title>
+		<link>./../index.html#comment-619</link>
+
+		<dc:creator><![CDATA[Nagore]]></dc:creator>
+		<pubDate>Thu, 26 Jul 2007 19:13:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=164#comment-619</guid>
+
+					<description><![CDATA[Jooo yo me lo perdí!!! joooo!!!!!]]></description>
+			<content:encoded><![CDATA[<p>Jooo yo me lo perdí!!! joooo!!!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-618</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Thu, 26 Jul 2007 13:02:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=164#comment-618</guid>
+
+					<description><![CDATA[Ja, jaa....&lt;br/&gt;Me parece reconocer a dos personas en esa foto...&lt;br/&gt;&lt;br/&gt;Cuidado que Lupin III se fija en todo....&lt;br/&gt;&lt;br/&gt;(Viva el inspector Basilio)]]></description>
+			<content:encoded><![CDATA[<p>Ja, jaa&#8230;.<br />Me parece reconocer a dos personas en esa foto&#8230;</p>
+<p>Cuidado que Lupin III se fija en todo&#8230;.</p>
+<p>(Viva el inspector Basilio)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Saruli		</title>
+		<link>./../index.html#comment-617</link>
+
+		<dc:creator><![CDATA[Saruli]]></dc:creator>
+		<pubDate>Thu, 26 Jul 2007 06:50:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=164#comment-617</guid>
+
+					<description><![CDATA[QUE DIA!!! Entrañable tu despedida...]]></description>
+			<content:encoded><![CDATA[<p>QUE DIA!!! Entrañable tu despedida&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

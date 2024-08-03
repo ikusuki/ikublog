@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Últimas noticias sobre Nova	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Fri, 02 Nov 2007 11:36:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: yoli		</title>
+		<link>./../index.html#comment-989</link>
+
+		<dc:creator><![CDATA[yoli]]></dc:creator>
+		<pubDate>Fri, 02 Nov 2007 11:36:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=248#comment-989</guid>
+
+					<description><![CDATA[Hola, recientemente he descubierto tu blog, todavia no sé muy bien como he llegdo hasta aqui jajaja, pero me encanta.&lt;br/&gt;Me interesa mucho todo lo relacionado con la cultura japonesa, y la verdad es que estoy aprendieno mucho sobre ella gracias a tu blog.&lt;br/&gt;Lo de ofrecer lecciones a cambio de comida es lo que más me ha impresionado, pobres, que mal lo deben estar pasando!!&lt;br/&gt;&lt;br/&gt;bueno, un saludo!]]></description>
+			<content:encoded><![CDATA[<p>Hola, recientemente he descubierto tu blog, todavia no sé muy bien como he llegdo hasta aqui jajaja, pero me encanta.<br />Me interesa mucho todo lo relacionado con la cultura japonesa, y la verdad es que estoy aprendieno mucho sobre ella gracias a tu blog.<br />Lo de ofrecer lecciones a cambio de comida es lo que más me ha impresionado, pobres, que mal lo deben estar pasando!!</p>
+<p>bueno, un saludo!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Planes rotos	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Mon, 30 Jun 2008 17:57:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Alan		</title>
+		<link>./../index.html#comment-3208</link>
+
+		<dc:creator><![CDATA[Alan]]></dc:creator>
+		<pubDate>Mon, 30 Jun 2008 17:57:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=455#comment-3208</guid>
+
+					<description><![CDATA[Suele pasar, creo que es común que al final no todo salga como lo planeas. Suerte con tu proyecto!!!]]></description>
+			<content:encoded><![CDATA[<p>Suele pasar, creo que es común que al final no todo salga como lo planeas. Suerte con tu proyecto!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Neki		</title>
+		<link>./../index.html#comment-3197</link>
+
+		<dc:creator><![CDATA[Neki]]></dc:creator>
+		<pubDate>Mon, 30 Jun 2008 07:49:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=455#comment-3197</guid>
+
+					<description><![CDATA[mas vale planes rotos que piernas rotas.]]></description>
+			<content:encoded><![CDATA[<p>mas vale planes rotos que piernas rotas.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: quicoto		</title>
+		<link>./../index.html#comment-3196</link>
+
+		<dc:creator><![CDATA[quicoto]]></dc:creator>
+		<pubDate>Mon, 30 Jun 2008 07:23:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=455#comment-3196</guid>
+
+					<description><![CDATA[las cosas nunca salen como uno querría... sino sería demasiado fácil :P&lt;br/&gt;&lt;br/&gt;Un saludo !]]></description>
+			<content:encoded><![CDATA[<p>las cosas nunca salen como uno querría&#8230; sino sería demasiado fácil <img src="./../../wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Un saludo !</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: enekochan		</title>
+		<link>./../index.html#comment-3195</link>
+
+		<dc:creator><![CDATA[enekochan]]></dc:creator>
+		<pubDate>Mon, 30 Jun 2008 07:12:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=455#comment-3195</guid>
+
+					<description><![CDATA[Lo que está claro es que Rappel no eres eh ;)&lt;br/&gt;&lt;br/&gt;Mira tu por donde el sabado puse yo una foto mia borrachuzo también xD mira mira http://enekochan.blogspot.com/2008/06/ay-que-contento-con-la-ikucamiseta.html]]></description>
+			<content:encoded><![CDATA[<p>Lo que está claro es que Rappel no eres eh <img src="./../../wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Mira tu por donde el sabado puse yo una foto mia borrachuzo también xD mira mira <a href="http://enekochan.blogspot.com/2008/06/ay-que-contento-con-la-ikucamiseta.html" rel="nofollow ugc">http://enekochan.blogspot.com/2008/06/ay-que-contento-con-la-ikucamiseta.html</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

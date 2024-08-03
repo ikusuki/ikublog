@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Tocaweber &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Mon, 03 Oct 2011 01:10:31 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>El tercer personaje</title>
+		<link>./../../../../el-segundo-personaje/index.html</link>
+					<comments>./../../../../el-segundo-personaje/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Sun, 02 Oct 2011 23:05:41 +0000</pubDate>
+				<category><![CDATA[Aguafiester]]></category>
+		<category><![CDATA[Amigos]]></category>
+		<category><![CDATA[Memes]]></category>
+		<category><![CDATA[Tocaweber]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=6914</guid>
+
+					<description><![CDATA[No tenía pensado exponer al que nos ocupa a la opinión pública hasta pasados unos días, pero ayer Kirai se curró otra viñeta donde se le menciona, así que me veo en la obligación moral de desclasificarle. Vamos a ello. Estábamos planeando el regalo de la despedida de nuestra Observer aún a riesgo de saber &#8230; <a href="./../../../../el-segundo-personaje/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">El tercer personaje</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>No tenía pensado exponer al que nos ocupa a la opinión pública hasta pasados unos días, pero ayer <a href="http://kirainet.com/">Kirai</a> se curró otra viñeta donde se le menciona, así que me veo en la obligación moral de desclasificarle. Vamos a ello.</p>
+<p><span style="font-size:150%">E</span>stábamos planeando el regalo de la despedida de nuestra <a href="./../../../../los-memes/index.html">Observer</a> aún a riesgo de saber que quizás estaba leyendo nuestros emails desde algún rincón, y lo que habíamos decidido regalarle no parecía que iba a llegar a tiempo para su fiesta. Alguien propuso entonces comprarle un ramo de flores y entregárselo allí mismo. Todos estuvimos de acuerdo, nos parecía muy buena idea que seguro que le haría ilusión y nos salvaba la situación con un regalo que seguro le iba a gustar. Después de un par de días preocupadísimos, finalmente estábamos entusiasmados </p>
+<p style="text-align:center; font-size:160%">Un momento&#8230; ¿todos?<br />¡¡ No amigos, todos no !!! </p>
+<p><a href="http://frikis.net/">Rodrigo</a> tenía su veredicto:</p>
+<blockquote><p>Por cierto, las flores van a ser el mejor regalo ever, súper cómodas para andar con ellas de arriba a abajo, xD </p></blockquote>
+<p>El xD del final no bastó para evitar el proceso memetizante. De un mundo paralelo vino el Rodrigolternate para quedarse&#8230;</p>
+<p></p>
+<p style="text-align:center; font-size:160%">.<br />.<br />.</p>
+<p></p>
+<p style="text-align:center"><img decoding="async" src="http://lh3.ggpht.com/-KtKchrj7zgU/TojpiHjmquI/AAAAAAABB6U/XQse7ty6ixs/tocaweber.jpg" alt="tocaweber.jpg" class="pie-img"><img style="margin:10px 0px 0px 0px;"/></img></p>
+<p>Pasemos a la viñeta que hizo <a href="http://kirainet.com/">Kirai</a>: </p>
+<p style="text-align:center; font-size:160%"><a href="./../../aguafiester/index.html">Aguafiester</a> featuring Tocaweber</p>
+<p style="text-align:center"><img fetchpriority="high" decoding="async" src="./../../../../wp-content/uploads/2011/10/6202773760_7fd152bd8d_o.jpg" alt="" title="6202773760_7fd152bd8d_o" width="576" height="3817" class="alignnone size-full wp-image-6922" /></p>
+<p><Br/><Br/><Br/></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../el-segundo-personaje/feed/index.html</wfw:commentRss>
+			<slash:comments>14</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6914</post-id>	</item>
+	</channel>
+</rss>

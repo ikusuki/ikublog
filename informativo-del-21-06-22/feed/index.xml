@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Informativo del 21/06/22	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Thu, 23 Jun 2022 08:44:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Tío Tosca		</title>
+		<link>./../index.html#comment-62353</link>
+
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Tue, 21 Jun 2022 08:16:08 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=10714#comment-62353</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;./../index.html#comment-62352&quot;&gt;Battosai&lt;/a&gt;.
+
+así voy a ir --&gt;  :gusteresque:]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="./../index.html#comment-62352">Battosai</a>.</p>
+<p>así voy a ir &#8211;>  <img src="./../../wp-includes/images/smilies/dance13fm0uv.gif" alt=":gusteresque:" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Battosai		</title>
+		<link>./../index.html#comment-62352</link>
+
+		<dc:creator><![CDATA[Battosai]]></dc:creator>
+		<pubDate>Tue, 21 Jun 2022 07:52:06 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=10714#comment-62352</guid>
+
+					<description><![CDATA[Pues empieza a entrenar sonrisa para cuando te toque renovarlo]]></description>
+			<content:encoded><![CDATA[<p>Pues empieza a entrenar sonrisa para cuando te toque renovarlo</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

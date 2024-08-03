@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: El abuelo de todos!	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Fri, 21 Sep 2007 07:16:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Saruli		</title>
+		<link>./../index.html#comment-821</link>
+
+		<dc:creator><![CDATA[Saruli]]></dc:creator>
+		<pubDate>Fri, 21 Sep 2007 07:16:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=212#comment-821</guid>
+
+					<description><![CDATA[Lo mas triste tiene q ser ver morir a gente q te rodea y pensar q tu te tenias q haber ido primero pienso yo...]]></description>
+			<content:encoded><![CDATA[<p>Lo mas triste tiene q ser ver morir a gente q te rodea y pensar q tu te tenias q haber ido primero pienso yo&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Kos		</title>
+		<link>./../index.html#comment-820</link>
+
+		<dc:creator><![CDATA[Kos]]></dc:creator>
+		<pubDate>Fri, 21 Sep 2007 06:11:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=212#comment-820</guid>
+
+					<description><![CDATA[Casualidad leí ayer la noticia en el periodico de que el hombre mas viejo ahora era japonés. Jodé, me pongo a temblar al pensar que puedo llegar a vivir tantos años. De todos modos, no creo que sea mi caso porque yo si bebo alcohol.]]></description>
+			<content:encoded><![CDATA[<p>Casualidad leí ayer la noticia en el periodico de que el hombre mas viejo ahora era japonés. Jodé, me pongo a temblar al pensar que puedo llegar a vivir tantos años. De todos modos, no creo que sea mi caso porque yo si bebo alcohol.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

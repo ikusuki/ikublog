@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: La mejor foto de Octubre	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Wed, 28 Sep 2011 01:43:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-1002</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Tue, 06 Nov 2007 20:23:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=251#comment-1002</guid>
+
+					<description><![CDATA[Cada vez escribes mejor...]]></description>
+			<content:encoded><![CDATA[<p>Cada vez escribes mejor&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: dat		</title>
+		<link>./../index.html#comment-1001</link>
+
+		<dc:creator><![CDATA[dat]]></dc:creator>
+		<pubDate>Tue, 06 Nov 2007 09:10:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=251#comment-1001</guid>
+
+					<description><![CDATA[Cuantos sentimientos de ternura y gratitud desprenden tus palabras Óskar.. &lt;br/&gt;&lt;br/&gt;Sólo puedo decir, que gracias a tus experiencias vividas allí, &quot;nosotros&quot; te hemos acompañado y hemos aprendido un poquito más esa gran cultura que a través de tus ojos y de tus palabras nos ha hecho vivir sensaciones únicas...&lt;br/&gt;Gracias a tí, Óskar!!]]></description>
+			<content:encoded><![CDATA[<p>Cuantos sentimientos de ternura y gratitud desprenden tus palabras Óskar.. </p>
+<p>Sólo puedo decir, que gracias a tus experiencias vividas allí, «nosotros» te hemos acompañado y hemos aprendido un poquito más esa gran cultura que a través de tus ojos y de tus palabras nos ha hecho vivir sensaciones únicas&#8230;<br />Gracias a tí, Óskar!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Soitu &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Thu, 23 Jul 2009 01:43:37 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>¡Ikusoitu!</title>
+		<link>./../../../%c2%a1ikusoitu/index.html</link>
+					<comments>./../../../%c2%a1ikusoitu/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Thu, 23 Jul 2009 01:43:37 +0000</pubDate>
+				<category><![CDATA[Soitu]]></category>
+		<category><![CDATA[Tokyo]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1265</guid>
+
+					<description><![CDATA[Mi vida en 20 metros cuadrados Otros ikusoitus: Un día cualquiera en la ciudad más cara del mundo Sayonara sale Esas cosas que te han contado de los japoneses]]></description>
+										<content:encoded><![CDATA[<p></p>
+<p style="text-align:center; font-size:180%"><a href="http://www.soitu.es/soitu/2009/07/21/vidaurbana/1248166239_325556.html">Mi vida en 20 metros cuadrados</a></p>
+<p>Otros ikusoitus:</p>
+<p><a href="http://www.soitu.es/soitu/2009/03/10/vidaurbana/1236681720_139260.html">Un día cualquiera en la ciudad más cara del mundo</a><br />
+<a href="http://www.soitu.es/soitu/2009/02/02/vidaurbana/1233569137_410048.html">Sayonara sale</a><br />
+<a href="http://www.soitu.es/soitu/2008/11/14/vidaurbana/1226663860_095013.html">Esas cosas que te han contado de los japoneses<br />
+</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../%c2%a1ikusoitu/feed/index.html</wfw:commentRss>
+			<slash:comments>16</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1265</post-id>	</item>
+	</channel>
+</rss>

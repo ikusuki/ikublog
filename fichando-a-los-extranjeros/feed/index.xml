@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Fichando a los extranjeros	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 30 Oct 2007 23:02:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-984</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Tue, 30 Oct 2007 23:02:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=245#comment-984</guid>
+
+					<description><![CDATA[Lupin III tendría que urdir alguno de sus planes para pasar desapercibido entre tanta vigilancia]]></description>
+			<content:encoded><![CDATA[<p>Lupin III tendría que urdir alguno de sus planes para pasar desapercibido entre tanta vigilancia</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Winnie		</title>
+		<link>./../index.html#comment-982</link>
+
+		<dc:creator><![CDATA[Winnie]]></dc:creator>
+		<pubDate>Tue, 30 Oct 2007 14:38:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=245#comment-982</guid>
+
+					<description><![CDATA[En mi opinion, se ha creado mucha paranoia, pero tambien es por nuestra seguridad... se han visto tantas cosas impensables, que solo pensabas que podian suceder en las pelis, que ni tan mal.&lt;br/&gt;&lt;br/&gt;Comprendo que para la gente que viaja mucho tiene que ser una tortura estar todo el dia pasando controles y haciendo fichas... es como lo de tener que llevar los productos de aseo (liquidos y esas cosas) en una bolsa no mas grande que de 1litro. &lt;br/&gt;Pero es todo por nuestra seguridad, si no hubiese tanto loco suelto por el mundo no se llegarian a esas cosas&lt;br/&gt;&lt;br/&gt;SALUDINES!!!]]></description>
+			<content:encoded><![CDATA[<p>En mi opinion, se ha creado mucha paranoia, pero tambien es por nuestra seguridad&#8230; se han visto tantas cosas impensables, que solo pensabas que podian suceder en las pelis, que ni tan mal.</p>
+<p>Comprendo que para la gente que viaja mucho tiene que ser una tortura estar todo el dia pasando controles y haciendo fichas&#8230; es como lo de tener que llevar los productos de aseo (liquidos y esas cosas) en una bolsa no mas grande que de 1litro. <br />Pero es todo por nuestra seguridad, si no hubiese tanto loco suelto por el mundo no se llegarian a esas cosas</p>
+<p>SALUDINES!!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirigiendo...</title>
+		<meta http-equiv="refresh" content="0;url=.//doburokku/feed/">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = ".//doburokku/feed/";
+		</script>
+
+		<p>Estás siendo redirigido a <a href=".//doburokku/feed/">.//doburokku/feed/</a></p>
+	</body>
+</html>

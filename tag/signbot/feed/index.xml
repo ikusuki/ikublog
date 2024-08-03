@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>signbot &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 28 Nov 2006 19:48:00 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Fuera publicidad</title>
+		<link>./../../../fuera-publicidad/index.html</link>
+					<comments>./../../../fuera-publicidad/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Tue, 28 Nov 2006 19:48:00 +0000</pubDate>
+				<category><![CDATA[inocente]]></category>
+		<category><![CDATA[signbot]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=44</guid>
+
+					<description><![CDATA[Aunque en la encuesta nos decís que no os molesta la publicidad de Google, hemos reflexionado y la verdad es que no la necesitamos para nada. Así que la quitamos, ale. Y de paso inauguramos nueva encuesta&#8230;]]></description>
+										<content:encoded><![CDATA[<p>Aunque en la encuesta nos decís que no os molesta la publicidad de Google, hemos reflexionado y la verdad es que no la necesitamos para nada.</p>
+<p>Así que la quitamos, ale. Y de paso inauguramos nueva encuesta&#8230;</p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://photos1.blogger.com/blogger2/2723/4398/1600/Y590fbHAlB.gif"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://photos1.blogger.com/blogger2/2723/4398/400/Y590fbHAlB.gif" alt="" border="0" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../fuera-publicidad/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">44</post-id>	</item>
+	</channel>
+</rss>

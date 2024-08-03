@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Sensei &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Fri, 13 Feb 2009 07:54:00 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Me voy&#8230;</title>
+		<link>./../../../me-voy/index.html</link>
+					<comments>./../../../me-voy/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Fri, 13 Feb 2009 07:54:00 +0000</pubDate>
+				<category><![CDATA[Japón]]></category>
+		<category><![CDATA[Karate]]></category>
+		<category><![CDATA[Tokyo]]></category>
+		<category><![CDATA[Sensei]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=678</guid>
+
+					<description><![CDATA[&#8230; que tengo un miedo que enfrentar&#8230;]]></description>
+										<content:encoded><![CDATA[<p>&#8230; que tengo <a href="http://ikusuki.blogspot.com/2009/02/por-principios.html">un miedo que enfrentar</a>&#8230;</p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.ggpht.com/_pE6wnLeL87o/SZTjNvP68yI/AAAAAAAAdmY/8tQ4KhLBn2s/s576/DSC07901.JPG"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 576px; height: 432px;" src="http://lh5.ggpht.com/_pE6wnLeL87o/SZTjNvP68yI/AAAAAAAAdmY/8tQ4KhLBn2s/s576/DSC07901.JPG" alt="" border="0" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.ggpht.com/_pE6wnLeL87o/SZTjOm7d12I/AAAAAAAAdmk/-6QpNd3EdI8/s576/DSC07902.JPG"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 576px; height: 432px;" src="http://lh4.ggpht.com/_pE6wnLeL87o/SZTjOm7d12I/AAAAAAAAdmk/-6QpNd3EdI8/s576/DSC07902.JPG" alt="" border="0" /></a></p>
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../me-voy/feed/index.html</wfw:commentRss>
+			<slash:comments>24</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">678</post-id>	</item>
+	</channel>
+</rss>

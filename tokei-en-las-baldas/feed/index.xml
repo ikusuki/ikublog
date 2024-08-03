@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Tokei en las baldas!	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Sat, 16 Feb 2008 11:16:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Nagore		</title>
+		<link>./../index.html#comment-1589</link>
+
+		<dc:creator><![CDATA[Nagore]]></dc:creator>
+		<pubDate>Sat, 16 Feb 2008 11:16:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=336#comment-1589</guid>
+
+					<description><![CDATA[Hay un complot para que me ganen a mi... romperé con las ventas este año tambien y lo sabeis... a mi no me gana nadie a comprar jajaja... X ahora sí... xq las chicas tenemos q esperar q sino... se iba a enterar de quien soy yo Lupin III...]]></description>
+			<content:encoded><![CDATA[<p>Hay un complot para que me ganen a mi&#8230; romperé con las ventas este año tambien y lo sabeis&#8230; a mi no me gana nadie a comprar jajaja&#8230; X ahora sí&#8230; xq las chicas tenemos q esperar q sino&#8230; se iba a enterar de quien soy yo Lupin III&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Neki		</title>
+		<link>./../index.html#comment-1588</link>
+
+		<dc:creator><![CDATA[Neki]]></dc:creator>
+		<pubDate>Fri, 15 Feb 2008 07:10:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=336#comment-1588</guid>
+
+					<description><![CDATA[para mi que la direccion esa de los chiribolos tiene alguna errata, porque no oacabo de entenderla muy bien.]]></description>
+			<content:encoded><![CDATA[<p>para mi que la direccion esa de los chiribolos tiene alguna errata, porque no oacabo de entenderla muy bien.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Bea		</title>
+		<link>./../index.html#comment-1587</link>
+
+		<dc:creator><![CDATA[Bea]]></dc:creator>
+		<pubDate>Fri, 15 Feb 2008 06:25:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=336#comment-1587</guid>
+
+					<description><![CDATA[Adjudicada! La primera a Lupin III.&lt;br/&gt;Toscano, tan ganau!&lt;br/&gt;;)]]></description>
+			<content:encoded><![CDATA[<p>Adjudicada! La primera a Lupin III.<br />Toscano, tan ganau!<br /><img src="./../../wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-1586</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Fri, 15 Feb 2008 06:16:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=336#comment-1586</guid>
+
+					<description><![CDATA[Madre mía, madre mía... yo me compro ya pero ya de ya...!!!!!&lt;br/&gt;&lt;br/&gt;A romper el cerdito voy...!!!!!]]></description>
+			<content:encoded><![CDATA[<p>Madre mía, madre mía&#8230; yo me compro ya pero ya de ya&#8230;!!!!!</p>
+<p>A romper el cerdito voy&#8230;!!!!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Motrollones de gente	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Thu, 04 Oct 2007 13:52:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Saruli		</title>
+		<link>./../index.html#comment-872</link>
+
+		<dc:creator><![CDATA[Saruli]]></dc:creator>
+		<pubDate>Thu, 04 Oct 2007 13:52:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=221#comment-872</guid>
+
+					<description><![CDATA[Buff, creo q me pondria enferma. Yo me agobio muchisimo cuando hay tanta gente...]]></description>
+			<content:encoded><![CDATA[<p>Buff, creo q me pondria enferma. Yo me agobio muchisimo cuando hay tanta gente&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: kos		</title>
+		<link>./../index.html#comment-870</link>
+
+		<dc:creator><![CDATA[kos]]></dc:creator>
+		<pubDate>Thu, 04 Oct 2007 09:08:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=221#comment-870</guid>
+
+					<description><![CDATA[Yo, mientras estuviera telle a mi lado no me importaria...]]></description>
+			<content:encoded><![CDATA[<p>Yo, mientras estuviera telle a mi lado no me importaria&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Dat		</title>
+		<link>./../index.html#comment-869</link>
+
+		<dc:creator><![CDATA[Dat]]></dc:creator>
+		<pubDate>Thu, 04 Oct 2007 07:04:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=221#comment-869</guid>
+
+					<description><![CDATA[¡Buff... con las prisas con las que ando yo siempre.. estaría todo el rato pegándome con la gente!! Qué estrés!! ja.ja.&lt;br/&gt;&lt;br/&gt;/Mucho, mucho ruido,&lt;br/&gt;tanto, tanto ruido.../ :)]]></description>
+			<content:encoded><![CDATA[<p>¡Buff&#8230; con las prisas con las que ando yo siempre.. estaría todo el rato pegándome con la gente!! Qué estrés!! ja.ja.</p>
+<p>/Mucho, mucho ruido,<br />tanto, tanto ruido&#8230;/ <img src="./../../wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Telle		</title>
+		<link>./../index.html#comment-868</link>
+
+		<dc:creator><![CDATA[Telle]]></dc:creator>
+		<pubDate>Thu, 04 Oct 2007 06:36:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=221#comment-868</guid>
+
+					<description><![CDATA[No se, parece bastante agobiante.  Es complicado acostumbrarse a tanta marabunta!]]></description>
+			<content:encoded><![CDATA[<p>No se, parece bastante agobiante.  Es complicado acostumbrarse a tanta marabunta!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Anonymous		</title>
+		<link>./../index.html#comment-867</link>
+
+		<dc:creator><![CDATA[Anonymous]]></dc:creator>
+		<pubDate>Wed, 03 Oct 2007 15:51:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=221#comment-867</guid>
+
+					<description><![CDATA[jajaja! xD&lt;br/&gt;yo siempre me quedo embobada cuando ponen alguna paronamica de las ciudades de Tokyo, hay tanta gente!&lt;br/&gt;Lastima que no pueda ver ninguna de las imagenes T.T    ~Inusha-chan]]></description>
+			<content:encoded><![CDATA[<p>jajaja! xD<br />yo siempre me quedo embobada cuando ponen alguna paronamica de las ciudades de Tokyo, hay tanta gente!<br />Lastima que no pueda ver ninguna de las imagenes T.T    ~Inusha-chan</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

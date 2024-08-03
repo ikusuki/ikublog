@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Ikusuki in the world	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Fri, 18 May 2007 01:14:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-295</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Fri, 18 May 2007 01:14:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=101#comment-295</guid>
+
+					<description><![CDATA[Eh, un Toscano puede posar todo lo que quiera y más!!!! jaja&lt;br/&gt;&lt;br/&gt;Aprovecho el comentario este infiltrado para dar un resultado parcial de las votaciones:&lt;br/&gt;&lt;br/&gt;Va ganando Kurosuwado, seguida muy de cerca por el Caracol.&lt;br/&gt;&lt;br/&gt;Del oso no se acuerda ni Blas!]]></description>
+			<content:encoded><![CDATA[<p>Eh, un Toscano puede posar todo lo que quiera y más!!!! jaja</p>
+<p>Aprovecho el comentario este infiltrado para dar un resultado parcial de las votaciones:</p>
+<p>Va ganando Kurosuwado, seguida muy de cerca por el Caracol.</p>
+<p>Del oso no se acuerda ni Blas!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Nagore		</title>
+		<link>./../index.html#comment-292</link>
+
+		<dc:creator><![CDATA[Nagore]]></dc:creator>
+		<pubDate>Thu, 17 May 2007 17:34:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=101#comment-292</guid>
+
+					<description><![CDATA[Chato, que en el Bilbao Live Festival ese que tenemos en Bilbo en Junio, haré promoción ya me conoces... todo sea por los Ikusukis q nos kedan por ver...&lt;br/&gt;Un besazo desde mi cursillo de JAVA jajaja...&lt;br/&gt;Gracias por poner mi foto de London...]]></description>
+			<content:encoded><![CDATA[<p>Chato, que en el Bilbao Live Festival ese que tenemos en Bilbo en Junio, haré promoción ya me conoces&#8230; todo sea por los Ikusukis q nos kedan por ver&#8230;<br />Un besazo desde mi cursillo de JAVA jajaja&#8230;<br />Gracias por poner mi foto de London&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Sara		</title>
+		<link>./../index.html#comment-281</link>
+
+		<dc:creator><![CDATA[Sara]]></dc:creator>
+		<pubDate>Wed, 16 May 2007 09:53:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=101#comment-281</guid>
+
+					<description><![CDATA[Hay que ver como bebe Nagore, jajajaja! sales muy guapa chata!!! y el Ceto este como posa, no? jajaja]]></description>
+			<content:encoded><![CDATA[<p>Hay que ver como bebe Nagore, jajajaja! sales muy guapa chata!!! y el Ceto este como posa, no? jajaja</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Misión cumplida!	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Mon, 30 Apr 2007 22:57:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Jon		</title>
+		<link>./../index.html#comment-244</link>
+
+		<dc:creator><![CDATA[Jon]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 22:57:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=91#comment-244</guid>
+
+					<description><![CDATA[&quot;Aceitunas y Jalapeños que pican al entrar y repican al salir!!!&quot; JAJAJA, que bueno xDDD&lt;br/&gt;&lt;br/&gt;Un saludote!]]></description>
+			<content:encoded><![CDATA[<p>«Aceitunas y Jalapeños que pican al entrar y repican al salir!!!» JAJAJA, que bueno xDDD</p>
+<p>Un saludote!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Telle		</title>
+		<link>./../index.html#comment-236</link>
+
+		<dc:creator><![CDATA[Telle]]></dc:creator>
+		<pubDate>Thu, 19 Apr 2007 14:04:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=91#comment-236</guid>
+
+					<description><![CDATA[Jode chaval que bien te lo estas montando...&lt;br/&gt;&lt;br/&gt;Ya nos contarás que tal sabe el chorizo ahumao ese...en la vida lo había visto!!]]></description>
+			<content:encoded><![CDATA[<p>Jode chaval que bien te lo estas montando&#8230;</p>
+<p>Ya nos contarás que tal sabe el chorizo ahumao ese&#8230;en la vida lo había visto!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Fortes		</title>
+		<link>./../index.html#comment-235</link>
+
+		<dc:creator><![CDATA[Fortes]]></dc:creator>
+		<pubDate>Thu, 19 Apr 2007 12:34:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=91#comment-235</guid>
+
+					<description><![CDATA[O sea que los reyes magos en Japon vienen en primavera eh? vaya tela!!&lt;br/&gt;No te lo comas todo del tirón, que sino te va a sentar mal.&lt;br/&gt;Venga, cuídate]]></description>
+			<content:encoded><![CDATA[<p>O sea que los reyes magos en Japon vienen en primavera eh? vaya tela!!<br />No te lo comas todo del tirón, que sino te va a sentar mal.<br />Venga, cuídate</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

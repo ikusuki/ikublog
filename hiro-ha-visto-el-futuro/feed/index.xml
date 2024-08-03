@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Hiro ha visto el futuro!	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 28 Nov 2006 20:13:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-68</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Tue, 28 Nov 2006 20:13:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=42#comment-68</guid>
+
+					<description><![CDATA[Ya ya! jajaja estáis en todo!&lt;br /&gt;Pero la gracia venía precisamente por eso, porque es el japonés el que lo pinta en japonés!&lt;br /&gt;&lt;br /&gt;Y más o menos iba por ahí, la kotoba es el futuro... así como el verano del 2007, jajaja&lt;br /&gt;&lt;br /&gt;A ver si se cumple!]]></description>
+			<content:encoded><![CDATA[<p>Ya ya! jajaja estáis en todo!<br />Pero la gracia venía precisamente por eso, porque es el japonés el que lo pinta en japonés!</p>
+<p>Y más o menos iba por ahí, la kotoba es el futuro&#8230; así como el verano del 2007, jajaja</p>
+<p>A ver si se cumple!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Gautxoron		</title>
+		<link>./../index.html#comment-65</link>
+
+		<dc:creator><![CDATA[Gautxoron]]></dc:creator>
+		<pubDate>Tue, 28 Nov 2006 15:38:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=42#comment-65</guid>
+
+					<description><![CDATA[Muy bueno! Aunque un detalle: Hiro no es el que pinta el futuro, cualquiera de los otros dos habría valido. Eso sí, al ser japonés pega más que pinte una de vuestras camisetas. ¿Se supone que la camiseta negra es el futuro? ja.jajaja, ¿tan futuro como el verano que viene?]]></description>
+			<content:encoded><![CDATA[<p>Muy bueno! Aunque un detalle: Hiro no es el que pinta el futuro, cualquiera de los otros dos habría valido. Eso sí, al ser japonés pega más que pinte una de vuestras camisetas. ¿Se supone que la camiseta negra es el futuro? ja.jajaja, ¿tan futuro como el verano que viene?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

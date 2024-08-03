@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Rayos y Centellas &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Mon, 18 May 2009 02:59:00 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Japanoise night</title>
+		<link>./../../../japanoise-night/index.html</link>
+					<comments>./../../../japanoise-night/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Mon, 18 May 2009 02:59:00 +0000</pubDate>
+				<category><![CDATA[Rayos y Centellas]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=776</guid>
+
+					<description><![CDATA[O, como diría un bilbaíno, «La noche japonesa del ruido del copón, pues«. En la invitación al evento ponía: «Una oportunidad para ver en una misma noche a los 30 músicos, bailarines y artistas más activos de la escena underground de Tokyo. Ven si buscas:&#8211; Ruido&#8211; Música experimental&#8211; Improvisación Tal día a tal hora en &#8230; <a href="./../../../japanoise-night/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Japanoise night</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>O, como diría un bilbaíno, «La noche japonesa del ruido del copón, <span style="font-weight: bold;">pues</span>«.</p>
+<p>En la invitación al evento ponía:</p>
+<p>«<span style="font-style: italic;">Una oportunidad para ver en una misma noche a los 30 músicos, bailarines y artistas más activos de la escena underground de Tokyo.</span></p>
+<p><span style="font-style: italic;">Ven si buscas:</span><br /><span style="font-style: italic;">&#8211; Ruido</span><br /><span style="font-style: italic;">&#8211; Música experimental</span><br /><span style="font-style: italic;">&#8211; Improvisación</span></p>
+<p><span style="font-style: italic;">Tal día a tal hora en tal sitio.com</span>«</p>
+<p>Yo me apunto a todo menos a dar de comer al pastababas, así que me fuí al único sitio de Tokyo donde nunca dicen no a la bulla:</p>
+<div style="text-align: center;"><span style="font-weight: bold;font-size:180%;" >¡Shibuya!</span><br /><span style="font-size:85%;">(badabum plasssss!!, redoble de tambores!!, diversión  sin límites!!)</span></div>
+<p>Era un bareto con una sala pequeñita para dar conciertos, no cabrían más de treinta personas allí dentro. Yo la verdad es que no tenía nada claro de qué iba el asunto, pero enseguida me lo aclararon en cuanto empezaron allí a tocar.</p>
+<p>Habrá mil definiciones para esto, pero aquí va la mía: se trata de ponerte nervioso, de inquietarte, de que te sientas incómodo. La música no es música, es simplemente ruido orquestado, mezclado con sonidos electrónicos, batería y sin melodia alguna. Y a la vez hay alguien haciendo algún tipo de coreografía extraña, escalofriante, como si estuvieran piraos, pero pirao de los peligrosos.</p>
+<div style="text-align: center;"><span style="font-size:130%;"><span style="font-weight: bold;">¡¡Menudos gestos!! ¡¡menudas movidas hacían ahí!!</span><br /></span></div>
+<p>Hubo algo así como cinco actuaciones distintas, y si os digo la verdad, a mi me gustó mucho la última. Supongo que me acostumbré al ruidaco y empecé a entender un poco de que iba el lío. Me contaron que es un movimiento underground de Tokyo, que tiene cierta fama aunque siempre en garitos pequeños y que no es en absoluto mayoritario. Doy fé, jodé que si doy fé.</p>
+<p>Ahí va un video remezclao con todo lo que grabé:</p>
+<div style="text-align: center;"><object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/kzqKjSJFw14&amp;hl=en&amp;fs=1&amp;hd=1"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"></object></div>
+<p>Os habéis quedao chatos, ¿eh?, hay que ver, si es que lo que os cuenta el Tío Tosca no os lo cuenta nadie!! la vida arriesgo por vosotros,<span style="font-weight:bold;"> la vida!!</span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../japanoise-night/feed/index.html</wfw:commentRss>
+			<slash:comments>20</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">776</post-id>	</item>
+	</channel>
+</rss>

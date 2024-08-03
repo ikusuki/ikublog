@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Ikumonólogo	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 03:33:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Txisko		</title>
+		<link>./../index.html#comment-1094</link>
+
+		<dc:creator><![CDATA[Txisko]]></dc:creator>
+		<pubDate>Wed, 28 Nov 2007 05:27:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=260#comment-1094</guid>
+
+					<description><![CDATA[Cada post nuevo que leo del blog este me deja mas flipao. Ahi va la ostia Koki, eres multifaceto o como coño se diga. Lo mismo te plantas una historia de llorar que te cascas un monologo estilo buenafuente&lt;br/&gt;&lt;br/&gt;Q artista tas hecho!]]></description>
+			<content:encoded><![CDATA[<p>Cada post nuevo que leo del blog este me deja mas flipao. Ahi va la ostia Koki, eres multifaceto o como coño se diga. Lo mismo te plantas una historia de llorar que te cascas un monologo estilo buenafuente</p>
+<p>Q artista tas hecho!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-1038</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Sat, 17 Nov 2007 11:20:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=260#comment-1038</guid>
+
+					<description><![CDATA[Ja,  jaaa...&lt;br/&gt;&lt;br/&gt;Parece que me estás describiendo... eso del pelo que desaparece del tapacerebros y repuebla la espalda, las orejas, etc...&lt;br/&gt;&lt;br/&gt;Me he reído un rato largo... muy bueno...]]></description>
+			<content:encoded><![CDATA[<p>Ja,  jaaa&#8230;</p>
+<p>Parece que me estás describiendo&#8230; eso del pelo que desaparece del tapacerebros y repuebla la espalda, las orejas, etc&#8230;</p>
+<p>Me he reído un rato largo&#8230; muy bueno&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

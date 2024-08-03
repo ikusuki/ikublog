@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Montando un restaurante	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 05:02:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: almu		</title>
+		<link>./../index.html#comment-5076</link>
+
+		<dc:creator><![CDATA[almu]]></dc:creator>
+		<pubDate>Tue, 21 Oct 2008 07:34:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=573#comment-5076</guid>
+
+					<description><![CDATA[Espero que tenga fondo, porque ancho lo es mucho....]]></description>
+			<content:encoded><![CDATA[<p>Espero que tenga fondo, porque ancho lo es mucho&#8230;.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: OaBy		</title>
+		<link>./../index.html#comment-5069</link>
+
+		<dc:creator><![CDATA[OaBy]]></dc:creator>
+		<pubDate>Tue, 21 Oct 2008 05:01:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=573#comment-5069</guid>
+
+					<description><![CDATA[Terceras y cuartas plantas, capacidad total 80 personas!! Echo de menos que dentro de los edificios, en cualquier planta, haya negocios como pubs, restaurantes, peluquerías o boutiques. Qué gracia tenía eso]]></description>
+			<content:encoded><![CDATA[<p>Terceras y cuartas plantas, capacidad total 80 personas!! Echo de menos que dentro de los edificios, en cualquier planta, haya negocios como pubs, restaurantes, peluquerías o boutiques. Qué gracia tenía eso</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

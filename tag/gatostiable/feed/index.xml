@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Gatostiable &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Thu, 12 Nov 2009 08:44:40 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Gatostiable Hunters &#8211; La misión</title>
+		<link>./../../../gatostiable-hunters-la-mision/index.html</link>
+					<comments>./../../../gatostiable-hunters-la-mision/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2009 02:51:01 +0000</pubDate>
+				<category><![CDATA[Amigos]]></category>
+		<category><![CDATA[Gatostiable]]></category>
+		<category><![CDATA[Videos]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=2839</guid>
+
+					<description><![CDATA[El entrenamiento y la preparación fueron duros, el jóven y osado Urías puso criadillas en el asunto y llevó a cabo su misión en medio de una piara de críos de gusto revirado y padres de ésos que no ponen atención a la educación de sus vástagos. Qué vergüenza, qué sindios y qué dislate que &#8230; <a href="./../../../gatostiable-hunters-la-mision/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Gatostiable Hunters &#8211; La misión</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>El <a href="http://laarcadiadeurias.net/2009/11/10/the-gatostiable-hunter-1de2/">entrenamiento </a>y <a href="http://www.quicoto.com/gatostiable-hunter-making-of/">la preparación</a> fueron duros, <a href="http://laarcadiadeurias.net/2009/11/11/the-gatostiable-hunter-22/">el jóven y osado Urías</a> puso criadillas en el asunto y llevó a cabo su misión en medio de una piara de críos de gusto revirado y padres de ésos que no ponen atención a la educación de sus vástagos. Qué vergüenza, qué sindios y qué dislate que el Gobierno no haga nada aquí. Pero, en fin, para ésto estamos nosotros&#8230;<br />
+</p>
+<div style="text-align:center;">
+<p><a href="//www.youtube.com/watch?v=xP-YgD_DGl4&#038;fmt=18">//www.youtube.com/watch?v=xP-YgD_DGl4</a></p>
+<p><a href="//www.youtube.com/watch?v=xP-YgD_DGl4&#038;fmt=18"><img decoding="async" src="//img.youtube.com/vi/xP-YgD_DGl4/default.jpg" width="130" height="97" border=0></a></p>
+</div>
+<p><i></p>
+<p style="font-size:140%">Misiones más habrá, mi jóven Padawan de barbuda faz, </p>
+<p style="font-size:130%; text-align:right">
+el Gatostiable ser ostiado su sino es, sin duda.</p>
+<p style="font-size:120%; text-align:left">
+Paciencia tener debemos&#8230;.oh si,</p>
+<p style="font-size:110%; text-align:right">
+&#8230;paciencia tener debemos&#8230;</p>
+<p></i></p>
+<p style="text-align:center"><img src="./../../../wp-includes/images/smilies/gatost.gif" alt=":gatostiable:" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../gatostiable-hunters-la-mision/feed/index.html</wfw:commentRss>
+			<slash:comments>24</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2839</post-id>	</item>
+	</channel>
+</rss>

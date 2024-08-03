@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Cuando los tópicos se hacen notar	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:46:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: accenturecustomerworkslepaso		</title>
+		<link>./../index.html#comment-643</link>
+
+		<dc:creator><![CDATA[accenturecustomerworkslepaso]]></dc:creator>
+		<pubDate>Mon, 06 Aug 2007 10:47:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=170#comment-643</guid>
+
+					<description><![CDATA[No creo q sea cuestion de la nacionalidad el entenderse, sino de las personas...&lt;br/&gt;Aqui se te echa de menos.&lt;br/&gt;Un abrazo Tosca]]></description>
+			<content:encoded><![CDATA[<p>No creo q sea cuestion de la nacionalidad el entenderse, sino de las personas&#8230;<br />Aqui se te echa de menos.<br />Un abrazo Tosca</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: nora		</title>
+		<link>./../index.html#comment-637</link>
+
+		<dc:creator><![CDATA[nora]]></dc:creator>
+		<pubDate>Fri, 03 Aug 2007 00:15:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=170#comment-637</guid>
+
+					<description><![CDATA[Saber entenderse a pesar de ser diferentes... me alegro que seas una de las personas que piensan así. Bonita entrada...&lt;br/&gt;Saludos!]]></description>
+			<content:encoded><![CDATA[<p>Saber entenderse a pesar de ser diferentes&#8230; me alegro que seas una de las personas que piensan así. Bonita entrada&#8230;<br />Saludos!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: MeriScubi		</title>
+		<link>./../index.html#comment-636</link>
+
+		<dc:creator><![CDATA[MeriScubi]]></dc:creator>
+		<pubDate>Thu, 02 Aug 2007 17:09:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=170#comment-636</guid>
+
+					<description><![CDATA[Bueno, yo trabajo tambien con unos cuantos personajes curiosos con apodos de animales pero si no fuera por ellos y sus peculiaridades seria aburridisimo.&lt;br/&gt;&lt;br/&gt;Viva la diversidad!!!&lt;br/&gt;&lt;br/&gt;Besis,&lt;br/&gt;&lt;br/&gt;Fredja]]></description>
+			<content:encoded><![CDATA[<p>Bueno, yo trabajo tambien con unos cuantos personajes curiosos con apodos de animales pero si no fuera por ellos y sus peculiaridades seria aburridisimo.</p>
+<p>Viva la diversidad!!!</p>
+<p>Besis,</p>
+<p>Fredja</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

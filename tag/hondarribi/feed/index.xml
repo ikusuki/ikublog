@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Hondarribi &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Sat, 28 Oct 2006 15:59:00 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Estamos de gira!</title>
+		<link>./../../../estamos-de-gira/index.html</link>
+					<comments>./../../../estamos-de-gira/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Sat, 28 Oct 2006 15:59:00 +0000</pubDate>
+				<category><![CDATA[Hondarribi]]></category>
+		<category><![CDATA[Ikusuki]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=29</guid>
+
+					<description><![CDATA[Desde el jueves estamos haciendo de anfitriones de dos amigos japoneses que han venido a vernos. Como el tiempo está siendo increible con una temperatura media superior a 20ºC a pesar de que casi estamos en noviembre, les hemos llevado a ver lo mejor de por aquí.Entre pintxos y txakolís, hemos visitado Bilbao, Donosti, Hondarribi, &#8230; <a href="./../../../estamos-de-gira/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Estamos de gira!</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Desde el jueves estamos haciendo de anfitriones de dos amigos japoneses que han venido a vernos. Como el tiempo está siendo increible con una temperatura media superior a 20ºC a pesar de que casi estamos en noviembre, les hemos llevado a ver lo mejor de por aquí.<br />Entre pintxos y txakolís, hemos visitado <a href="http://www.ikusuki.com/sup/Euskadi3dias.html">Bilbao</a>, <a href="http://www.donostia.org/CAT/Home.nsf/fwbienvenida">Donosti</a>, <a href="http://www.hondarribia.org/">Hondarribi</a>, <a href="http://www.bermeo.org/">Bermeo</a>, <a dragover="true" href="http://www.pbase.com/cyracuse/san_juan_de_gaztelugatxeko_">San Juán de Gaztelugatxe</a>&#8230; y mañana, como despedida, comeremos en el <a dragover="true" href="http://www.bilbao.bi/punto/674/puerto/algorta/">puerto viejo de Algorta</a>.</p>
+<div style="text-align: left;">Nosotros nos hemos puesto nuestras camisetas, faltaría más, y nos hemos sacado alguna que otra foto:</p>
+<div style="text-align: center;"><a dragover="true" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://photos1.blogger.com/blogger2/2723/4398/1600/Donosti%20Kotoba.jpg"><img decoding="async" dragover="true" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://photos1.blogger.com/blogger2/2723/4398/400/Donosti%20Kotoba.jpg" alt="" border="0" /></a><span style="font-size:78%;"><span style="font-style: italic; color: rgb(153, 255, 255);">En el puerto de Donosti haciendo el ikusuki</span></span></div>
+</div>
+<p></p>
+<div style="text-align: center;"><a dragover="true" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://photos1.blogger.com/blogger2/2723/4398/1600/Hondarribi%20cienpies.jpg"><img decoding="async" dragover="true" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://photos1.blogger.com/blogger2/2723/4398/400/Hondarribi%20cienpies.jpg" alt="" border="0" /></a><span style="font-size:78%;"><span style="font-style: italic; color: rgb(153, 255, 255);">El cienpiés en Hondarribi</p>
+<p></span></span></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../estamos-de-gira/feed/index.html</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">29</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Comprando té	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Fri, 25 Nov 2011 01:24:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-1227</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Wed, 19 Dec 2007 19:47:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=288#comment-1227</guid>
+
+					<description><![CDATA[Alaaaaaa.... menuda tetada te vas a tomar.. como mola...&lt;br/&gt;&lt;br/&gt;Yo me tomo esto y estoy regando las plantas durante hora y media...]]></description>
+			<content:encoded><![CDATA[<p>Alaaaaaa&#8230;. menuda tetada te vas a tomar.. como mola&#8230;</p>
+<p>Yo me tomo esto y estoy regando las plantas durante hora y media&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Bea		</title>
+		<link>./../index.html#comment-1216</link>
+
+		<dc:creator><![CDATA[Bea]]></dc:creator>
+		<pubDate>Mon, 17 Dec 2007 20:46:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=288#comment-1216</guid>
+
+					<description><![CDATA[Anda que no te drogas tu ni nada.&lt;br/&gt;&lt;br/&gt;Se paece al aceite oliventino que estoy catando ultimamente. Gracias ToscaFamily!]]></description>
+			<content:encoded><![CDATA[<p>Anda que no te drogas tu ni nada.</p>
+<p>Se paece al aceite oliventino que estoy catando ultimamente. Gracias ToscaFamily!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

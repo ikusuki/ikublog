@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Aventura Japonesa	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 13 Feb 2007 08:08:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-91</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Tue, 13 Feb 2007 08:08:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=59#comment-91</guid>
+
+					<description><![CDATA[Pues el mes que viene.... ya pondremos fotos de Ikusuki en Asakusa!]]></description>
+			<content:encoded><![CDATA[<p>Pues el mes que viene&#8230;. ya pondremos fotos de Ikusuki en Asakusa!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Jon		</title>
+		<link>./../index.html#comment-90</link>
+
+		<dc:creator><![CDATA[Jon]]></dc:creator>
+		<pubDate>Mon, 12 Feb 2007 00:47:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=59#comment-90</guid>
+
+					<description><![CDATA[Joe, que buena noticia! Y, sobre que fechas vais si se puede saber? Es que yo vuelvo este año y vete a saber si coincidiriamos por alli :)&lt;br/&gt;&lt;br/&gt;Un saludo.]]></description>
+			<content:encoded><![CDATA[<p>Joe, que buena noticia! Y, sobre que fechas vais si se puede saber? Es que yo vuelvo este año y vete a saber si coincidiriamos por alli <img src="./../../wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Un saludo.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

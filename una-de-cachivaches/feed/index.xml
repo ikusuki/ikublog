@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Una de cachivaches	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Fri, 31 Aug 2007 00:16:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Alvaro		</title>
+		<link>./../index.html#comment-729</link>
+
+		<dc:creator><![CDATA[Alvaro]]></dc:creator>
+		<pubDate>Fri, 31 Aug 2007 00:16:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=193#comment-729</guid>
+
+					<description><![CDATA[Dios mio la cantidad de cachivaches, eh O_______O&lt;br/&gt;&lt;br/&gt;Yo tengo cachivaches en cantidad pero no tan curiosos o.o]]></description>
+			<content:encoded><![CDATA[<p>Dios mio la cantidad de cachivaches, eh O_______O</p>
+<p>Yo tengo cachivaches en cantidad pero no tan curiosos o.o</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-726</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Thu, 30 Aug 2007 23:49:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=193#comment-726</guid>
+
+					<description><![CDATA[Jaja&lt;br/&gt;&lt;br/&gt;Pues me falta la nintendo DS, que no se si caerá un día de estos...]]></description>
+			<content:encoded><![CDATA[<p>Jaja</p>
+<p>Pues me falta la nintendo DS, que no se si caerá un día de estos&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Chema		</title>
+		<link>./../index.html#comment-724</link>
+
+		<dc:creator><![CDATA[Chema]]></dc:creator>
+		<pubDate>Thu, 30 Aug 2007 20:54:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=193#comment-724</guid>
+
+					<description><![CDATA[Que barbaridad!&lt;br/&gt;Y lo peor es que me he puesto a mirar alrededor, y me he encontrado casi tantos gadgets como tu!&lt;br/&gt;&lt;br/&gt;Que locura!]]></description>
+			<content:encoded><![CDATA[<p>Que barbaridad!<br />Y lo peor es que me he puesto a mirar alrededor, y me he encontrado casi tantos gadgets como tu!</p>
+<p>Que locura!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Con los pies frios		</title>
+		<link>./../index.html#comment-723</link>
+
+		<dc:creator><![CDATA[Con los pies frios]]></dc:creator>
+		<pubDate>Thu, 30 Aug 2007 17:04:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=193#comment-723</guid>
+
+					<description><![CDATA[toma ya... y yo que pensaba que tener un radiocassete de doble pletina y un ventilador a pilas era tecnologia puntera... xDD&lt;br/&gt;&lt;br/&gt;creo que me toca actualizarme un poco jejeje&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;un saludo ikusuki]]></description>
+			<content:encoded><![CDATA[<p>toma ya&#8230; y yo que pensaba que tener un radiocassete de doble pletina y un ventilador a pilas era tecnologia puntera&#8230; xDD</p>
+<p>creo que me toca actualizarme un poco jejeje</p>
+<p>un saludo ikusuki</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

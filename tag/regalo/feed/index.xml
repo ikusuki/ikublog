@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Regalo &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 19 Dec 2006 22:09:00 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>El regalo perfecto</title>
+		<link>./../../../el-regalo-perfecto/index.html</link>
+					<comments>./../../../el-regalo-perfecto/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Tue, 19 Dec 2006 22:09:00 +0000</pubDate>
+				<category><![CDATA[inocente]]></category>
+		<category><![CDATA[Regalo]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=49</guid>
+
+					<description><![CDATA[Dinos para quién y te preparamos una «Special Edition»: Regalo para Igor]]></description>
+										<content:encoded><![CDATA[<p>Dinos para quién y te preparamos una «Special Edition»:</p>
+<p></p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh6.google.es/image/koki142/RYhjq3aOeFI/AAAAAAAAADE/WtzTRdWMQAY/DCAM0787.JPG?imgmax=640"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://lh6.google.es/image/koki142/RYhjq3aOeFI/AAAAAAAAADE/WtzTRdWMQAY/DCAM0787.JPG?imgmax=640" alt="" border="0" /></a><span style="font-style: italic;font-size:78%;" ><span style="color: rgb(153, 255, 255);">Regalo para Igor</p>
+<p></span></span></div>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.google.es/image/koki142/RYhjpXaOeEI/AAAAAAAAAC8/4eiag_8XrF0/DCAM0785.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://lh4.google.es/image/koki142/RYhjpXaOeEI/AAAAAAAAAC8/4eiag_8XrF0/DCAM0785.JPG?imgmax=512" alt="" border="0" /></a><span style="font-style: italic;font-size:78%;" ><span style="color: rgb(153, 255, 255);"></span></span><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh6.google.es/image/koki142/RYhjn3aOeDI/AAAAAAAAAC0/H9JWMVsvQ54/DCAM0783.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://lh6.google.es/image/koki142/RYhjn3aOeDI/AAAAAAAAAC0/H9JWMVsvQ54/DCAM0783.JPG?imgmax=512" alt="" border="0" /></a></p>
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../el-regalo-perfecto/feed/index.html</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">49</post-id>	</item>
+	</channel>
+</rss>

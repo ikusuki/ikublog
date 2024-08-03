@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: El otro huevo de Godzilla	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 05:08:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: josecrem		</title>
+		<link>./../index.html#comment-5448</link>
+
+		<dc:creator><![CDATA[josecrem]]></dc:creator>
+		<pubDate>Thu, 06 Nov 2008 22:11:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=591#comment-5448</guid>
+
+					<description><![CDATA[¡¡¡Gracias!!!&lt;br/&gt;Lo estaba esperando.]]></description>
+			<content:encoded><![CDATA[<p>¡¡¡Gracias!!!<br />Lo estaba esperando.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-5397</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Wed, 05 Nov 2008 01:30:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=591#comment-5397</guid>
+
+					<description><![CDATA[&lt;b&gt;j08433&#062;&#062;&#062;&lt;/b&gt; no tengo claro si es una tienda de ropa o un bar, el próximo día entro!&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Nagore&#062;&#062;&#062;&lt;/b&gt; noooo, esos son negrooooos]]></description>
+			<content:encoded><![CDATA[<p><b>j08433&gt;&gt;&gt;</b> no tengo claro si es una tienda de ropa o un bar, el próximo día entro!</p>
+<p><b>Nagore&gt;&gt;&gt;</b> noooo, esos son negrooooos</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Nagore		</title>
+		<link>./../index.html#comment-5382</link>
+
+		<dc:creator><![CDATA[Nagore]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2008 11:41:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=591#comment-5382</guid>
+
+					<description><![CDATA[Como los cojones de un grillo jajaja...]]></description>
+			<content:encoded><![CDATA[<p>Como los cojones de un grillo jajaja&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: j08433		</title>
+		<link>./../index.html#comment-5374</link>
+
+		<dc:creator><![CDATA[j08433]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2008 00:48:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=591#comment-5374</guid>
+
+					<description><![CDATA[Pink Dragon? vaya huevos...]]></description>
+			<content:encoded><![CDATA[<p>Pink Dragon? vaya huevos&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

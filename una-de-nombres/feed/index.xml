@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Una de nombres	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 10 Apr 2007 12:31:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Winnie		</title>
+		<link>./../index.html#comment-206</link>
+
+		<dc:creator><![CDATA[Winnie]]></dc:creator>
+		<pubDate>Tue, 10 Apr 2007 12:31:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=85#comment-206</guid>
+
+					<description><![CDATA[HEY!!!! se te puden mandar cosas??? y a que direccion??? o simplemente con poner... &lt;b&gt;&quot; PARA OSKAR, el unico con los ojos redondos...&quot;&lt;/b&gt; ya vale??.&lt;br/&gt;&lt;br/&gt;Que gozada recibir ese bolson de chuches de la tierra, jejeje, GONVADOR es genial!!!&lt;br/&gt;Por cierto, aprovecho la ocasion para saludar a todos los iberdrolos de Zamudio, HOLAAAAAAA!!!! sigue todo y todos en su sitio???&lt;br/&gt;&lt;br/&gt;Aqui hoy hace un dia muy bueno,  y los jardineros han aprovechado para cortar el cesped. ES qeu ven asomar una margarita, y ZAS!!! ni medio dia la dejan vivir. Menos mal que son rapidas y para dentro de un par de dias ya estan asomando otra vez. Te imaginas que celebrasemos la salida de la margarita como los de por ahi lo de los cerezos?? No dabamos palo al agua... JAJAJAA.&lt;br/&gt;&lt;br/&gt;Bueno, chiquitins a cuidarse y a pasarlo bien. Un besazo.]]></description>
+			<content:encoded><![CDATA[<p>HEY!!!! se te puden mandar cosas??? y a que direccion??? o simplemente con poner&#8230; <b>» PARA OSKAR, el unico con los ojos redondos&#8230;»</b> ya vale??.</p>
+<p>Que gozada recibir ese bolson de chuches de la tierra, jejeje, GONVADOR es genial!!!<br />Por cierto, aprovecho la ocasion para saludar a todos los iberdrolos de Zamudio, HOLAAAAAAA!!!! sigue todo y todos en su sitio???</p>
+<p>Aqui hoy hace un dia muy bueno,  y los jardineros han aprovechado para cortar el cesped. ES qeu ven asomar una margarita, y ZAS!!! ni medio dia la dejan vivir. Menos mal que son rapidas y para dentro de un par de dias ya estan asomando otra vez. Te imaginas que celebrasemos la salida de la margarita como los de por ahi lo de los cerezos?? No dabamos palo al agua&#8230; JAJAJAA.</p>
+<p>Bueno, chiquitins a cuidarse y a pasarlo bien. Un besazo.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

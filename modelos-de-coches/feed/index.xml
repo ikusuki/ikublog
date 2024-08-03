@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Modelos de coches	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Mon, 07 Jan 2008 15:43:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Atinele		</title>
+		<link>./../index.html#comment-1309</link>
+
+		<dc:creator><![CDATA[Atinele]]></dc:creator>
+		<pubDate>Mon, 07 Jan 2008 15:43:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=295#comment-1309</guid>
+
+					<description><![CDATA[Al pajero lo vi yo! Concretamente en Andorra, pero no saqué foto porque mi padre estaba ahi y me daba apuro xD&lt;br/&gt;¡Buenos nombres!]]></description>
+			<content:encoded><![CDATA[<p>Al pajero lo vi yo! Concretamente en Andorra, pero no saqué foto porque mi padre estaba ahi y me daba apuro xD<br />¡Buenos nombres!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Winnie		</title>
+		<link>./../index.html#comment-1264</link>
+
+		<dc:creator><![CDATA[Winnie]]></dc:creator>
+		<pubDate>Thu, 27 Dec 2007 13:25:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=295#comment-1264</guid>
+
+					<description><![CDATA[Y no has visto por ahi el nissan MOCO??? jajajjaa, esa es otra leyenda, y otro que no se que marca era.... algo de PUTA, no??&lt;br/&gt;&lt;br/&gt;Pues nada, ya tendras tiempo de celebrar el nuevo año, o alli no se celebra??? No se celebra asi como a mediados de enero??? no se... no tienen vacaciones entonces??? si no es asi, te tienen explotaooo&lt;br/&gt;&lt;br/&gt;FELIZ NAVIDAD y PROSPERO AÑO 2008!!!!  &lt;br/&gt;a todos y en especial a Toscazo que esta muuu lejos. (no te preocupes que me comere el turron y el jamon a tu salud).]]></description>
+			<content:encoded><![CDATA[<p>Y no has visto por ahi el nissan MOCO??? jajajjaa, esa es otra leyenda, y otro que no se que marca era&#8230;. algo de PUTA, no??</p>
+<p>Pues nada, ya tendras tiempo de celebrar el nuevo año, o alli no se celebra??? No se celebra asi como a mediados de enero??? no se&#8230; no tienen vacaciones entonces??? si no es asi, te tienen explotaooo</p>
+<p>FELIZ NAVIDAD y PROSPERO AÑO 2008!!!!  <br />a todos y en especial a Toscazo que esta muuu lejos. (no te preocupes que me comere el turron y el jamon a tu salud).</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Herzeleyd		</title>
+		<link>./../index.html#comment-1262</link>
+
+		<dc:creator><![CDATA[Herzeleyd]]></dc:creator>
+		<pubDate>Thu, 27 Dec 2007 12:21:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=295#comment-1262</guid>
+
+					<description><![CDATA[Al pajero se le cambió el nombre en Europa por ser una palabra malsonante, después de llevar varios meses en el mercado.&lt;br/&gt;El pajero en Europa se llama ahora Montero.]]></description>
+			<content:encoded><![CDATA[<p>Al pajero se le cambió el nombre en Europa por ser una palabra malsonante, después de llevar varios meses en el mercado.<br />El pajero en Europa se llama ahora Montero.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Ya ha dejado de llover&#8230;	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Thu, 19 Jul 2007 06:52:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Saruli		</title>
+		<link>./../index.html#comment-604</link>
+
+		<dc:creator><![CDATA[Saruli]]></dc:creator>
+		<pubDate>Thu, 19 Jul 2007 06:52:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=158#comment-604</guid>
+
+					<description><![CDATA[Mmmm... las fotos de las hojas con las gotitas son mu chulas, pero me intriga la última foto... ¿la sacaste pq te extraño ver un papelito en el suelo?&lt;br/&gt;No te creas q te estás perdiendo un gran verano de sol por aqui, estamos más blancurrios q un bote de tipex sin extrenar. El único q se salva un poco es el Bifather q acaba de volver de vacatas.]]></description>
+			<content:encoded><![CDATA[<p>Mmmm&#8230; las fotos de las hojas con las gotitas son mu chulas, pero me intriga la última foto&#8230; ¿la sacaste pq te extraño ver un papelito en el suelo?<br />No te creas q te estás perdiendo un gran verano de sol por aqui, estamos más blancurrios q un bote de tipex sin extrenar. El único q se salva un poco es el Bifather q acaba de volver de vacatas.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

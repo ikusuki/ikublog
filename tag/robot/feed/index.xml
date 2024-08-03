@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Robot &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Aug 2009 04:50:24 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>El robot que corre</title>
+		<link>./../../../el-robot-que-corre/index.html</link>
+					<comments>./../../../el-robot-que-corre/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Tue, 04 Aug 2009 04:45:08 +0000</pubDate>
+				<category><![CDATA[Regulero]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Correr]]></category>
+		<category><![CDATA[Robot]]></category>
+		<category><![CDATA[Toyota]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1416</guid>
+
+					<description><![CDATA[Los de la Toyota, que han sacao un robot que corre que se las pela: //www.youtube.com/watch?v=sv35ItWLBBk Que en el video se ve a una gachí que le mete tobas en el pecho y el bicho culea pero no se cae. Cuando está ahí quieto dando botes como calentando mola mucho, pero cuando se le ve &#8230; <a href="./../../../el-robot-que-corre/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">El robot que corre</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Los de la Toyota, que han sacao un robot que corre que se las pela:</p>
+<div style="text-align:center;">
+<p><a href="//www.youtube.com/watch?v=sv35ItWLBBk&#038;fmt=18">//www.youtube.com/watch?v=sv35ItWLBBk</a></p>
+<p><a href="//www.youtube.com/watch?v=sv35ItWLBBk&#038;fmt=18"><img decoding="async" src="//img.youtube.com/vi/sv35ItWLBBk/default.jpg" width="130" height="97" border=0></a></p>
+</div>
+<p>Que en el video se ve a una gachí que le mete tobas en el pecho y el bicho culea pero no se cae. Cuando está ahí quieto dando botes como calentando mola mucho, pero cuando se le ve corriendo da una grima del copón de la baraja, que se menea moviendo el culoescuadra ese que tiene que parece que baila salsa.</p>
+<p>En cualquier caso, la cosa es acojonante!! </p>
+<p>Eso si, el post es de los de hacer en 2 minutos: </p>
+<p style="text-align:center"> <img src="./../../../wp-includes/images/smilies/regulero.gif" alt=":regulero:" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </p>
+<p>Me he cansao menos escribiéndolo que la chica en darle placaplacas al carachapa.<br />
+Fuente: <a href="http://asia.cnet.com/blogs/tokyo-shift/post.htm?id=63012656">Asia CNET</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../el-robot-que-corre/feed/index.html</wfw:commentRss>
+			<slash:comments>25</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1416</post-id>	</item>
+	</channel>
+</rss>

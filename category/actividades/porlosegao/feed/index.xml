@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Porlosegao &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Fri, 17 May 2013 07:28:23 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Por lo segao</title>
+		<link>./../../../../por-lo-segao/index.html</link>
+					<comments>./../../../../por-lo-segao/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Fri, 17 May 2013 07:21:54 +0000</pubDate>
+				<category><![CDATA[Porlosegao]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=8907</guid>
+
+					<description><![CDATA[Hace ya unos cuantos meses que me puse a hacer esta gaita en plan experimento y como hobby para estirar mis conocimientos RubyOnRailseros. Todavía tengo muchas muchas cosas que quiero hacer, pero básicamente la idea ya está ahí: se trata de una web con cromos. Que diréis: ¿cromos como el de Arconada?, pues más o &#8230; <a href="./../../../../por-lo-segao/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Por lo segao</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Hace ya unos cuantos meses que me puse a hacer esta gaita en plan experimento y como hobby para estirar mis conocimientos RubyOnRailseros. Todavía tengo muchas muchas cosas que quiero hacer, pero básicamente la idea ya está ahí: se trata de una web con cromos. Que diréis: ¿cromos como el de Arconada?, pues más o menos no. Un cromo aquí no es más que una imagen chorra con un título chorra:</p>
+<p></p>
+<p style="text-align:center"><img fetchpriority="high" decoding="async" src="http://lh6.ggpht.com/-sbBW9dzQOm8/UZXZh1qF8oI/AAAAAAABIR8/5m-VoRK2A2E/Screen%252520Shot%2525202013-05-17%252520at%2525204.10.42%252520PM.png?imgmax=576" alt="Screen Shot 2013-05-17 at 4.10.42 PM.png" width="550" height="576" class="pie-img"><img style="margin:10px 0px 0px 0px;"/></img></p>
+<p></p>
+<p>El objetivo de la web, a parte de servirme como experimento para probar chorradas de programar nuevas, es que os descojonéis vivos cuando entreis. Ni más ni menos ni menos ni por.</p>
+<p style="text-align:center">
+<div class="pie-gallery">
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img decoding="async" src="http://lh5.ggpht.com/-QajjFd4MPHQ/UZXZlhtNyZI/AAAAAAABISM/wh74MKr5yyM/Screen%252520Shot%2525202013-05-17%252520at%2525204.16.11%252520PM.png?imgmax=576" alt="Screen Shot 2013-05-17 at 4.16.11 PM.png" width="576" height="540" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img decoding="async" src="http://lh6.ggpht.com/-y_g_0Hn4Fhw/UZXZjzdNZBI/AAAAAAABISI/C9yfOb208zA/Screen%252520Shot%2525202013-05-17%252520at%2525204.10.52%252520PM.png?imgmax=576" alt="Screen Shot 2013-05-17 at 4.10.52 PM.png" width="576" height="547" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-Mt4npIzpsCo/UZXZfBVEJRI/AAAAAAABIRk/AkdH0ubs1zM/Screen%252520Shot%2525202013-05-17%252520at%2525204.10.19%252520PM.png?imgmax=576" alt="Screen Shot 2013-05-17 at 4.10.19 PM.png" width="576" height="502" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-4flD9SbRIlw/UZXZfgrw2MI/AAAAAAABIRo/IKQBEUqSi64/Screen%252520Shot%2525202013-05-17%252520at%2525204.10.28%252520PM.png?imgmax=576" alt="Screen Shot 2013-05-17 at 4.10.28 PM.png" width="487" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-P6E5BVzqKic/UZXZh-FhMeI/AAAAAAABIR4/KhZsl9MZ-6U/Screen%252520Shot%2525202013-05-17%252520at%2525204.10.06%252520PM.png?imgmax=576" alt="Screen Shot 2013-05-17 at 4.10.06 PM.png" width="457" height="576" class="pie-img"/></p>
+</div>
+</div>
+<p>
+Luego ya si os registráis, creáis cromos, votáis, comentáis o subís imágenes, ya ni os cuento el gusterresque que me dais!!! Crear nuevos es fácil, podéis pinchar en uno que ya esté y darle a Ver Imagen / Crear cromo, podéis elegir una imagen de las que ya están subidas o podéis subir la que os de la gana&#8230;<br />
+</p>
+<p style="text-align:center"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-sNXkaLVX2oI/UZXZl_mMZoI/AAAAAAABISQ/qzrHWLGANgY/Screen%252520Shot%2525202013-05-17%252520at%2525204.16.23%252520PM.png?imgmax=576" alt="Screen Shot 2013-05-17 at 4.16.23 PM.png" width="576" height="559" class="pie-img"><img style="margin:10px 0px 0px 0px;"/></img></p>
+<p></p>
+<p>El asunto está hecho en Rails con Coffeescript, Haml y Sass, por si a alguien le interesa la copla y&#8230;. pues eso, que se entra por aquí:</p>
+<p style="text-align:center; font-size:250%"><a href="http://www.porlosegao.com/"> Por lo segao </a><br /> <img src="./../../../../wp-includes/images/smilies/ikusegao.gif" alt=":bythesegao:" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p></p>
+<p style="text-align:center; font-size:200%">¡¡ Cread muchos cromos y comentad mucho, porfa !!<br /><img src="./../../../../wp-includes/images/smilies/gustico.gif" alt=":gustico:" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br /> ¡¡ Buen finde !!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../por-lo-segao/feed/index.html</wfw:commentRss>
+			<slash:comments>32</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8907</post-id>	</item>
+	</channel>
+</rss>

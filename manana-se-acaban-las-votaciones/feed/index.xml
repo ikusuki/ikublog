@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Mañana se acaban las votaciones	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Thu, 31 May 2007 01:24:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-347</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Thu, 31 May 2007 01:24:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=116#comment-347</guid>
+
+					<description><![CDATA[Pues como no espabilen los caracolfans hoy, me parece a mi que nos quedamos sin cami naranja!!!!]]></description>
+			<content:encoded><![CDATA[<p>Pues como no espabilen los caracolfans hoy, me parece a mi que nos quedamos sin cami naranja!!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Winnie (No sin mi caracol)		</title>
+		<link>./../index.html#comment-345</link>
+
+		<dc:creator><![CDATA[Winnie (No sin mi caracol)]]></dc:creator>
+		<pubDate>Wed, 30 May 2007 12:26:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=116#comment-345</guid>
+
+					<description><![CDATA[JOooooooooooooooo que tiene que ganar el caracoooooooool!!!! Mira que me estoy mosqueandoooooooo!!!&lt;br/&gt;&lt;br/&gt;Pobreciño, es tan lento que la gente no le quiere!!!! snif, snif&lt;br/&gt;&lt;br/&gt;&lt;b&gt;No sin mi caracol&lt;/b&gt;]]></description>
+			<content:encoded><![CDATA[<p>JOooooooooooooooo que tiene que ganar el caracoooooooool!!!! Mira que me estoy mosqueandoooooooo!!!</p>
+<p>Pobreciño, es tan lento que la gente no le quiere!!!! snif, snif</p>
+<p><b>No sin mi caracol</b></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

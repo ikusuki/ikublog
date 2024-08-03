@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Carteles	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:47:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-656</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Wed, 08 Aug 2007 11:08:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=169#comment-656</guid>
+
+					<description><![CDATA[Ja, jaa.....&lt;br/&gt;&lt;br/&gt;que bueno... me he reído un montón con la introducción al post...&lt;br/&gt;&lt;br/&gt;Si te quiero robar ese portátil blanquito bonito ya sé que tengo que hacer... me acerco a ti con un bote lleno de cucarachas y ale... listo... je, je...&lt;br/&gt;&lt;br/&gt;Como decía antes...&lt;br/&gt;sigo... (que voy a ratitos)]]></description>
+			<content:encoded><![CDATA[<p>Ja, jaa&#8230;..</p>
+<p>que bueno&#8230; me he reído un montón con la introducción al post&#8230;</p>
+<p>Si te quiero robar ese portátil blanquito bonito ya sé que tengo que hacer&#8230; me acerco a ti con un bote lleno de cucarachas y ale&#8230; listo&#8230; je, je&#8230;</p>
+<p>Como decía antes&#8230;<br />sigo&#8230; (que voy a ratitos)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Saruli		</title>
+		<link>./../index.html#comment-642</link>
+
+		<dc:creator><![CDATA[Saruli]]></dc:creator>
+		<pubDate>Mon, 06 Aug 2007 10:31:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=169#comment-642</guid>
+
+					<description><![CDATA[Pues a mi me parece bastante interesante que pongan los dibujillos, hacen q lo entiendas mejor ademas de llamar la atencion y q la gente no pase de ellos]]></description>
+			<content:encoded><![CDATA[<p>Pues a mi me parece bastante interesante que pongan los dibujillos, hacen q lo entiendas mejor ademas de llamar la atencion y q la gente no pase de ellos</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

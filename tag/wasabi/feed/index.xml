@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Wasabi &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Sat, 14 Feb 2009 01:57:00 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Doritos al Wasabimayonesa</title>
+		<link>./../../../doritos-al-wasabimayonesa/index.html</link>
+					<comments>./../../../doritos-al-wasabimayonesa/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Sat, 14 Feb 2009 01:57:00 +0000</pubDate>
+				<category><![CDATA[Japón]]></category>
+		<category><![CDATA[Tokyo]]></category>
+		<category><![CDATA[Wasabi]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=679</guid>
+
+					<description><![CDATA[¡La novedad en snacks!, o como diría mi madre: «mierdas y guarrerías de esas que comes tú por ahí y luego no cenas, tonto pelao». Pues eso, los Doritos con sabor wasabi y mayonesa Que el paquete daba a entender como que te venía una salsilla ahí a parte. ¡Pues no! Estaban muy buenos: de &#8230; <a href="./../../../doritos-al-wasabimayonesa/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Doritos al Wasabimayonesa</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: bold;">¡La novedad en snacks!</span>, o como diría mi madre: «mierdas y guarrerías de esas que comes tú por ahí y luego no cenas, tonto pelao».</p>
+<p>Pues eso,</p>
+<div style="text-align: center;"><span style="font-weight: bold;font-size:180%;" >los Doritos con sabor wasabi y mayonesa</span></div>
+<p></p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh6.ggpht.com/_pE6wnLeL87o/SZTh6x-yS_I/AAAAAAAAdlo/xIN6lMB531w/s512/DSC07849.JPG"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 384px; height: 512px;" src="http://lh6.ggpht.com/_pE6wnLeL87o/SZTh6x-yS_I/AAAAAAAAdlo/xIN6lMB531w/s512/DSC07849.JPG" alt="" border="0" /></a></p>
+<div id="pieFoto"><i>Que el paquete daba a entender como que te venía una salsilla ahí a parte. ¡Pues no!</i></div>
+</div>
+<p></p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.ggpht.com/_pE6wnLeL87o/SZTh8EPgmkI/AAAAAAAAdl0/_rX0ehXSMDo/s576/DSC07852.JPG"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 576px; height: 432px;" src="http://lh5.ggpht.com/_pE6wnLeL87o/SZTh8EPgmkI/AAAAAAAAdl0/_rX0ehXSMDo/s576/DSC07852.JPG" alt="" border="0" /></a></p>
+<div id="pieFoto"><i>Estaban muy buenos: de mayonesa sólo tenía el título, y el sabor a wasabi le daba un toque suavemente picante&#8230; Si señor, repetiremos (y no cenaremos ese día tampoco, no se lo digáis a mi madre, que lo de tontopelao lo llevo mu mal!)</i></div>
+<p></div>
+<p>No es la primera vez que como algo con sabor a wasabi, y aunque estos Doritos sólo sabían un poco, me acuerdo de unas patatas que comí un día que aquello era como comer wasabi a cucharadas. Se me quitaron los mocos para dos meses, no os digo más.</p>
+<hr />
+<p></p>
+<div style="margin: auto; text-align: center;"><a href="http://ikusuki.blogspot.com/2008/06/ikusuki-investigacin.html"><img decoding="async" src="http://lh6.ggpht.com/_pE6wnLeL87o/SWQazI8xk2I/AAAAAAAAZRU/xplGF-Bwiuo/peneke.jpg" style="margin: auto; text-align: center;" /></a></div>
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../doritos-al-wasabimayonesa/feed/index.html</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">679</post-id>	</item>
+	</channel>
+</rss>

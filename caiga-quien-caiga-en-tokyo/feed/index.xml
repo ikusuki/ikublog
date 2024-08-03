@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Caiga quien Caiga en Tokyo	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 09 Oct 2007 22:38:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-896</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Tue, 09 Oct 2007 22:38:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=226#comment-896</guid>
+
+					<description><![CDATA[Pues coincido con Xessy...&lt;br/&gt;&lt;br/&gt;Cuando estaba viendo el video sin más, pero cuando se ha puesto a vacilar en el templo la verdad es que me ha parecido una falta de respeto en toda regla...&lt;br/&gt;&lt;br/&gt;Prefiero tu estilo Toscano... sin dudarlo...]]></description>
+			<content:encoded><![CDATA[<p>Pues coincido con Xessy&#8230;</p>
+<p>Cuando estaba viendo el video sin más, pero cuando se ha puesto a vacilar en el templo la verdad es que me ha parecido una falta de respeto en toda regla&#8230;</p>
+<p>Prefiero tu estilo Toscano&#8230; sin dudarlo&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-892</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Tue, 09 Oct 2007 06:34:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=226#comment-892</guid>
+
+					<description><![CDATA[Ya... no se, no quería tampoco polemizar porque no es ni una cosa ni la otra, pero si que es verdad que han caido en lo fácil y chano a la vez, lo podrían haber hecho muchísimo mejor y, desdeluego, con un poco más de clase!]]></description>
+			<content:encoded><![CDATA[<p>Ya&#8230; no se, no quería tampoco polemizar porque no es ni una cosa ni la otra, pero si que es verdad que han caido en lo fácil y chano a la vez, lo podrían haber hecho muchísimo mejor y, desdeluego, con un poco más de clase!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Xessy		</title>
+		<link>./../index.html#comment-891</link>
+
+		<dc:creator><![CDATA[Xessy]]></dc:creator>
+		<pubDate>Tue, 09 Oct 2007 06:14:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=226#comment-891</guid>
+
+					<description><![CDATA[Pues yo me encontre al Eugeni este paseando solo por Tokyo. Estuve a punto de preguntarle que hacia pero supuse que estaban alli por lo de la Formula 1.&lt;br/&gt;Pero de spues de ver este reportaje... Aunque siempre lo he considerado un programa genial. con este reportaje se han lucido. Vaya falta de respeto hacia los japoneses, vaya humor facil y sin sentido... Que jasco!]]></description>
+			<content:encoded><![CDATA[<p>Pues yo me encontre al Eugeni este paseando solo por Tokyo. Estuve a punto de preguntarle que hacia pero supuse que estaban alli por lo de la Formula 1.<br />Pero de spues de ver este reportaje&#8230; Aunque siempre lo he considerado un programa genial. con este reportaje se han lucido. Vaya falta de respeto hacia los japoneses, vaya humor facil y sin sentido&#8230; Que jasco!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Bea		</title>
+		<link>./../index.html#comment-890</link>
+
+		<dc:creator><![CDATA[Bea]]></dc:creator>
+		<pubDate>Tue, 09 Oct 2007 04:30:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=226#comment-890</guid>
+
+					<description><![CDATA[Bua! estos del CQC son unos aficionous, todo eso Ikusuki ya nos lo había enseñado hace tiempo, que jeta, han leido tu blog y han ido copiandote. &lt;br/&gt;Vamos que a tí solo te falta lo del microfonito, y les das mil vueltas! uhm copiones!&lt;br/&gt;Tosca, el microfono, Tosca el microfono!]]></description>
+			<content:encoded><![CDATA[<p>Bua! estos del CQC son unos aficionous, todo eso Ikusuki ya nos lo había enseñado hace tiempo, que jeta, han leido tu blog y han ido copiandote. <br />Vamos que a tí solo te falta lo del microfonito, y les das mil vueltas! uhm copiones!<br />Tosca, el microfono, Tosca el microfono!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

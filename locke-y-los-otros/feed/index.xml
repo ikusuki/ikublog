@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Locke y los otros	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:34:20 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Gurutz		</title>
+		<link>./../index.html#comment-31</link>
+
+		<dc:creator><![CDATA[Gurutz]]></dc:creator>
+		<pubDate>Sat, 28 Oct 2006 15:08:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=28#comment-31</guid>
+
+					<description><![CDATA[Is one of them!!! one of the others!!!!!&lt;br /&gt;jajajajaja]]></description>
+			<content:encoded><![CDATA[<p>Is one of them!!! one of the others!!!!!<br />jajajajaja</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Leyendo	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Wed, 14 Nov 2007 22:28:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-1034</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Wed, 14 Nov 2007 22:28:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=258#comment-1034</guid>
+
+					<description><![CDATA[Pues a mí me ha recordado cuando iba a misa de pequeño... al sermón de cura... ;)&lt;br/&gt;&lt;br/&gt;eh, eh...!! Sin piques... que era broma... a partir de ahora quiero todas las entradas en modo audible... que esto es más cómodo.]]></description>
+			<content:encoded><![CDATA[<p>Pues a mí me ha recordado cuando iba a misa de pequeño&#8230; al sermón de cura&#8230; <img src="./../../wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>eh, eh&#8230;!! Sin piques&#8230; que era broma&#8230; a partir de ahora quiero todas las entradas en modo audible&#8230; que esto es más cómodo.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Winnie		</title>
+		<link>./../index.html#comment-1022</link>
+
+		<dc:creator><![CDATA[Winnie]]></dc:creator>
+		<pubDate>Tue, 13 Nov 2007 17:57:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=258#comment-1022</guid>
+
+					<description><![CDATA[Jajaja, pero como se te va la pinza....&lt;br/&gt;&lt;br/&gt;Me ha recordado cuando en el cole te mandaban leer, poner entonacion, y te median las palabras que leias por minuto... jijiji&lt;br/&gt;&lt;br/&gt;Viejos tiempos.&lt;br/&gt;&lt;br/&gt;Un besazo]]></description>
+			<content:encoded><![CDATA[<p>Jajaja, pero como se te va la pinza&#8230;.</p>
+<p>Me ha recordado cuando en el cole te mandaban leer, poner entonacion, y te median las palabras que leias por minuto&#8230; jijiji</p>
+<p>Viejos tiempos.</p>
+<p>Un besazo</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Bea		</title>
+		<link>./../index.html#comment-1021</link>
+
+		<dc:creator><![CDATA[Bea]]></dc:creator>
+		<pubDate>Tue, 13 Nov 2007 17:56:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=258#comment-1021</guid>
+
+					<description><![CDATA[Impresionante.&lt;br/&gt;Por cierto, gracias por Maperizarte! 1000 gracias!]]></description>
+			<content:encoded><![CDATA[<p>Impresionante.<br />Por cierto, gracias por Maperizarte! 1000 gracias!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

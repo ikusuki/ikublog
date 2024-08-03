@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Locke &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:34:20 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Locke y los otros</title>
+		<link>./../../../locke-y-los-otros/index.html</link>
+					<comments>./../../../locke-y-los-otros/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Wed, 25 Oct 2006 18:14:00 +0000</pubDate>
+				<category><![CDATA[Ikucamis]]></category>
+		<category><![CDATA[Ikuchorradas]]></category>
+		<category><![CDATA[Kukuxumuxu]]></category>
+		<category><![CDATA[Locke]]></category>
+		<category><![CDATA[Los otros]]></category>
+		<category><![CDATA[Lost]]></category>
+		<category><![CDATA[Perdidos]]></category>
+		<category><![CDATA[The others]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=28</guid>
+
+					<description><![CDATA[¡¡Es uno de los otros!!]]></description>
+										<content:encoded><![CDATA[<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh3.google.com/koki142/RT-I_MRPABI/AAAAAAAABbo/yfQl1914dlM/Locke.jpg"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; height: 320px; width: 240px;" src="http://lh3.google.com/koki142/RT-I_MRPABI/AAAAAAAABbo/yfQl1914dlM/Locke.jpg" alt="" border="0" /></a><br /><span style="font-size:130%;"><span style="font-weight: bold;">¡¡Es uno de los otros!!</p>
+<p></span></span></div>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh6.google.com/koki142/RT-I9YtdABI/AAAAAAAABbI/MYscX6aGsb0/The%20others.jpg"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; height: 320px; width: 224px;" src="http://lh6.google.com/koki142/RT-I9YtdABI/AAAAAAAABbI/MYscX6aGsb0/The%20others.jpg" alt="" border="0" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../locke-y-los-otros/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">28</post-id>	</item>
+	</channel>
+</rss>

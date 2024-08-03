@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Guía Michelín Tokyo	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Wed, 02 Jan 2008 22:22:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: triki		</title>
+		<link>./../index.html#comment-1291</link>
+
+		<dc:creator><![CDATA[triki]]></dc:creator>
+		<pubDate>Wed, 02 Jan 2008 22:22:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=300#comment-1291</guid>
+
+					<description><![CDATA[es cosa mia o tinene los ojos mas redondos que el occidental y tambien es menos michelin y mas delgadin no?&lt;br/&gt;salu2]]></description>
+			<content:encoded><![CDATA[<p>es cosa mia o tinene los ojos mas redondos que el occidental y tambien es menos michelin y mas delgadin no?<br />salu2</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Kuris-chan		</title>
+		<link>./../index.html#comment-1287</link>
+
+		<dc:creator><![CDATA[Kuris-chan]]></dc:creator>
+		<pubDate>Tue, 01 Jan 2008 23:01:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=300#comment-1287</guid>
+
+					<description><![CDATA[Que curioso ^^&lt;br/&gt;Feliz 2008!!!]]></description>
+			<content:encoded><![CDATA[<p>Que curioso ^^<br />Feliz 2008!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Miky		</title>
+		<link>./../index.html#comment-1286</link>
+
+		<dc:creator><![CDATA[Miky]]></dc:creator>
+		<pubDate>Tue, 01 Jan 2008 22:00:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=300#comment-1286</guid>
+
+					<description><![CDATA[El muñecajo ese era de Dalí, ¿no? O me lo he inventado vilmente...&lt;br/&gt;Me encanta cómo tienen que innovar las marcas para entrar en el mercado japonés ^_^]]></description>
+			<content:encoded><![CDATA[<p>El muñecajo ese era de Dalí, ¿no? O me lo he inventado vilmente&#8230;<br />Me encanta cómo tienen que innovar las marcas para entrar en el mercado japonés ^_^</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

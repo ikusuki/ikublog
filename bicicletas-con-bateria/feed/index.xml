@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Bicicletas con batería	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:54:35 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Rosa		</title>
+		<link>./../index.html#comment-12404</link>
+
+		<dc:creator><![CDATA[Rosa]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2009 10:40:33 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=113#comment-12404</guid>
+
+					<description><![CDATA[Hola,
+Nunca he visto una bicicleta tan pequeña con una batería. Las fotos son muy chulas!!!!]]></description>
+			<content:encoded><![CDATA[<p>Hola,<br />
+Nunca he visto una bicicleta tan pequeña con una batería. Las fotos son muy chulas!!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-338</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Wed, 30 May 2007 04:26:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=113#comment-338</guid>
+
+					<description><![CDATA[Bueno, es un concepto distinto. Aquí tienes que pedalear tu todo el rato, y la batería simplemente te ayuda. Creo que se puede configurar una velocidad a mantener y la bici se encarga de ello, pero siempre hay que seguir pedaleando. Irá costando más cuanto menos batería quede.&lt;br/&gt;&lt;br/&gt;Además, la tienes que cargar en casa... la verdad es que me gustaría probar una y contaros más en detalle!&lt;br/&gt;87000 yenes en pesetas serán cerca de 100.000!]]></description>
+			<content:encoded><![CDATA[<p>Bueno, es un concepto distinto. Aquí tienes que pedalear tu todo el rato, y la batería simplemente te ayuda. Creo que se puede configurar una velocidad a mantener y la bici se encarga de ello, pero siempre hay que seguir pedaleando. Irá costando más cuanto menos batería quede.</p>
+<p>Además, la tienes que cargar en casa&#8230; la verdad es que me gustaría probar una y contaros más en detalle!<br />87000 yenes en pesetas serán cerca de 100.000!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: saruli		</title>
+		<link>./../index.html#comment-335</link>
+
+		<dc:creator><![CDATA[saruli]]></dc:creator>
+		<pubDate>Tue, 29 May 2007 09:19:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=113#comment-335</guid>
+
+					<description><![CDATA[una bici con bateria no es una moto?]]></description>
+			<content:encoded><![CDATA[<p>una bici con bateria no es una moto?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: haatik		</title>
+		<link>./../index.html#comment-334</link>
+
+		<dc:creator><![CDATA[haatik]]></dc:creator>
+		<pubDate>Tue, 29 May 2007 07:20:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=113#comment-334</guid>
+
+					<description><![CDATA[87000 yenes? eso en pesetas, digo, euros cuanto es?&lt;br/&gt;&lt;br/&gt;A ver si algún dia sacas un foto de esos parkins de coches tan chulos que dicen que hay por tokio, esos en forma de cargador , etc.... no se si me he explicado]]></description>
+			<content:encoded><![CDATA[<p>87000 yenes? eso en pesetas, digo, euros cuanto es?</p>
+<p>A ver si algún dia sacas un foto de esos parkins de coches tan chulos que dicen que hay por tokio, esos en forma de cargador , etc&#8230;. no se si me he explicado</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-330</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Tue, 29 May 2007 05:32:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=113#comment-330</guid>
+
+					<description><![CDATA[Acabo de volver de comer, y he visto a un tío con una bici con dos cestas hasta arriba de bolsas subiendo una cuesta como quien come pipas!!!!&lt;br/&gt;&lt;br/&gt;Parece un buen invento!]]></description>
+			<content:encoded><![CDATA[<p>Acabo de volver de comer, y he visto a un tío con una bici con dos cestas hasta arriba de bolsas subiendo una cuesta como quien come pipas!!!!</p>
+<p>Parece un buen invento!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Mangarrán &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Wed, 22 Jul 2009 03:50:03 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>IkuOsaka</title>
+		<link>./../../../ikuosaka/index.html</link>
+					<comments>./../../../ikuosaka/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Fri, 08 May 2009 02:23:00 +0000</pubDate>
+				<category><![CDATA[Japón]]></category>
+		<category><![CDATA[Mangarrán]]></category>
+		<category><![CDATA[Osaka]]></category>
+		<category><![CDATA[Pataliebre]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=769</guid>
+
+					<description><![CDATA[IkuOsaka by tío Tosca en Osaka y en Vimeo.]]></description>
+										<content:encoded><![CDATA[<div style="text-align:center"><object width="576" height="324"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=4528583&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1" /></object></p>
+<p><a href="http://vimeo.com/4528583">IkuOsaka</a> by <a href="http://vimeo.com/user443418">tío Tosca</a> en Osaka y en <a href="http://vimeo.com/">Vimeo</a>.</p>
+</div>
+<p></p>
+<hr />
+<div style="text-align: left;"><a href="./../../../ikusuki-tv/index.html" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img decoding="async" alt="" src="./../../../wp-content/themes/okinawa/images/tv.jpg" style="margin: 0px auto 10px; cursor: pointer; display: block; height: 66px; text-align: center; width: 60px;" border="0" /></a></div>
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../ikuosaka/feed/index.html</wfw:commentRss>
+			<slash:comments>19</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">769</post-id>	</item>
+	</channel>
+</rss>

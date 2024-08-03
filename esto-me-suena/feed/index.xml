@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Esto me suena&#8230;	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 01 Apr 2008 22:08:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Anonymous		</title>
+		<link>./../index.html#comment-1963</link>
+
+		<dc:creator><![CDATA[Anonymous]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2008 22:08:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=330#comment-1963</guid>
+
+					<description><![CDATA[kiaaaa es joe odagiri xDD o como se llame q guapo q es el mu cabron aisssssssssssssssss :XXXXXX &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;nitya]]></description>
+			<content:encoded><![CDATA[<p>kiaaaa es joe odagiri xDD o como se llame q guapo q es el mu cabron aisssssssssssssssss :XXXXXX </p>
+<p>nitya</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Neki		</title>
+		<link>./../index.html#comment-1526</link>
+
+		<dc:creator><![CDATA[Neki]]></dc:creator>
+		<pubDate>Wed, 06 Feb 2008 19:58:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=330#comment-1526</guid>
+
+					<description><![CDATA[Joer, vaya vista. Yo no lo huebiera reconocido.]]></description>
+			<content:encoded><![CDATA[<p>Joer, vaya vista. Yo no lo huebiera reconocido.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

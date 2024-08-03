@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Lectura del ikublog, 1- Hay días	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 25 Jul 2023 07:04:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Battosai		</title>
+		<link>./../index.html#comment-63100</link>
+
+		<dc:creator><![CDATA[Battosai]]></dc:creator>
+		<pubDate>Tue, 25 Jul 2023 07:04:04 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=11197#comment-63100</guid>
+
+					<description><![CDATA[Buena noticia lo de que recuperes el ikublog. Nunca he sido mucho de leer, pero me encantaba eso de levantarme por las mañanas, encender el ordenador y ver que habías hecho una entrada nueva y leerla tranquilamente. No sé, quizá por tu forma de escribir o por el tipo de historias que contabas y la forma de hacerlo, eras mi blogger  favorito, y cuando por razones laborales se perdió la rutina y la posibilidad de acceder a internet todos los días, el único al que seguí leyendo cuando los fines de semana volvía a casa y tenía un ratito para ponerme con el ordenata. 
+
+Tus videoblogs no están mal, pero siempre he preferido leerte, de esa forma, marco yo el ritmo con el que suenan tus historias en mi cabeza.
+
+Un saludo, y ya con ganas de ver que nuevas historias nos traes :ungusto:]]></description>
+			<content:encoded><![CDATA[<p>Buena noticia lo de que recuperes el ikublog. Nunca he sido mucho de leer, pero me encantaba eso de levantarme por las mañanas, encender el ordenador y ver que habías hecho una entrada nueva y leerla tranquilamente. No sé, quizá por tu forma de escribir o por el tipo de historias que contabas y la forma de hacerlo, eras mi blogger  favorito, y cuando por razones laborales se perdió la rutina y la posibilidad de acceder a internet todos los días, el único al que seguí leyendo cuando los fines de semana volvía a casa y tenía un ratito para ponerme con el ordenata. </p>
+<p>Tus videoblogs no están mal, pero siempre he preferido leerte, de esa forma, marco yo el ritmo con el que suenan tus historias en mi cabeza.</p>
+<p>Un saludo, y ya con ganas de ver que nuevas historias nos traes <img src="./../../wp-includes/images/smilies/ungusto.gif" alt=":ungusto:" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

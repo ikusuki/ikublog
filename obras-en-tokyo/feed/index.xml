@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Obras en Tokyo	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 03:34:41 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: triki		</title>
+		<link>./../index.html#comment-1162</link>
+
+		<dc:creator><![CDATA[triki]]></dc:creator>
+		<pubDate>Thu, 06 Dec 2007 00:45:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=277#comment-1162</guid>
+
+					<description><![CDATA[Yo si veo eso una de dos :&lt;br/&gt;1) me da un un susto que me muero pensando en que me vienen a llevar los extraterrestres &lt;br/&gt;2) Me para a jugarme unas manos al poker o a la ruleta...&lt;br/&gt;En Galicia señalizan igualito igualito...]]></description>
+			<content:encoded><![CDATA[<p>Yo si veo eso una de dos :<br />1) me da un un susto que me muero pensando en que me vienen a llevar los extraterrestres <br />2) Me para a jugarme unas manos al poker o a la ruleta&#8230;<br />En Galicia señalizan igualito igualito&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Txisko		</title>
+		<link>./../index.html#comment-1161</link>
+
+		<dc:creator><![CDATA[Txisko]]></dc:creator>
+		<pubDate>Wed, 05 Dec 2007 22:54:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=277#comment-1161</guid>
+
+					<description><![CDATA[Estoy con Bea, yo he visto a Jezulín en version starwars jedi iluminado!!!!&lt;br/&gt;&lt;br/&gt;jajaja]]></description>
+			<content:encoded><![CDATA[<p>Estoy con Bea, yo he visto a Jezulín en version starwars jedi iluminado!!!!</p>
+<p>jajaja</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Bea		</title>
+		<link>./../index.html#comment-1159</link>
+
+		<dc:creator><![CDATA[Bea]]></dc:creator>
+		<pubDate>Wed, 05 Dec 2007 19:06:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=277#comment-1159</guid>
+
+					<description><![CDATA[Que flipe de letrero luminoso, parecia un torero con el capote (o eso he visto yo).&lt;br/&gt;&lt;br/&gt;Y meneando que es gerundio.&lt;br/&gt;&lt;br/&gt;Como dice Elena, la educación es pasote, la mismiiiiita mismiiiita.]]></description>
+			<content:encoded><![CDATA[<p>Que flipe de letrero luminoso, parecia un torero con el capote (o eso he visto yo).</p>
+<p>Y meneando que es gerundio.</p>
+<p>Como dice Elena, la educación es pasote, la mismiiiiita mismiiiita.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Elena		</title>
+		<link>./../index.html#comment-1158</link>
+
+		<dc:creator><![CDATA[Elena]]></dc:creator>
+		<pubDate>Wed, 05 Dec 2007 16:00:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=277#comment-1158</guid>
+
+					<description><![CDATA[Que envidia de educación... igualito que en España...]]></description>
+			<content:encoded><![CDATA[<p>Que envidia de educación&#8230; igualito que en España&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Piscolabis	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Fri, 25 Nov 2011 01:24:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-1152</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Wed, 05 Dec 2007 00:15:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=273#comment-1152</guid>
+
+					<description><![CDATA[buuuuufffff....&lt;br/&gt;Ese chocolate tiene una pinta para comérselo en dos mordiscos]]></description>
+			<content:encoded><![CDATA[<p>buuuuufffff&#8230;.<br />Ese chocolate tiene una pinta para comérselo en dos mordiscos</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Bea		</title>
+		<link>./../index.html#comment-1137</link>
+
+		<dc:creator><![CDATA[Bea]]></dc:creator>
+		<pubDate>Tue, 04 Dec 2007 05:20:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=273#comment-1137</guid>
+
+					<description><![CDATA[Pues a mi me has dao envidia, como sepa la mitad de bueno que el té verde, o que el helado de té verde, me gustará.]]></description>
+			<content:encoded><![CDATA[<p>Pues a mi me has dao envidia, como sepa la mitad de bueno que el té verde, o que el helado de té verde, me gustará.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Txus		</title>
+		<link>./../index.html#comment-1135</link>
+
+		<dc:creator><![CDATA[Txus]]></dc:creator>
+		<pubDate>Tue, 04 Dec 2007 02:44:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=273#comment-1135</guid>
+
+					<description><![CDATA[a mi me da un poco de repelus eso tan verde, parece que esta caducao o algo-.&lt;br/&gt;tu mirate en el espejo a ver si se te ha quedado la cara como un blandiblu]]></description>
+			<content:encoded><![CDATA[<p>a mi me da un poco de repelus eso tan verde, parece que esta caducao o algo-.<br />tu mirate en el espejo a ver si se te ha quedado la cara como un blandiblu</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: triki		</title>
+		<link>./../index.html#comment-1134</link>
+
+		<dc:creator><![CDATA[triki]]></dc:creator>
+		<pubDate>Tue, 04 Dec 2007 00:30:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=273#comment-1134</guid>
+
+					<description><![CDATA[Que buena pinta el chocolate de te verde. A ver si llega pronto a España jajajajaja en unos 5-10 años .&lt;br/&gt;Es una impresión mía o en Japón esta de moda : cualquiercosa al te verde.&lt;br/&gt;Lo digo porque otro día fuí a un restaurante japones y les faltaba solo café al te verde ....]]></description>
+			<content:encoded><![CDATA[<p>Que buena pinta el chocolate de te verde. A ver si llega pronto a España jajajajaja en unos 5-10 años .<br />Es una impresión mía o en Japón esta de moda : cualquiercosa al te verde.<br />Lo digo porque otro día fuí a un restaurante japones y les faltaba solo café al te verde &#8230;.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Chapa y Pintura para las IkuExcursiones	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Fri, 23 May 2008 02:14:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-2574</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Fri, 23 May 2008 02:14:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=417#comment-2574</guid>
+
+					<description><![CDATA[&lt;b&gt;Chema&lt;/b&gt;, alguna pondré, pero tampoco te esperes mucha historia, que yo no soy de esos!!&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Enekochan&lt;/b&gt;, a que ha quedao chula la sección!!&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Prognatis&lt;/b&gt;, envidia dice! si tu has estado en trescuartaspartesdemundo!]]></description>
+			<content:encoded><![CDATA[<p><b>Chema</b>, alguna pondré, pero tampoco te esperes mucha historia, que yo no soy de esos!!</p>
+<p><b>Enekochan</b>, a que ha quedao chula la sección!!</p>
+<p><b>Prognatis</b>, envidia dice! si tu has estado en trescuartaspartesdemundo!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Prognatis		</title>
+		<link>./../index.html#comment-2555</link>
+
+		<dc:creator><![CDATA[Prognatis]]></dc:creator>
+		<pubDate>Thu, 22 May 2008 06:52:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=417#comment-2555</guid>
+
+					<description><![CDATA[Jejeje, al final no te va a quedar mapa, que envidia.]]></description>
+			<content:encoded><![CDATA[<p>Jejeje, al final no te va a quedar mapa, que envidia.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: enekochan		</title>
+		<link>./../index.html#comment-2544</link>
+
+		<dc:creator><![CDATA[enekochan]]></dc:creator>
+		<pubDate>Wed, 21 May 2008 11:52:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=417#comment-2544</guid>
+
+					<description><![CDATA[Oso ona! Tengo que apuntarme estas ikuexcursiones para cuando me pase por Japón ^^&lt;br/&gt;&lt;br/&gt;El restaurante de Kill Bill visita obligada claro =D]]></description>
+			<content:encoded><![CDATA[<p>Oso ona! Tengo que apuntarme estas ikuexcursiones para cuando me pase por Japón ^^</p>
+<p>El restaurante de Kill Bill visita obligada claro =D</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Chema		</title>
+		<link>./../index.html#comment-2543</link>
+
+		<dc:creator><![CDATA[Chema]]></dc:creator>
+		<pubDate>Wed, 21 May 2008 10:47:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=417#comment-2543</guid>
+
+					<description><![CDATA[Aun espero una excursion nocturna por  los bares de tokio...&lt;br/&gt;&lt;br/&gt;:P&lt;br/&gt;&lt;br/&gt;Gracias!!]]></description>
+			<content:encoded><![CDATA[<p>Aun espero una excursion nocturna por  los bares de tokio&#8230;</p>
+<p><img src="./../../wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Gracias!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

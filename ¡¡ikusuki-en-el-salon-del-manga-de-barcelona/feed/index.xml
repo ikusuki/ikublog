@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: ¡¡Ikusuki en el Salón del Manga de Barcelona!!	</title>
+	<atom:link href="./../../%C2%A1%C2%A1ikusuki-en-el-salon-del-manga-de-barcelona/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:35:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-24</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Mon, 23 Oct 2006 23:09:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=22#comment-24</guid>
+
+					<description><![CDATA[Pues si, hemos tenido mucha suerte. No se nos ocurre un lugar más apropiado para enseñar nuestras camisetas...&lt;br /&gt;&lt;br /&gt;Ya os contaremos si gustan!&lt;br /&gt;&lt;br /&gt;Por cierto Jon, vaya pedazo de fotos que tienes en tu blog, menuda envidia de viaje!!]]></description>
+			<content:encoded><![CDATA[<p>Pues si, hemos tenido mucha suerte. No se nos ocurre un lugar más apropiado para enseñar nuestras camisetas&#8230;</p>
+<p>Ya os contaremos si gustan!</p>
+<p>Por cierto Jon, vaya pedazo de fotos que tienes en tu blog, menuda envidia de viaje!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Jon		</title>
+		<link>./../index.html#comment-23</link>
+
+		<dc:creator><![CDATA[Jon]]></dc:creator>
+		<pubDate>Mon, 23 Oct 2006 21:09:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=22#comment-23</guid>
+
+					<description><![CDATA[Joe, que buena noticia! Enhorabuena y que tengais suerte; ya comentareis que tal os ha ido ;)&lt;br /&gt;&lt;br /&gt;Venga, animo y un saludo.]]></description>
+			<content:encoded><![CDATA[<p>Joe, que buena noticia! Enhorabuena y que tengais suerte; ya comentareis que tal os ha ido <img src="./../../wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Venga, animo y un saludo.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

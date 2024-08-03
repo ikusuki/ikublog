@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>smileys &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Mon, 03 Aug 2009 02:27:55 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Ikumanual de instrucciones</title>
+		<link>./../../../ikumanual-de-instrucciones/index.html</link>
+					<comments>./../../../ikumanual-de-instrucciones/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2009 02:09:11 +0000</pubDate>
+				<category><![CDATA[De todo un poco]]></category>
+		<category><![CDATA[gravatar]]></category>
+		<category><![CDATA[Ikucaricas]]></category>
+		<category><![CDATA[smileys]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1397</guid>
+
+					<description><![CDATA[Desde el ikucambio, el blog funciona algo distinto. No es que se haya ararunao, ojo, que ha quedao mu chulo. Pero es que la cosa va de otra forma, especialmente el sistema de comentarios, porque ahora cogemos y apuntamos en un postit cuando comentáis, así para la siguiente vez que entréis no hace falta que &#8230; <a href="./../../../ikumanual-de-instrucciones/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Ikumanual de instrucciones</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Desde el <a href="./../../../la-fuerza-de-la-costumbre/index.html">ikucambio</a>, el blog funciona algo distinto. No es que se haya ararunao, ojo, que ha quedao mu chulo. Pero es que la cosa va de otra forma, especialmente el sistema de comentarios, porque ahora cogemos y apuntamos en un postit cuando comentáis, así para la siguiente vez que entréis no hace falta que volváis a meter los datos que ya nos acordamos más<a href="http://www.wordreference.com/definicion/ufano"> ufanos que ufanos</a>.</p>
+<p>Como también se puede poner una imagen y muchos de vosotros no lo habéis hecho, el ikublog va y os asigna una de un monstruito al azar. Esto es así porque a mi me hizo mucha gracia y así se queda, pero como algunos os habéis rayao, aquí van las instrucciones para que pongáis la foto que os de la real gana:</p>
+<p>1- Id a <a href="http://www.gravatar.com/">gravatar </a>y registraos dándole a la flechita del menú de arriba «Log in to, or Sign up for, Gravatar» y seleccionar «Sign up»<br />
+2- Meted ahí el mismo email que usáis para comentar en el ikublog. Por ejemplo: «patapon@copon.com»<br />
+3- Los señores de gravatar os mandarán un email a esa dirección pa estar seguros que sois vosotros y no un otro, así que con ir al correo y pulsar en el link que os mandan ya se fían<br />
+4- En la pantalla que sale, hay que elegir usuario y contraseña a lo <a href="http://images.google.co.jp/images?hl=en&#038;rlz=1C1GGLS_en-USJP299&#038;um=1&#038;sa=1&#038;q=chloe+obrian&#038;btnG=Search+images&#038;aq=f&#038;oq=">Chloe</a>.<br />
+5- Ahí ya se puede elegir una de las imágenes que tienen ellos, o subir la que queráis</p>
+<p>Además, ahora es posible contestar a un comentario en concreto en vez de poner uno general en el post, así que como es más fácil, me veréis mucho más activo ahí contestandoos.</p>
+<p>Luego están las ikucaricas, ¡ay las ikucaricas!. Yo cuando ví que se podían poner las que uno quisiese, ví una mina ahí. Así que cuando me viene alguna tontez a la cabeza, busco una carita por ahí por internet y la ikuadapto. Aquí van las instrucciones de uso:</p>
+<p style="text-indent:50px"> <img src="./../../../wp-includes/images/smilies/ikufantasma.gif" alt=":ikufantasma:" class="wp-smiley" style="height: 1em; max-height: 1em;" />   el primo rojuno del fantasmico se usará cuando algo que se haya puesto en el post, o algún comentario de alguien sea una fantasmada como una morsa de gorda. </p>
+<p style="text-indent:50px">  <img src="./../../../wp-includes/images/smilies/ikucopon.gif" alt=":copon:" class="wp-smiley" style="height: 1em; max-height: 1em;" />  expresión de estado de ánimo alteradamente encabronil, usualmente utilizado al final de una frase</p>
+<p style="text-indent:50px">  <img src="./../../../wp-includes/images/smilies/sisi.gif" alt=":jumjum:" class="wp-smiley" style="height: 1em; max-height: 1em;" />  este se pondrá cuando lo que se haya dicho vaya con intención porsaquense, a lo <a href="http://images.google.co.jp/images?hl=en&#038;rlz=1C1GGLS_en-USJP299&#038;um=1&#038;sa=1&#038;q=risto+mejide&#038;btnG=Search+images&#038;aq=f&#038;oq=">Risto Mejide</a></p>
+<p style="text-indent:50px">  <img src="./../../../wp-includes/images/smilies/ikugracias.gif" alt=":ikugracias:" class="wp-smiley" style="height: 1em; max-height: 1em;" /> porque nunca se dan de más</p>
+<p style="text-indent:50px">  <img src="./../../../wp-includes/images/smilies/gatost.gif" alt=":gatostiable:" class="wp-smiley" style="height: 1em; max-height: 1em;" />  himno a la libertad creativa, pero con criterio antiulcerítico, voz de protesta ante el bicho aboquil multipateable tarambanil. Este tampoco se pone nunca de más.</p>
+<p style="text-indent:50px">  <img src="./../../../wp-includes/images/smilies/gambiters.gif" alt=":gambiters:" class="wp-smiley" style="height: 1em; max-height: 1em;" />  ícono representativo de todas las situaciones verbenerofestivas, expresando el carácter golfo de los participantes</p>
+<p style="text-indent:50px">  <img src="./../../../wp-includes/images/smilies/pirao.gif" alt=":pirao:" class="wp-smiley" style="height: 1em; max-height: 1em;" />  es bastante relativo eso de decir que uno está pirao, pero tampoco está de más señalarlo de vez en cuando</p>
+<p style="text-indent:50px">  <img src="./../../../wp-includes/images/smilies/viejuno.gif" alt=":viejuno:" class="wp-smiley" style="height: 1em; max-height: 1em;" />  cuando uno está viejuno o se hace alguna actividad viejuna, es menester poner la ikucarica correspondiente</p>
+<p style="text-indent:50px">  <img src="./../../../wp-includes/images/smilies/ikusegao.gif" alt=":bythesegao:" class="wp-smiley" style="height: 1em; max-height: 1em;" />  icono pensado  inicialmente para indicar el camino de salida de aquellos comentaristas porsaquiles, pero resulta que el pueblo llano ha decidido usarlo para despedirse con lo que yo también lo uso con tal significado. Lo que no quita para que tanto yo como vosotros mandéis a cortar pinos con él a quien consideréis necesario</p>
+<p style="text-indent:50px">  <img src="./../../../wp-includes/images/smilies/llorero.gif" alt=":cry:" class="wp-smiley" style="height: 1em; max-height: 1em;" />  si la cosa se pone tierna, soltaos, soltaos</p>
+<p style="text-indent:50px">  <img src="./../../../wp-includes/images/smilies/regulero.gif" alt=":regulero:" class="wp-smiley" style="height: 1em; max-height: 1em;" />  cuando se crea que el post publicado ofende a los lectores por su escasa calidad, se deberá indicar con este iconico. Ojo, que también se utilizará para calificar comentarios, que aquí hay pa todos</p>
+<p style="text-indent:50px">  <img src="./../../../wp-includes/images/smilies/peneke.gif" alt=":peneke:" class="wp-smiley" style="height: 1em; max-height: 1em;" />  ikucarica pensada para <a href="./../../../¡la-madre-que-pario-a-peneke/index.html">una sección en concreto</a>, pero que se podrá utilizar para expresar asombro en cantidades ingentes</p>
+<p style="text-indent:50px">  <img src="./../../../wp-includes/images/smilies/ostiador.gif" alt=":palizero:" class="wp-smiley" style="height: 1em; max-height: 1em;" />  cuando por circunstancias algún post o comentario te ha tocao los webos, se deberá dar una ostia virtualmente con este macarra amarillo. O tas tas al culete, como dice <a href="http://www.nihonmonamour.com/">Nuria</a></p>
+<p style="text-indent:50px">  <img src="./../../../wp-includes/images/smilies/ikuotia.gif" alt=":ahivalaotia:" class="wp-smiley" style="height: 1em; max-height: 1em;" />  ikucarica bilbaína del barrio de Rekalde que ha flipao en estéreo y en HD con lo narrado en el post, o con algún comentario </p>
+<p style="text-indent:50px">  <img src="./../../../wp-includes/images/smilies/pataliebre.gif" alt=":pliebre:" class="wp-smiley" style="height: 1em; max-height: 1em;" />  no está muy clara la diferencia entre <a href="./../../../ikudiccionario/index.html">gambitero y pataliebre</a>, aunque ambos tienen un matiz cariñoso de amistad que nunca debe malinterpretarse. A no ser que aparezca dos veces seguidas, que entonces habrá que mentar a la familia del pataliebrante si el pataliebrado lo considera necesario.</p>
+</p>
+<p>Y bueno, yo creo que con esto ya está todo el intringulis desenredado&#8230; si hay algo que todavía no os cuadre, en los comentarios os espero con todo mi esmero.</p>
+<p style="text-align:right"><img src="./../../../wp-includes/images/smilies/ikusegao.gif" alt=":bythesegao:" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../ikumanual-de-instrucciones/feed/index.html</wfw:commentRss>
+			<slash:comments>41</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1397</post-id>	</item>
+	</channel>
+</rss>

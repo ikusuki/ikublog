@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: IkuToscaMiddle in the world	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Thu, 20 Sep 2007 13:59:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Saruli		</title>
+		<link>./../index.html#comment-819</link>
+
+		<dc:creator><![CDATA[Saruli]]></dc:creator>
+		<pubDate>Thu, 20 Sep 2007 13:59:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=211#comment-819</guid>
+
+					<description><![CDATA[No te pinches, jajaja]]></description>
+			<content:encoded><![CDATA[<p>No te pinches, jajaja</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-818</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Thu, 20 Sep 2007 10:09:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=211#comment-818</guid>
+
+					<description><![CDATA[Ya se va llenando el mapa de chinchetillas, eh????]]></description>
+			<content:encoded><![CDATA[<p>Ya se va llenando el mapa de chinchetillas, eh????</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

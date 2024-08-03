@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Anuncio de lata de café	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:59:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: otakupsx		</title>
+		<link>./../index.html#comment-983</link>
+
+		<dc:creator><![CDATA[otakupsx]]></dc:creator>
+		<pubDate>Tue, 30 Oct 2007 20:03:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=246#comment-983</guid>
+
+					<description><![CDATA[si veo a ese tipo de seguro que no lo compro&lt;br/&gt;saludines bye]]></description>
+			<content:encoded><![CDATA[<p>si veo a ese tipo de seguro que no lo compro<br />saludines bye</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: hashassin		</title>
+		<link>./../index.html#comment-981</link>
+
+		<dc:creator><![CDATA[hashassin]]></dc:creator>
+		<pubDate>Tue, 30 Oct 2007 12:27:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=246#comment-981</guid>
+
+					<description><![CDATA[Hola Oskar, llevo leyendo tu blog desde hace unas semanas pero nunca e puesto un mensaje.&lt;br/&gt;&lt;br/&gt;Me gusta mucho tu blog y me parece genial lo de juntar la cultura de Euskadi con la de Japon.&lt;br/&gt;&lt;br/&gt;Me e reido mucho con el chistecito...&lt;br/&gt;&lt;br/&gt;Ale, te dejo saludos desde La Rioja&lt;br/&gt;&lt;br/&gt;Visita mi blog.xd]]></description>
+			<content:encoded><![CDATA[<p>Hola Oskar, llevo leyendo tu blog desde hace unas semanas pero nunca e puesto un mensaje.</p>
+<p>Me gusta mucho tu blog y me parece genial lo de juntar la cultura de Euskadi con la de Japon.</p>
+<p>Me e reido mucho con el chistecito&#8230;</p>
+<p>Ale, te dejo saludos desde La Rioja</p>
+<p>Visita mi blog.xd</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

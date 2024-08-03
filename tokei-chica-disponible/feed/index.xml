@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Tokei chica disponible	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Thu, 10 Apr 2008 21:55:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-2039</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2008 21:55:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=385#comment-2039</guid>
+
+					<description><![CDATA[Esa modelo tiene pinta de ser una mandonaaa....&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Bufff.... no quiero ni imaginarme...]]></description>
+			<content:encoded><![CDATA[<p>Esa modelo tiene pinta de ser una mandonaaa&#8230;.</p>
+<p>Bufff&#8230;. no quiero ni imaginarme&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Anonymous		</title>
+		<link>./../index.html#comment-2017</link>
+
+		<dc:creator><![CDATA[Anonymous]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2008 21:31:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=385#comment-2017</guid>
+
+					<description><![CDATA[Susana de Madrid ha sido la mas rapida.&lt;br/&gt;Saludines desde el maravilloso mundo del envio de las camisetas!&lt;br/&gt;Bea]]></description>
+			<content:encoded><![CDATA[<p>Susana de Madrid ha sido la mas rapida.<br />Saludines desde el maravilloso mundo del envio de las camisetas!<br />Bea</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Nagore		</title>
+		<link>./../index.html#comment-2004</link>
+
+		<dc:creator><![CDATA[Nagore]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2008 19:55:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=385#comment-2004</guid>
+
+					<description><![CDATA[Por ser la primera en hacer un comentario, Bea tu y yo esos negocios que tenemos me merezco la primera cami Tokei del mercado... sin contar la de Bea...&lt;br/&gt;Hablamos y quedamos...&lt;br/&gt;Esa Tokei Ikusuki jajaja... Lupin agarrate que empieza mi compra jajaja...]]></description>
+			<content:encoded><![CDATA[<p>Por ser la primera en hacer un comentario, Bea tu y yo esos negocios que tenemos me merezco la primera cami Tokei del mercado&#8230; sin contar la de Bea&#8230;<br />Hablamos y quedamos&#8230;<br />Esa Tokei Ikusuki jajaja&#8230; Lupin agarrate que empieza mi compra jajaja&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

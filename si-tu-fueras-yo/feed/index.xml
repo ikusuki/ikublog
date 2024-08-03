@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Si tu fueras yo&#8230;	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Wed, 04 Feb 2009 21:40:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Neki		</title>
+		<link>./../index.html#comment-7146</link>
+
+		<dc:creator><![CDATA[Neki]]></dc:creator>
+		<pubDate>Wed, 04 Feb 2009 21:40:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=670#comment-7146</guid>
+
+					<description><![CDATA[Al final lo mismo puedes dejar la informatica y vivir de lo q escribes, te gustaria?]]></description>
+			<content:encoded><![CDATA[<p>Al final lo mismo puedes dejar la informatica y vivir de lo q escribes, te gustaria?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Tania		</title>
+		<link>./../index.html#comment-7133</link>
+
+		<dc:creator><![CDATA[Tania]]></dc:creator>
+		<pubDate>Wed, 04 Feb 2009 05:42:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=670#comment-7133</guid>
+
+					<description><![CDATA[Oigan, no sean malos y díganle -escríbanle- al hombre que entre los comentarios le recomienda a Oskar abrirse un blog. Denle pistas para que llegue hasta aquí...]]></description>
+			<content:encoded><![CDATA[<p>Oigan, no sean malos y díganle -escríbanle- al hombre que entre los comentarios le recomienda a Oskar abrirse un blog. Denle pistas para que llegue hasta aquí&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

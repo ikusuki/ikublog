@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Nueva promoción	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Fri, 13 Jun 2008 04:56:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Marcos		</title>
+		<link>./../index.html#comment-2931</link>
+
+		<dc:creator><![CDATA[Marcos]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2008 04:56:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=432#comment-2931</guid>
+
+					<description><![CDATA[Una promoción mas modesta que la de Flapy con la PSP pero igualmente eficaz por lo que veo.]]></description>
+			<content:encoded><![CDATA[<p>Una promoción mas modesta que la de Flapy con la PSP pero igualmente eficaz por lo que veo.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-2783</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2008 01:08:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=432#comment-2783</guid>
+
+					<description><![CDATA[&lt;b&gt;Prognatis&lt;/b&gt;, si... amanecí bastante bien, la verdad.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Elena&lt;/b&gt;, jaja, mi hermano lo leyó!! &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Saioa&lt;/b&gt;, gracias chata! espero que te guste!]]></description>
+			<content:encoded><![CDATA[<p><b>Prognatis</b>, si&#8230; amanecí bastante bien, la verdad.</p>
+<p><b>Elena</b>, jaja, mi hermano lo leyó!! </p>
+<p><b>Saioa</b>, gracias chata! espero que te guste!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Saioa		</title>
+		<link>./../index.html#comment-2770</link>
+
+		<dc:creator><![CDATA[Saioa]]></dc:creator>
+		<pubDate>Tue, 03 Jun 2008 17:33:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=432#comment-2770</guid>
+
+					<description><![CDATA[estoy desaparecida asta el domingo pero venga va XDDD yo me apunto&lt;br/&gt;&lt;br/&gt;Por cierto di que si XD que tienes que divertirte hombre!]]></description>
+			<content:encoded><![CDATA[<p>estoy desaparecida asta el domingo pero venga va XDDD yo me apunto</p>
+<p>Por cierto di que si XD que tienes que divertirte hombre!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Elena		</title>
+		<link>./../index.html#comment-2760</link>
+
+		<dc:creator><![CDATA[Elena]]></dc:creator>
+		<pubDate>Tue, 03 Jun 2008 08:58:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=432#comment-2760</guid>
+
+					<description><![CDATA[Veya como empezaste la semanita, eh? Menos mal que tu family no lee el blog. No se yo que pensarían...jejejeje&lt;br/&gt;Besos]]></description>
+			<content:encoded><![CDATA[<p>Veya como empezaste la semanita, eh? Menos mal que tu family no lee el blog. No se yo que pensarían&#8230;jejejeje<br />Besos</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Prognatis		</title>
+		<link>./../index.html#comment-2758</link>
+
+		<dc:creator><![CDATA[Prognatis]]></dc:creator>
+		<pubDate>Tue, 03 Jun 2008 07:06:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=432#comment-2758</guid>
+
+					<description><![CDATA[Después de la tormenta... viene la calma.]]></description>
+			<content:encoded><![CDATA[<p>Después de la tormenta&#8230; viene la calma.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

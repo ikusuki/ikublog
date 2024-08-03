@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>mujaki &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Mon, 27 Nov 2006 18:40:00 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Pegatina Inocente</title>
+		<link>./../../../pegatina-inocente/index.html</link>
+					<comments>./../../../pegatina-inocente/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Mon, 27 Nov 2006 18:40:00 +0000</pubDate>
+				<category><![CDATA[inocente]]></category>
+		<category><![CDATA[mujaki]]></category>
+		<category><![CDATA[pegatinas coche]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=43</guid>
+
+					<description><![CDATA[Mientras llegan las camisetas a finales de esta semana, ya hemos recibido las nuevas pegatinas para el coche: PEGATINAS INOCENTE Así quedan (pulsad en la imagen para verlo más grande): ¡Si queréis que vuestro coche se revalorice, escríbenos y te enviaremos una! El precio es de 2€, 4 menos de lo que vale una copa &#8230; <a href="./../../../pegatina-inocente/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Pegatina Inocente</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Mientras llegan las camisetas a finales de esta semana, ya hemos recibido las nuevas pegatinas para el coche:</p>
+<div dragover="true" style="text-align: center; font-weight: bold;"><span dragover="true"  style="font-size:130%;"><span style="font-size:180%;">PEGATINAS INOCENTE</span></p>
+<p></span></p>
+<div dragover="true" style="text-align: left; font-weight: bold;"><span style="font-weight: normal;">Así quedan (pulsad en la imagen para verlo más grande):</p>
+<p></span><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://photos1.blogger.com/x/blogger2/2723/4398/1600/831725/Pegatina%20Ikusuki.jpg"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://photos1.blogger.com/x/blogger2/2723/4398/400/655037/Pegatina%20Ikusuki.jpg" alt="" border="0" /></a><br /><span style="font-weight: normal;">¡Si queréis que vuestro coche se revalorice, escríbenos y te enviaremos una! El precio es de <span style="font-weight: bold;font-size:180%;" >2€</span>, 4 menos de lo que vale una copa en un bar, 1 menos que dejar el coche dos horas en el parking, </span><span style="font-weight: normal;">28 menos que la factura de la luz, </span><span style="font-weight: normal;">36 menos de lo que vale llenar de gasolina,  850 menos del plazo de la hipoteca&#8230;</p>
+<p>Y recuerda!, si quieres una con el logotipo de Ikusuki, esa te la damos <span style="font-weight: bold;">by the face</span>! Sólo te pedimos que nos envíes una foto para publicarla en la sección ikucars de la web (borramos la matrícula, palabra de ikusukiko).</p>
+<p>Escríbenos a ikusuki@ikusuki.com con tu dirección y te llegará una en dos días!.</p>
+<p></span></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../pegatina-inocente/feed/index.html</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">43</post-id>	</item>
+	</channel>
+</rss>

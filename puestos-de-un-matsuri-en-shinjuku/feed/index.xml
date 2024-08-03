@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Puestos de un matsuri en Shinjuku	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:41:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Peter Petrelli(No he muerto)		</title>
+		<link>./../index.html#comment-418</link>
+
+		<dc:creator><![CDATA[Peter Petrelli(No he muerto)]]></dc:creator>
+		<pubDate>Thu, 14 Jun 2007 18:03:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=130#comment-418</guid>
+
+					<description><![CDATA[Me puedes explicar que comida es esa del tenderete? parece arroz y verduras, pero que es eso rojo de al lado del arroz? &lt;br/&gt;&lt;br/&gt;Y eso que esta en la plancha? parecen tortillas rellenas, jo k buena pinta, me esta entrando un hambre ahora k no he cenao de la hostia.&lt;br/&gt;El bicho ese disecao es como un sepia de las de aqui, lo has probado o lo has tocado o lo has olido o lo has comido?&lt;br/&gt;&lt;br/&gt;Agures]]></description>
+			<content:encoded><![CDATA[<p>Me puedes explicar que comida es esa del tenderete? parece arroz y verduras, pero que es eso rojo de al lado del arroz? </p>
+<p>Y eso que esta en la plancha? parecen tortillas rellenas, jo k buena pinta, me esta entrando un hambre ahora k no he cenao de la hostia.<br />El bicho ese disecao es como un sepia de las de aqui, lo has probado o lo has tocado o lo has olido o lo has comido?</p>
+<p>Agures</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Nagore		</title>
+		<link>./../index.html#comment-408</link>
+
+		<dc:creator><![CDATA[Nagore]]></dc:creator>
+		<pubDate>Wed, 13 Jun 2007 14:13:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=130#comment-408</guid>
+
+					<description><![CDATA[Ehhh vaya saraos se montan los japoneses no???&lt;br/&gt;Oye la foto polemica, q coño eran esas cosas tan raras, como ha dicho winnie a mi me han parecido calamares gigantes... jajaja&lt;br/&gt;Q caña...&lt;br/&gt;Besitos chatoooo!!!!!!!!!]]></description>
+			<content:encoded><![CDATA[<p>Ehhh vaya saraos se montan los japoneses no???<br />Oye la foto polemica, q coño eran esas cosas tan raras, como ha dicho winnie a mi me han parecido calamares gigantes&#8230; jajaja<br />Q caña&#8230;<br />Besitos chatoooo!!!!!!!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Winnie		</title>
+		<link>./../index.html#comment-407</link>
+
+		<dc:creator><![CDATA[Winnie]]></dc:creator>
+		<pubDate>Wed, 13 Jun 2007 08:25:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=130#comment-407</guid>
+
+					<description><![CDATA[Que narices era eso??? Calamares gigantes??? Ufff, no lo puedo distinguir!!!&lt;br/&gt;&lt;br/&gt;Pos nada, me has dejado con la intriga... y lo de las tortugas yo creia que era para comer, como estos se comen hasta las uñas de los pies de su madre... aggg, que cerda que soy!!!&lt;br/&gt;&lt;br/&gt;Besazos!!!]]></description>
+			<content:encoded><![CDATA[<p>Que narices era eso??? Calamares gigantes??? Ufff, no lo puedo distinguir!!!</p>
+<p>Pos nada, me has dejado con la intriga&#8230; y lo de las tortugas yo creia que era para comer, como estos se comen hasta las uñas de los pies de su madre&#8230; aggg, que cerda que soy!!!</p>
+<p>Besazos!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Cris		</title>
+		<link>./../index.html#comment-402</link>
+
+		<dc:creator><![CDATA[Cris]]></dc:creator>
+		<pubDate>Wed, 13 Jun 2007 00:25:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=130#comment-402</guid>
+
+					<description><![CDATA[Hola!&lt;br/&gt;Con la llegada del verano vienen también los &quot;matsuri&quot; de por aquí y de por allá... &lt;br/&gt;&lt;br/&gt;No te pierdas los &quot;hanabi matsuri&quot;, dentro de poco.&lt;br/&gt;&lt;br/&gt;Saludos]]></description>
+			<content:encoded><![CDATA[<p>Hola!<br />Con la llegada del verano vienen también los «matsuri» de por aquí y de por allá&#8230; </p>
+<p>No te pierdas los «hanabi matsuri», dentro de poco.</p>
+<p>Saludos</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

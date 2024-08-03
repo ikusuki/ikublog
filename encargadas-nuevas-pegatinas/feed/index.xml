@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Encargadas nuevas pegatinas	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:34:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-39</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Mon, 30 Oct 2006 17:24:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=27#comment-39</guid>
+
+					<description><![CDATA[Eh! no serás capaz!!!! enchufada!!!]]></description>
+			<content:encoded><![CDATA[<p>Eh! no serás capaz!!!! enchufada!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alma		</title>
+		<link>./../index.html#comment-35</link>
+
+		<dc:creator><![CDATA[Alma]]></dc:creator>
+		<pubDate>Sun, 29 Oct 2006 19:19:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=27#comment-35</guid>
+
+					<description><![CDATA[Yo creo que ya se cual es esa sorpresa... vendo mi silencio!!!]]></description>
+			<content:encoded><![CDATA[<p>Yo creo que ya se cual es esa sorpresa&#8230; vendo mi silencio!!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

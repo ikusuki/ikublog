@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>karage &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 03:51:25 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Una máquina expendedora</title>
+		<link>./../../../una-maquina-expendedora/index.html</link>
+					<comments>./../../../una-maquina-expendedora/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Thu, 26 Jun 2008 11:43:00 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[karage]]></category>
+		<category><![CDATA[takoyaki]]></category>
+		<category><![CDATA[vending machines]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=454</guid>
+
+					<description><![CDATA[El otro día que estuve en la feria del juguetillo para la nena y el chiquillo, ví ésta máquina expendedora: Comida de la de toda la vida congelada (Ikusuki traducciones a mi pedo S.A.) Bolas de pulpo (takoyaki), karaage (pollo rebozao), hot-dogs, onigiri (triángulos de arroz)&#8230; Y todo más congelao que los mocos de Walt &#8230; <a href="./../../../una-maquina-expendedora/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Una máquina expendedora</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>El otro día que estuve en l<a href="http://ikusuki.blogspot.com/2008/06/tokyo-toy-show-2008.html">a feria del juguetillo para la nena y el chiquillo</a>, ví ésta máquina expendedora:</p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.ggpht.com/koki142/SGOPMIiUU5I/AAAAAAAAJZQ/LfaHJZlKqBo/DSC05840.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://lh4.ggpht.com/koki142/SGOPMIiUU5I/AAAAAAAAJZQ/LfaHJZlKqBo/DSC05840.JPG?imgmax=512" alt="" border="0" /></a></p>
+<div style="text-align: center;">
+<div id="pieFoto">Comida de la de toda la vida congelada (Ikusuki traducciones a mi pedo S.A.)</div>
+</div>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh3.ggpht.com/koki142/SGOPIkAR44I/AAAAAAAAJZE/6cY6leRwYvw/DSC05839.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://lh3.ggpht.com/koki142/SGOPIkAR44I/AAAAAAAAJZE/6cY6leRwYvw/DSC05839.JPG?imgmax=512" alt="" border="0" /></a></p>
+<div style="text-align: center;" id="pieFoto">Bolas de pulpo (takoyaki), karaage (pollo rebozao), hot-dogs, onigiri (triángulos de arroz)&#8230;</div>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh6.ggpht.com/koki142/SGOPPThZGtI/AAAAAAAAJZc/8NBXS1czsI0/DSC05841.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://lh6.ggpht.com/koki142/SGOPPThZGtI/AAAAAAAAJZc/8NBXS1czsI0/DSC05841.JPG?imgmax=512" alt="" border="0" /></a></p>
+<div style="text-align: center;" id="pieFoto">Y todo más congelao que los mocos de Walt Disney!! No es mala idea, aunque no se cómo andará esto de sabor&#8230;</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../una-maquina-expendedora/feed/index.html</wfw:commentRss>
+			<slash:comments>14</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">454</post-id>	</item>
+	</channel>
+</rss>

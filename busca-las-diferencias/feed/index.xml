@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Busca las diferencias	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Sat, 28 Apr 2007 11:10:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Dani		</title>
+		<link>./../index.html#comment-243</link>
+
+		<dc:creator><![CDATA[Dani]]></dc:creator>
+		<pubDate>Sat, 28 Apr 2007 11:10:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=93#comment-243</guid>
+
+					<description><![CDATA[No esta nada mal, joe. Esta claro que una televion de plasma de 42&quot; no puedes tener, pero la verdad es que no creo que te haga falta con todo lo que tienes que ver por ahi fuera. Me gustaria estar ahi contigo..........]]></description>
+			<content:encoded><![CDATA[<p>No esta nada mal, joe. Esta claro que una televion de plasma de 42&#8243; no puedes tener, pero la verdad es que no creo que te haga falta con todo lo que tienes que ver por ahi fuera. Me gustaria estar ahi contigo&#8230;&#8230;&#8230;.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Cristina		</title>
+		<link>./../index.html#comment-237</link>
+
+		<dc:creator><![CDATA[Cristina]]></dc:creator>
+		<pubDate>Tue, 24 Apr 2007 02:25:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=93#comment-237</guid>
+
+					<description><![CDATA[Hey... se me hace que la nevera es igual a la mía!  Digo... habiendo tantos otros modelos!!! ja ja ja...&lt;br/&gt;&lt;br/&gt;Por otro lado, está quedando muy acogedor tu casa! Felicitaciones, eh!&lt;br/&gt;&lt;br/&gt;Saludos]]></description>
+			<content:encoded><![CDATA[<p>Hey&#8230; se me hace que la nevera es igual a la mía!  Digo&#8230; habiendo tantos otros modelos!!! ja ja ja&#8230;</p>
+<p>Por otro lado, está quedando muy acogedor tu casa! Felicitaciones, eh!</p>
+<p>Saludos</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

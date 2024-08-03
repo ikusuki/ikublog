@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Un cartel del metro de Tokyo	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:55:42 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-313</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Fri, 25 May 2007 00:09:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=108#comment-313</guid>
+
+					<description><![CDATA[Eh! pero bueno!!! jaja&lt;br/&gt;La cosa es que yo soy un guisantito pequeñito y no ocupo mucho, así que muy muy apretao no voy nunca!&lt;br/&gt;&lt;br/&gt;A ver si un día saco foto de algún japonés dormido de pies, eso si que es la ostia en bote.]]></description>
+			<content:encoded><![CDATA[<p>Eh! pero bueno!!! jaja<br />La cosa es que yo soy un guisantito pequeñito y no ocupo mucho, así que muy muy apretao no voy nunca!</p>
+<p>A ver si un día saco foto de algún japonés dormido de pies, eso si que es la ostia en bote.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Toscanopasabamuchotiemposenelbañodecustomerworks		</title>
+		<link>./../index.html#comment-310</link>
+
+		<dc:creator><![CDATA[Toscanopasabamuchotiemposenelbañodecustomerworks]]></dc:creator>
+		<pubDate>Thu, 24 May 2007 13:35:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=108#comment-310</guid>
+
+					<description><![CDATA[Toskanianoooo!!!q aunke vayas en el vagon de los hombres bien q te gusta ir apretadito, uummmm!!!jajajja]]></description>
+			<content:encoded><![CDATA[<p>Toskanianoooo!!!q aunke vayas en el vagon de los hombres bien q te gusta ir apretadito, uummmm!!!jajajja</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

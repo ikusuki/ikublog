@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Curiosidades &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Wed, 06 Sep 2017 01:19:37 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Turtle taxis en Tokio</title>
+		<link>./../../../../turtle-taxis-en-tokio/index.html</link>
+					<comments>./../../../../turtle-taxis-en-tokio/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Wed, 06 Sep 2017 01:19:37 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[De todo un poco]]></category>
+		<category><![CDATA[Regulero]]></category>
+		<category><![CDATA[Tokyo]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=10462</guid>
+
+					<description><![CDATA[El otro día nos montamos en un taxi cerca de Shinjuku y nos encontramos con una movida nueva, un botón ahí que ponía «botón de ir despacio». No le saqué foto, pero he encontrado algunas por ahí por el internete: [peg-image src=»https://lh3.googleusercontent.com/-qxgR_FQ3RY0/Wa9GMI7speI/AAAAAAAB6pw/EeYeWThu05kFGBDVCX7E7Mq6dsXyR733wCCoYBhgL/s144-o/16fd35439fa02e0fbe349e74d0833725.jpg» href=»https://picasaweb.google.com/106673933302351538831/6449509849243837041?locked=true#6462461164670199266&#8243; caption=»» type=»image» alt=»16fd35439fa02e0fbe349e74d0833725.jpg» image_size=»640&#215;360&#8243; ] [peg-image src=»https://lh3.googleusercontent.com/-x87X8dThFeA/Wa9GMI2HKJI/AAAAAAAB6pw/yrQ4kOFRS54P_J5BTueESjL2Yy6axZfCQCCoYBhgL/s144-o/C6drRcxWgAEDPRp.jpg» href=»https://picasaweb.google.com/106673933302351538831/6449509849243837041?locked=true#6462461164646770834&#8243; caption=»» type=»image» alt=»C6drRcxWgAEDPRp.jpg» image_size=»1024&#215;1024&#8243; &#8230; <a href="./../../../../turtle-taxis-en-tokio/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Turtle taxis en Tokio</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>El otro día nos montamos en un taxi cerca de Shinjuku y nos encontramos con una movida nueva, un botón ahí que ponía «botón de ir despacio». No le saqué foto, pero he encontrado algunas por ahí por el internete:</p>
+<p style="margin-top: 15px; margin-bottom: 15px">
+<p>[peg-image src=»https://lh3.googleusercontent.com/-qxgR_FQ3RY0/Wa9GMI7speI/AAAAAAAB6pw/EeYeWThu05kFGBDVCX7E7Mq6dsXyR733wCCoYBhgL/s144-o/16fd35439fa02e0fbe349e74d0833725.jpg» href=»https://picasaweb.google.com/106673933302351538831/6449509849243837041?locked=true#6462461164670199266&#8243; caption=»» type=»image» alt=»16fd35439fa02e0fbe349e74d0833725.jpg» image_size=»640&#215;360&#8243; ]</p>
+<p style="margin-top: 15px; margin-bottom: 15px">
+<p>[peg-image src=»https://lh3.googleusercontent.com/-x87X8dThFeA/Wa9GMI2HKJI/AAAAAAAB6pw/yrQ4kOFRS54P_J5BTueESjL2Yy6axZfCQCCoYBhgL/s144-o/C6drRcxWgAEDPRp.jpg» href=»https://picasaweb.google.com/106673933302351538831/6449509849243837041?locked=true#6462461164646770834&#8243; caption=»» type=»image» alt=»C6drRcxWgAEDPRp.jpg» image_size=»1024&#215;1024&#8243; ] </p>
+<p style="margin-top: 15px; margin-bottom: 15px">
+<p>Resulta que si ves que el taxista va muy rápido o simplemente quieres ir tranquilo, puedes pulsar este botón y el conductor irá más despacio. Me ha parecido una idea tan simple como magnífica: normalmente cuando uno coge un taxi, lo que se quiere es llegar al destino lo más rápido posible, pero hay muchas situaciones en que lo que quieres es llegar con calma, sobretodo si vas con críos. En la web de taxis identifican tres razones desde el punto de vista del cliente que les ha llevado a implementar este servicio:</p>
+<p style="margin-top: 15px; margin-bottom: 15px">
+<p>[peg-image src=»https://lh3.googleusercontent.com/-SD3SUNvyeoI/Wa9IKr1BPAI/AAAAAAAB6qI/GBTWJGiLNoM_WtTr1QwJaaOPez_znuCbACCoYBhgL/s144-o/Screen%2BShot%2B2017-09-06%2Bat%2B09.57.58.png» href=»https://picasaweb.google.com/106673933302351538831/6449509849243837041?locked=true#6462463338700946434&#8243; caption=»Screen Shot 2017-09-06 at 09.57.58.png» type=»image» alt=»Screen Shot 2017-09-06 at 09.57.58.png» image_size=»828&#215;520&#8243; ] </p>
+<p style="margin-top: 15px; margin-bottom: 15px">
+<p style="text-indent: 10px">1- No sentirse cómodo con conducciones agresivas.</p>
+<p style="text-indent: 10px">2- No tener prisa, preferir no ir a mucha velocidad.</p>
+<p style="text-indent: 10px">3- Ir con niños, preferir una conducción amable.</p>
+<p>El caso es que resulta que existen también desde hace unos años los «Turtle Taxis» en Tokyo, «taxis tortuga» que están pensados precisamente para esa gente que prefiere ir más suave y con más calma y no a lo puto loco como se conduce normalmente. Concretamente dice que ponen mucho esfuerzo en no dar grandes acelerones y frenar también muy muy despacio de manera que se noten los menos movimientos bruscos posibles y de paso contaminar menos. La verdad es que molaría que hubiese un efecto dominó y el resto del tráfico también se suavizase un poco&#8230;</p>
+<p style="margin-top: 15px; margin-bottom: 15px">
+<p>[peg-image src=»https://lh3.googleusercontent.com/-6CAAMQKO6IY/Wa9LxItQ6VI/AAAAAAAB6qs/tU553EyByAMTDHW_VgsVXE-gqYC8KFnVwCCoYBhgL/s144-o/14G121050_01_880x660.jpg» href=»https://picasaweb.google.com/106673933302351538831/6449509849243837041?locked=true#6462467297822959954&#8243; caption=»» type=»image» alt=»14G121050_01_880x660.jpg» image_size=»660&#215;660&#8243; ]</p>
+<p style="margin-top: 15px; margin-bottom: 15px">
+<p>[peg-image src=»https://lh3.googleusercontent.com/-boc98l2Ojzk/Wa9LxG_h0nI/AAAAAAAB6qs/hjfpiKoUSmoxkoDEhX9Av0i5WhgQC4gBgCCoYBhgL/s144-o/14G121050_04_88.jpg» href=»https://picasaweb.google.com/106673933302351538831/6449509849243837041?locked=true#6462467297362694770&#8243; caption=»» type=»image» alt=»14G121050_04_88.jpg» image_size=»800&#215;350&#8243; ]</p>
+<p style="margin-top: 15px; margin-bottom: 15px">
+<p>[peg-image src=»https://lh3.googleusercontent.com/-DcKHYIBUyRU/Wa9LxD8hf4I/AAAAAAAB6qs/ZC_4TxCihbQMyql1_KzTQHYU37UcQVZmgCCoYBhgL/s144-o/14G121050_03_880x660.jpg» href=»https://picasaweb.google.com/106673933302351538831/6449509849243837041?locked=true#6462467296544784258&#8243; caption=»» type=»image» alt=»14G121050_03_880x660.jpg» image_size=»880&#215;660&#8243; ]</p>
+<p style="margin-top: 15px; margin-bottom: 15px">
+<p>[peg-image src=»https://lh3.googleusercontent.com/-K7YeWZC88X8/Wa9LxNQSZzI/AAAAAAAB6qs/cBQk0vkF_x4-VT6ei_OGX5fm9f8NvDTzACCoYBhgL/s144-o/turtle-taxi3-550&#215;367.jpg» href=»https://picasaweb.google.com/106673933302351538831/6449509849243837041?locked=true#6462467299043600178&#8243; caption=»» type=»image» alt=»turtle-taxi3-550&#215;367.jpg» image_size=»550&#215;367&#8243; ]</p>
+<p style="margin-top: 15px; margin-bottom: 15px">
+<p>[peg-image src=»https://lh3.googleusercontent.com/-iyc-VCOF2eU/Wa9LxGDZP_I/AAAAAAAB6qs/byx3hWil0iofBUvE9I2Yu42n4s4H5gZewCCoYBhgL/s144-o/turtle-taxi2-550&#215;367.jpg» href=»https://picasaweb.google.com/106673933302351538831/6449509849243837041?locked=true#6462467297110474738&#8243; caption=»» type=»image» alt=»turtle-taxi2-550&#215;367.jpg» image_size=»550&#215;367&#8243; ]</p>
+<p style="margin-top: 15px; margin-bottom: 15px">
+<p>[peg-image src=»https://lh3.googleusercontent.com/-v8RIDjnMssw/Wa9LxLZk64I/AAAAAAAB6qs/JGmtOyvJ9CQbMjKfz66TfauMBig67tP5QCCoYBhgL/s144-o/turtle-taxi-550&#215;367.jpg» href=»https://picasaweb.google.com/106673933302351538831/6449509849243837041?locked=true#6462467298545691522&#8243; caption=»» type=»image» alt=»turtle-taxi-550&#215;367.jpg» image_size=»550&#215;367&#8243; ] </p>
+<p style="margin-top: 15px; margin-bottom: 15px">
+<p>Más fotos en el <a hre="http://turtle-taxi.tumblr.com/">Tumblr oficial de Turtle-Taxi</a>.</p>
+<p style="margin-top: 15px; margin-bottom: 15px">
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../turtle-taxis-en-tokio/feed/index.html</wfw:commentRss>
+			<slash:comments>26</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10462</post-id>	</item>
+		<item>
+		<title>El Setsubun de las pelotas</title>
+		<link>./../../../../el-setsubun-de-las-pelotas/index.html</link>
+					<comments>./../../../../el-setsubun-de-las-pelotas/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Thu, 04 Feb 2016 09:06:42 +0000</pubDate>
+				<category><![CDATA[Cultura]]></category>
+		<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Japón]]></category>
+		<category><![CDATA[Kota]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=10138</guid>
+
+					<description><![CDATA[Lo del Oni ese. Seguro que sabéis, y si no os lo cuento yo aquí, lo que es el Setsubun. Mayormente se trata de una costumbre japonesesca en la que un pavo se disfraza de demonio y la gente le tira semillas de soja gritando «demonio! fuera!! suerte!! dentro !!» como si no hubiese un &#8230; <a href="./../../../../el-setsubun-de-las-pelotas/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">El Setsubun de las pelotas</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Lo del Oni ese.</p>
+<p>Seguro que sabéis, y si no os lo cuento yo <a href="./../../../../setsubun/index.html">aquí</a>, lo que es el Setsubun. Mayormente se trata de una costumbre japonesesca en la que un pavo se disfraza de demonio y la gente le tira semillas de soja gritando «demonio! fuera!! suerte!! dentro !!» como si no hubiese un mañana. Luego se zampa también un rollaco de arroz con cosicas mirando pa el Cuenca de aquí y esa movida te da suerte ya para todo el año&#8230;. </p>
+<p>¡Y yo que sé porqué! ¿a mi que coño me preguntáis?, ¡ellos sabrán, déjales! ¡¿¿te dicen ellos a ti algo del oro, el incienso y la mirra esa!?!?, ¿!¿o de las uvas de nochevieja!?!?, ¡¡pues entonces!!</p>
+<p>Bueno, total, a lo que yo iba es que:</p>
+<p style="text-align: center; font-size: 28px">¡¡ Me cago yo en el Setsubun, hombre !!<br /> <img src="./../../../../wp-includes/images/smilies/ikucopon.gif" alt=":copon:" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </p>
+<p>Resulta que en la guardería de Kota han estado toda la semana ensayando la movida con pelotas de plástico en vez de con semillas de soja: se las daban y les enseñaban a tirárselas a un muñecote que tenían puesto ahí. Hasta aquí la cosa mola, una novedad para Kota porque es su primera vez y felicitación por parte de las profesoras cuando fui antes de ayer a buscarle porque parece que se le daba bien el asunto. Como le tire las pelotas a la cara con la misma fuerza con la que me tira a mi los muñecos de Anpanman, el Oni ese se iba a volver a casa con más hostias que un saltamontes dentro de una lata.</p>
+<p>Pues bien, llegó el día S y tres profesoras se disfrazaron de demonios con máscaras feas y ropajes y se dedicaron a danzar por el jardín de la guardería que se ve perfectamente desde los ventanales de dentro. Jugaron a la cosa de asustarles, y las profes de dentro, cómplices de la movida, les decían «¡¡mira mira que están ahí los demonios, coged las pelotas!!» y así. Hasta que finalmente entraron dentro gritando y montando escandalera con las máscaras y pasó lo que es normal que pase con niños de 0 a 3 años: ¡¡¡ todos llorando más acojonados que Rita Barberá en el dietista !!!!</p>
+<p style="text-align: center; font-size: 28px">¡¡Pero que no dejaron de llorar ya en todo el día, parece !!</p>
+<p>Al llegar a casa, Kota estaba todavía como acojonadillo: se notaba que el pobrecico lo había pasado mal. Cenó y se metió en la cama sin protestar, estaba como achuchaíllo ahí en si mismo.</p>
+<p style="text-align: center; font-size: 28px">¡¡ Pues menuda nochecita !!</p>
+<p>No hemos dormido una mierda porque no ha dejado de llorar y despertarse con pesadillas de los bichos de los huevos gritando «nooo diablo, veteeee, veteeee». Para cuando conseguíamos que se calmase, después de media hora haciéndole ver que lo más feo que había en aquella habitación con él era su padre, se volvía a dormir y se despertaba al de un rato otra vez igual. Así que hoy llevo unas bonicas ojeras sponsored by Setsubun. </p>
+<p>Mecagüen la madre que lo parió.</p>
+<div class="pie-gallery">
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img fetchpriority="high" decoding="async" src="http://lh3.googleusercontent.com/-a1J5vwVYpjM/VrMReWJ_qAI/AAAAAAABnqY/JKXz_0_JJFw/featured-image40.jpg?imgmax=720" alt="featured-image40.jpg" width="720" height="378" class="pie-img"><img style="margin:10px 0px 0px 0px;"/></img></p>
+</div>
+</div>
+<p></p>
+<p>PD: Los hechos son verídicos, lo ha pasado bastante mal. La manera de contarlo no tanto, en realidad me hace mucha gracia la cosa y ahora si vemos que Kota se porta mal le amenazamos con que viene el demoniaco y se achanta cosa fina!!</p>
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../el-setsubun-de-las-pelotas/feed/index.html</wfw:commentRss>
+			<slash:comments>39</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10138</post-id>	</item>
+		<item>
+		<title>Obras de arte cortando papel</title>
+		<link>./../../../../obras-de-arte-cortando-papel/index.html</link>
+					<comments>./../../../../obras-de-arte-cortando-papel/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Tue, 02 Sep 2014 21:07:19 +0000</pubDate>
+				<category><![CDATA[Cultura]]></category>
+		<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Regulero]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=9799</guid>
+
+					<description><![CDATA[Puede que el origami sea el arte relacionado con papel más famoso de Japón, pero el kamikiri tampoco se le queda atrás. Kamikiri significa literalmente «cortando papel» y se basa en crear una figura como resultado de cortar con mucha paciencia y arte una hoja de papel, tan sencillo como eso y tan chungo de &#8230; <a href="./../../../../obras-de-arte-cortando-papel/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Obras de arte cortando papel</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Puede que el origami sea el arte relacionado con papel más famoso de Japón, pero el kamikiri tampoco se le queda atrás. Kamikiri significa literalmente «cortando papel» y se basa en crear una figura como resultado de cortar con mucha paciencia y arte una hoja de papel, tan sencillo como eso y tan chungo de llevar a cabo, amigos.</p>
+<p>El artista <a href="http://www.akira-nagaya.com/">Akira Nagaya</a> de Chiba domina el arte del corte papelero y muchos de sus diseños están basados en la cultura tradicional japonesa, vamos, que son de corte antiguo (badabumChass):<br />
+</p>
+<p style="text-align:center">
+<div class="pie-gallery">
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img decoding="async" src="http://lh4.ggpht.com/-z7PzjcXgD70/VAYwwUlAz2I/AAAAAAABNzA/kGV3DnSDmxs/692930c90b2af4fbb8c5aa10a458b815.jpg?imgmax=720" alt="692930c90b2af4fbb8c5aa10a458b815.jpg" width="720" height="540" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img decoding="async" src="http://lh5.ggpht.com/-4i0jUSTbtq8/VAYwwf_pZmI/AAAAAAABNzA/-sPNrf1gwng/c0e3acd585bac23ba2fe90bf738c0cca.jpg?imgmax=720" alt="c0e3acd585bac23ba2fe90bf738c0cca.jpg" width="720" height="540" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-PkSoU3LyWpI/VAYwwdY-f7I/AAAAAAABNzA/LZpmBrk-Rws/f1a026b43d2ecdd463a06acb1cba8d29.jpg?imgmax=720" alt="f1a026b43d2ecdd463a06acb1cba8d29.jpg" width="720" height="480" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-2c48D1fPBI0/VAYwxdsZ5LI/AAAAAAABNzA/XYysehH_Kf0/f95625dda5c7af116a6045cfca6f2adc.jpg?imgmax=720" alt="f95625dda5c7af116a6045cfca6f2adc.jpg" width="669" height="720" class="pie-img"/></p>
+</div>
+</div>
+<p></p>
+<p>Últimamente le ha dado por hacer conocidos personajes de anime, seguro que conocéis a la mayoría:</p>
+<p style="text-align:center">
+<div class="pie-gallery">
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-j4jm9b8gLDI/VAYwxqzZxXI/AAAAAAABNzA/5g7xbDQtr0A/pa-1.png?imgmax=720" alt="pa-1.png" width="720" height="551" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-ZtcEeJRESQA/VAYwx0AXydI/AAAAAAABNzA/-l9txYWJB04/pa-10.png?imgmax=720" alt="pa-10.png" width="720" height="617" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-gflcJEcfdI4/VAYwyW9IDLI/AAAAAAABNzA/YC0GAo5qmZU/pa-12.png?imgmax=720" alt="pa-12.png" width="720" height="482" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-0vJizpc8KPw/VAYwydStPCI/AAAAAAABNzA/V8sA6v9oYNM/pa-11.png?imgmax=720" alt="pa-11.png" width="720" height="603" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-nkr1vYVDQk4/VAYw0E6VbRI/AAAAAAABNzA/1YaZQoWP3j4/pa-5.png?imgmax=720" alt="pa-5.png" width="720" height="516" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-ps-k-CBdvbk/VAYwz4KLQsI/AAAAAAABNzA/zF7iHvWRO34/pa-4.png?imgmax=720" alt="pa-4.png" width="720" height="559" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-YjvPmOTDn-U/VAYwzbiwn8I/AAAAAAABNzA/vBIlwsFsChs/pa-3.png?imgmax=720" alt="pa-3.png" width="720" height="618" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/-E1I_sxupMC0/VAYwzDUMiCI/AAAAAAABNzA/n7vypMa7CBc/pa-2.png?imgmax=720" alt="pa-2.png" width="720" height="593" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-72sipb7e9VE/VAYw0b2t1jI/AAAAAAABNzA/Q2CY09usQC8/pa-6.png?imgmax=720" alt="pa-6.png" width="720" height="583" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-clkJsfENTOE/VAYw04EgyxI/AAAAAAABNzA/-tIYUn9n2xo/pa-7.png?imgmax=720" alt="pa-7.png" width="720" height="570" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/-UKWpCfym668/VAYw1XAfRxI/AAAAAAABNzA/J6awBJNZAo4/pa-8.png?imgmax=720" alt="pa-8.png" width="720" height="645" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/-wN3vwCAkW44/VAYw1sNyLOI/AAAAAAABNzA/feJW70Fzreg/pa-9.png?imgmax=720" alt="pa-9.png" width="720" height="583" class="pie-img"/></p>
+</div>
+</div>
+<p>
+Jodé, y yo que cuando cojo las tijeras no soy capaz ni de cortar un cuadrado decente&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../obras-de-arte-cortando-papel/feed/index.html</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9799</post-id>	</item>
+		<item>
+		<title>Más carteles del metro</title>
+		<link>./../../../../mas-carteles-del-metro/index.html</link>
+					<comments>./../../../../mas-carteles-del-metro/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Sun, 30 Sep 2012 03:08:17 +0000</pubDate>
+				<category><![CDATA[Carteles]]></category>
+		<category><![CDATA[Regulero]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=8403</guid>
+
+					<description><![CDATA[Ahí van dos series más que sacaron, de la última todavía se ven hoy mismo por los metros de Tokyo (por cierto, que estuvimos grabando con los de Callejeros y voy a salir ahí diciendo toscaneces!!, jeje). こんな人見た Yo he visto a este tipo !? way of posting Continuación de «Carteles del metro de Tokyo«]]></description>
+										<content:encoded><![CDATA[<p>Ahí van dos series más que sacaron, de la última todavía se ven hoy mismo por los metros de Tokyo (por cierto, que estuvimos grabando con los de Callejeros y voy a salir ahí diciendo toscaneces!!, jeje).<br />
+<Br/></p>
+<p style="font-size:160%">こんな人見た Yo he visto a este tipo</p>
+<p style="text-align:center">
+<div class="pie-gallery">
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-FP-cIKnIoQI/UGex5gFEOaI/AAAAAAABGD4/6MX_DkrTgvI/tokyo-metro-manner-poster-201104.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201104.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-aP207-xYa0c/UGex5r8_qTI/AAAAAAABGEA/xDNvUUN0230/tokyo-metro-manner-poster-201105.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201105.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-XpID9tKjuys/UGex5v-bXxI/AAAAAAABGD8/xhg-3RVaP_Q/tokyo-metro-manner-poster-201106.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201106.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-Htbu8-ixGds/UGex6qNryCI/AAAAAAABGEE/ywIGGqSLm5c/tokyo-metro-manner-poster-201107.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201107.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-jw_agiOHcHI/UGex68w2UVI/AAAAAAABGEM/JUt8PFfnetI/tokyo-metro-manner-poster-201108.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201108.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-kDtTndiw6uw/UGex7IIqUmI/AAAAAAABGEQ/55rO_JuazQk/tokyo-metro-manner-poster-201109.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201109.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/-y-2Nnl-mea8/UGex7fuqc9I/AAAAAAABGEU/IP_4AWcuwSQ/tokyo-metro-manner-poster-201110.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201110.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-RU2HIm7S62c/UGex7xalPZI/AAAAAAABGEg/JeIpY_UsM4A/tokyo-metro-manner-poster-201111.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201111.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/-RtLeGKLCyRY/UGex75F44BI/AAAAAAABGEk/JWl8qKm5A_E/tokyo-metro-manner-poster-201112.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201112.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/-pxkV6Tg694w/UGex8T-yVFI/AAAAAAABGEo/JXUJdRttlhs/tokyo-metro-manner-poster-201201.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201201.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/-JRNnma1avSY/UGex89UI-0I/AAAAAAABGFI/o-T1pAKcN2I/tokyo-metro-manner-poster-201202.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201202.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-cI30v-kGS2g/UGex83vyuGI/AAAAAAABGE4/fGVBQZf77_c/tokyo-metro-manner-poster-201203.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201203.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+</div>
+<p></p>
+<p style="font-size:160%">!?</p>
+<div class="pie-gallery">
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-frdXq4k3j5Y/UGex9BiAdfI/AAAAAAABGFA/guTTsinLIqQ/tokyo-metro-manner-poster-201204.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201204.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-_sbOvglp4j8/UGex93D6jVI/AAAAAAABGFY/k2_1AZt4HUs/tokyo-metro-manner-poster-201205.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201205.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/-dqmRKNdtNSQ/UGex-gzVALI/AAAAAAABGFc/CU7NhCfgwbw/tokyo-metro-manner-poster-201206.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201206.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-guZsDEWVwos/UGex-uNMjZI/AAAAAAABGFk/G2y9zfFF6z4/tokyo-metro-manner-poster-201207.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201207.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-SrsCKhZfShs/UGex_U0QluI/AAAAAAABGFs/CD40V0IUP0o/tokyo-metro-manner-poster-201208.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201208.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-pZZAqC8HNs4/UGex_gmkjWI/AAAAAAABGF0/YzGAeSk2j_c/tokyo-metro-manner-poster-201209.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201209.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+</div>
+<p></p>
+<p style="text-align:center; font-size:130%"><img src="./../../../../wp-includes/images/smilies/regulero.gif" alt=":regulero:" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />way of posting</p>
+<p>
+Continuación de «<a href="./../../../../recopilacion-de-carteles-tokyo-metro/index.html">Carteles del metro de Tokyo</a>«</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../mas-carteles-del-metro/feed/index.html</wfw:commentRss>
+			<slash:comments>28</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8403</post-id>	</item>
+		<item>
+		<title>Recopilación de carteles Tokyo Metro</title>
+		<link>./../../../../recopilacion-de-carteles-tokyo-metro/index.html</link>
+					<comments>./../../../../recopilacion-de-carteles-tokyo-metro/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Mon, 10 Sep 2012 14:37:30 +0000</pubDate>
+				<category><![CDATA[Carteles]]></category>
+		<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Ikuchorradas]]></category>
+		<category><![CDATA[Regulero]]></category>
+		<category><![CDATA[Trenes]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=8384</guid>
+
+					<description><![CDATA[Do it at home! Do it again! Halloween Special edition Regulerer Powered Post Fuente: Gakuranman]]></description>
+										<content:encoded><![CDATA[<p style="text-align:left; font-size:150%">Do it at home!</p>
+<p style="text-align:center">
+<div class="pie-gallery">
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-nKkAqsaf-0w/UE34xyfgRwI/AAAAAAABF6I/FNxVxDHVP-w/tokyo-metro-manner-poster-200804.gif?imgmax=576" alt="tokyo-metro-manner-poster-200804.gif" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/-X2k7tFk_bRg/UE34x3yyqtI/AAAAAAABF6g/4VZLndo9TqY/tokyo-metro-manner-poster-200805.gif?imgmax=576" alt="tokyo-metro-manner-poster-200805.gif" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-IT4x2PmUpDQ/UE34xzN03bI/AAAAAAABF6M/QqKXHks7hOs/tokyo-metro-manner-poster-200806.gif?imgmax=576" alt="tokyo-metro-manner-poster-200806.gif" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-eMeDhRw2xhw/UE34yoENNII/AAAAAAABF6o/o6FeN2QPxu4/tokyo-metro-manner-poster-200807.gif?imgmax=576" alt="tokyo-metro-manner-poster-200807.gif" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/-3hPd3fl3EJg/UE34yrqf6FI/AAAAAAABF6Y/CMKfKfERlwY/tokyo-metro-manner-poster-200808.gif?imgmax=576" alt="tokyo-metro-manner-poster-200808.gif" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-Qgsz-JfQNcg/UE34zkHADSI/AAAAAAABF68/--8Py5N9mR8/tokyo-metro-manner-poster-200809-388x550.gif?imgmax=576" alt="tokyo-metro-manner-poster-200809-388x550.gif" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-B9nXHnhqDdM/UE340awr6nI/AAAAAAABF6w/_HlCQdOrn68/tokyo-metro-manner-poster-200810-388x550.gif?imgmax=576" alt="tokyo-metro-manner-poster-200810-388x550.gif" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-EVhcgQYFUlw/UE341SGJgfI/AAAAAAABF7E/aku-VoWmRwg/tokyo-metro-manner-poster-200811-388x550.jpg?imgmax=576" alt="tokyo-metro-manner-poster-200811-388x550.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-YFFBSewvK-w/UE341jPlbrI/AAAAAAABF7c/rib-LSM-xFk/tokyo-metro-manner-poster-200812.gif?imgmax=576" alt="tokyo-metro-manner-poster-200812.gif" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-Fajil1yx_AA/UE341xVHn_I/AAAAAAABF7U/W1GUKUMt4mI/tokyo-metro-manner-poster-200901-388x550.gif?imgmax=576" alt="tokyo-metro-manner-poster-200901-388x550.gif" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-3duBniNY4o4/UE343SC3NfI/AAAAAAABF7s/TVQjdcMvwKs/tokyo-metro-manner-poster-200902-388x550.gif?imgmax=576" alt="tokyo-metro-manner-poster-200902-388x550.gif" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-urAmepw1A6c/UE344OsgDWI/AAAAAAABF78/tO4y9A3Qwak/tokyo-metro-manner-poster-200903-388x550.gif?imgmax=576" alt="tokyo-metro-manner-poster-200903-388x550.gif" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-da4FFy47hdc/UE344Kq4idI/AAAAAAABF8c/n-okjKw32Bg/tokyo-metro-manner-poster-200904.gif?imgmax=576" alt="tokyo-metro-manner-poster-200904.gif" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-yk8sseI-4S0/UE344qAteOI/AAAAAAABF8I/50WIOboSrTY/tokyo-metro-manner-poster-200905.gif?imgmax=576" alt="tokyo-metro-manner-poster-200905.gif" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/-zNaob6EnEEc/UE344qhPG1I/AAAAAAABF8Q/zjXMZy5eve4/tokyo-metro-manner-poster-200906.gif?imgmax=576" alt="tokyo-metro-manner-poster-200906.gif" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-VdQXCj3c_QE/UE345eL7-DI/AAAAAAABF8U/DbE5seJSmYY/tokyo-metro-manner-poster-200907.gif?imgmax=576" alt="tokyo-metro-manner-poster-200907.gif" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-n8ibtpr3U-4/UE345xyrdVI/AAAAAAABF8k/ukJxHyAJScc/tokyo-metro-manner-poster-200908.gif?imgmax=576" alt="tokyo-metro-manner-poster-200908.gif" width="408" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/-2rKpwG3Q6bU/UE347Lsd3sI/AAAAAAABF9g/4gls5wLB9GM/tokyo-metro-manner-poster-200909.gif?imgmax=576" alt="tokyo-metro-manner-poster-200909.gif" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-4MNmEcmOr9I/UE346tf4yiI/AAAAAAABF8w/w1qQUtcRqa8/tokyo-metro-manner-poster-200910.gif?imgmax=576" alt="tokyo-metro-manner-poster-200910.gif" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-kpYLoNpDW9E/UE347NBfkqI/AAAAAAABF84/C9It8rcitMQ/tokyo-metro-manner-poster-200911.gif?imgmax=576" alt="tokyo-metro-manner-poster-200911.gif" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-ho8DpDUJk2w/UE347HDgsII/AAAAAAABF9A/f2rxp2l76vg/tokyo-metro-manner-poster-200912.gif?imgmax=576" alt="tokyo-metro-manner-poster-200912.gif" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-Cx3RMPqHmvs/UE348Cg_e9I/AAAAAAABF9I/nxs8uOG3-BU/tokyo-metro-manner-poster-201001.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201001.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-W4nANAXt5rw/UE348q2gR8I/AAAAAAABF9U/GeSdCEXgSK8/tokyo-metro-manner-poster-201002.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201002.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-gt2DJLhDK5o/UE348ji8lXI/AAAAAAABF9Y/RcIN-r7P-S0/tokyo-metro-manner-poster-201003.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201003.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<p></p>
+<p style="text-align:left; font-size:150%">Do it again!</p>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-pKtWvUhhBXc/UE349b4BqBI/AAAAAAABF9k/PnJTsCH2NOo/tokyo-metro-manner-poster-201004.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201004.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-LRRGj1YY7S4/UE349VkiZyI/AAAAAAABF9o/j1X_rFH3VvA/tokyo-metro-manner-poster-201005.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201005.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-nASZH422YY4/UE34-Ng-AMI/AAAAAAABF9w/g9BGN-sWUoo/tokyo-metro-manner-poster-201006.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201006.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/-gTRGlJKmWtA/UE34-AXptrI/AAAAAAABF94/HSu2qwW5Uu4/tokyo-metro-manner-poster-201007.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201007.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-7neRyapmYbg/UE34-juuvaI/AAAAAAABF-A/lb2CHLAn8IU/tokyo-metro-manner-poster-201008.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201008.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-sQPPzI-n4yw/UE34-_Pp5oI/AAAAAAABF-E/quODouek3ZI/tokyo-metro-manner-poster-201009.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201009.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-OfYXpafTc70/UE34_ngOtyI/AAAAAAABF-U/JaI5T_MU468/tokyo-metro-manner-poster-201010.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201010.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-CTpbRWSo3X4/UE34_Xzr_jI/AAAAAAABF-Q/zKlctr3mHGY/tokyo-metro-manner-poster-201011.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201011.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-hC0_zwFxJzU/UE34_qO5DwI/AAAAAAABF-Y/tbNd_t1oztA/tokyo-metro-manner-poster-201012.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201012.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-LVUsMXyUXPI/UE35AD8b-iI/AAAAAAABF-g/yerDspPDhrE/tokyo-metro-manner-poster-201101.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201101.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-LhFqXKc5nYo/UE35AjwYJ0I/AAAAAAABF-4/6KZBGkLixSM/tokyo-metro-manner-poster-201102.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201102.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/-gHWWltHx578/UE35AqUriHI/AAAAAAABF-s/epHDhZ16HK8/tokyo-metro-manner-poster-201103.jpg?imgmax=576" alt="tokyo-metro-manner-poster-201103.jpg" width="407" height="576" class="pie-img"/></p>
+</div>
+<p></p>
+<p style="text-align:left; font-size:150%">Halloween Special edition</p>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-3RS0dSLgmjk/UE35BS3xIhI/AAAAAAABF_A/s-EYgv-XmEQ/tokyo-metro-manner-poster-halloween.jpg?imgmax=576" alt="tokyo-metro-manner-poster-halloween.jpg" width="406" height="576" class="pie-img"/></p>
+</div>
+</div>
+<p></p>
+<p style="text-align:center; font-size:140%">Regulerer Powered Post<br /><img src="./../../../../wp-includes/images/smilies/regulero.gif" alt=":regulero:" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Fuente: <a href="http://gakuranman.com/36-iconic-tokyo-metro-subway-manner-posters-2008-2010">Gakuranman</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../recopilacion-de-carteles-tokyo-metro/feed/index.html</wfw:commentRss>
+			<slash:comments>83</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8384</post-id>	</item>
+		<item>
+		<title>Al acecho</title>
+		<link>./../../../../al-acecho/index.html</link>
+					<comments>./../../../../al-acecho/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Sun, 29 Jan 2012 12:51:25 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Ginza]]></category>
+		<category><![CDATA[Tokyo]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=7880</guid>
+
+					<description><![CDATA[Visto en Ginza]]></description>
+										<content:encoded><![CDATA[<p style="text-align:center">
+<div class="pie-gallery">
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-RG4m2-71YUM/TyVBWtWA8NI/AAAAAAABCcg/Vn9vNmTCyNQ/DSC_6014-Edit-4.jpg?imgmax=576" alt="DSC_6014-Edit-4.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-nH8IqdGit3E/TyU_UR6WDII/AAAAAAABCcU/XGvbulPL-_Q/DSC_6014-Edit-3.jpg?imgmax=576" alt="DSC_6014-Edit-3.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-uVg3CBqmwQ0/TyU_Rb_R5mI/AAAAAAABCb8/eog2D7kwsE8/DSC_6014-Edit.jpg?imgmax=576" alt="DSC_6014-Edit.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/-47jkdGA8-bE/TyU_TZlAFZI/AAAAAAABCcM/wysrgnDUgYI/DSC_6014-Edit-2.jpg?imgmax=576" alt="DSC_6014-Edit-2.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-RRdnYs_3B4s/TyU_OawGIvI/AAAAAAABCb0/pBTrwwziNUo/DSC_6015-Edit.jpg?imgmax=576" alt="DSC_6015-Edit.jpg" width="383" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-I-0_g1kyRc4/TyU_Sc0CnlI/AAAAAAABCcE/ZnyABXNcRTA/DSC_6016-Edit.jpg?imgmax=576" alt="DSC_6016-Edit.jpg" width="383" height="576" class="pie-img"/></p>
+</div>
+</div>
+<p>
+Visto en Ginza</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../al-acecho/feed/index.html</wfw:commentRss>
+			<slash:comments>27</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">7880</post-id>	</item>
+		<item>
+		<title>Toilet Origami</title>
+		<link>./../../../../toilet-origami/index.html</link>
+					<comments>./../../../../toilet-origami/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Thu, 19 Jan 2012 01:55:09 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[De todo un poco]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=7854</guid>
+
+					<description><![CDATA[El otro día me compré papel higiénico y me vino un panfletico que me hizo mucha gracia. Resulta que te cuentan ahí, como si no quiere la cosa así en frío, cómo hacer origami con el papel higiénico&#8230; Espera, que lo digo otra vez: ¡¡ Origami con el papel higiénico !! Usease que si quieres &#8230; <a href="./../../../../toilet-origami/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Toilet Origami</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>El otro día me compré papel higiénico y me vino un panfletico que me hizo mucha gracia. Resulta que te cuentan ahí, como si no quiere la cosa así en frío, cómo hacer origami con el papel higiénico&#8230;</p>
+<p>Espera, que lo digo otra vez:</p>
+<p style="text-align:center; font-size:190%">¡¡ Origami con el papel higiénico !! <br /><img src="./../../../../wp-includes/images/smilies/pirao.gif" alt=":pirao:" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <img src="./../../../../wp-includes/images/smilies/pirao.gif" alt=":pirao:" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <img src="./../../../../wp-includes/images/smilies/pirao.gif" alt=":pirao:" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </p>
+<p style="text-align:center">
+<div class="pie-gallery">
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-FmxEw48OVhU/TxdljZjZ8GI/AAAAAAABCYA/1jnYTwvawio/DSC_5969.jpg?imgmax=576" alt="DSC_5969.jpg" width="383" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-uZmR9hpMwx4/Txdlh2KFoOI/AAAAAAABCX8/a8cHuc6NGyY/DSC_5968.jpg?imgmax=576" alt="DSC_5968.jpg" width="383" height="576" class="pie-img"/></p>
+</div>
+</div>
+<p>
+Usease que si quieres que tu cuarto de baño tenga un toque original al lado del trono real, la cosa es sentarse y liarse a tratar de hacer el perro, la mariposa o el conejo con el rollo canutero:</p>
+<p style="text-align:center">
+<div class="pie-gallery">
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-IiIMRJW5AAs/Txdlkngk1iI/AAAAAAABCYE/zOJfkLUYp9U/DSC_5974.jpg?imgmax=576" alt="DSC_5974.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/-tjMQYjNXkoQ/Txdll4z84fI/AAAAAAABCYI/XoSpU81yivA/DSC_5976.jpg?imgmax=576" alt="DSC_5976.jpg" width="383" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-fdBM5AiEdmw/TxdlnZhcjgI/AAAAAAABCYM/9pYgAy1kXEg/DSC_5977.jpg?imgmax=576" alt="DSC_5977.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+</div>
+<p>
+Como otra cosa no, pero gilipolleces yo hago todas las que me encuentro, ésta mañana me he puesto manos a la obra y he intentado hacer la mariposa. El papel higiénico es súper suave (como se merecen mis sagradas posaderas), así que no hay manera de hacer ninguna doblez que dure&#8230; total, que me ha salido un truño bastante lamentable, pero es mi truño!! estoy muy orgulloso de él!!</p>
+<p style="text-align:center">
+<div class="pie-gallery">
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-Ch5oUpcwL2U/Txdlqc-hRUI/AAAAAAABCYU/N-5_BhSk-NM/DSC_5979.jpg?imgmax=576" alt="DSC_5979.jpg" width="383" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-Y_sxtpWdTRg/TxdlroPQtPI/AAAAAAABCYY/S7jOETJzPUU/DSC_5980.jpg?imgmax=576" alt="DSC_5980.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/-Ud19NNN47U0/TxdlsjxxPFI/AAAAAAABCYc/XGi8fePYDrc/DSC_5981.jpg?imgmax=576" alt="DSC_5981.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+</div>
+<p>
+La historia es que ahora no me atrevo a deshacer tamaña obra de ingeniería, así que nos iremos haciendo amigos del dueño del bar de la esquina porque igual nos pasamos más a menudo&#8230;</p>
+<p>Total, que este nuevo arte emergente tiene <a href="https://twitter.com/#!/toiletorigami">twitter</a> con el background más higiénico nunca visto, <a href="http://www.facebook.com/origamicommunications">facebook </a>y página web (<a href="http://toiletorigami.com/">http://toiletorigami.com/ </a>) donde te enseñan otras figuras posibles a crear con el ilustre pergamino nalguero:</p>
+<p style="text-align:center">
+<div class="pie-gallery">
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh4.ggpht.com/-G5oDmVtUlWE/Txd2XnXqRCI/AAAAAAABCYk/XJsUD2p7aI0/work_001.jpg?imgmax=576" alt="work_001.jpg" width="576" height="240" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/-K6kfrPb2Rdk/Txd2X66baEI/AAAAAAABCYo/u_T5SIGdT8w/work_002.jpg?imgmax=576" alt="work_002.jpg" width="576" height="240" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/-hYJ-U7_Hvno/Txd2X0pYMwI/AAAAAAABCYs/BPqTu--f3HI/work_011.jpg?imgmax=576" alt="work_011.jpg" width="576" height="240" class="pie-img"/></p>
+</div>
+</div>
+<p>
+¡Así si va uno al baño!<br />
+<b>#asiSi</b> </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../toilet-origami/feed/index.html</wfw:commentRss>
+			<slash:comments>19</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">7854</post-id>	</item>
+		<item>
+		<title>La rutina del sábado</title>
+		<link>./../../../../la-rutina-del-sabado/index.html</link>
+					<comments>./../../../../la-rutina-del-sabado/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Tue, 20 Jan 2009 23:11:00 +0000</pubDate>
+				<category><![CDATA[Cultura]]></category>
+		<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Vete a saber]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=656</guid>
+
+					<description><![CDATA[El sábado es el día en el que uno se tiene que acordar de meter las latas en una bolsa, los botellines de plástico en otra, las de cristal en una tercera y bajarlas antes de las ocho de la mañana. Como para mi los sábados no son el mejor día para madrugar, lo que &#8230; <a href="./../../../../la-rutina-del-sabado/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">La rutina del sábado</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>El sábado es el día en el que uno se tiene que acordar de meter las latas en una bolsa, los botellines de plástico en otra, las de cristal en una tercera y bajarlas antes de las ocho de la mañana. Como para mi los sábados no son el mejor día para madrugar, lo que yo hago, como la mayoría de la gente, es dejarlas en su sitio la noche anterior.</p>
+<p>Pero los sábados también es el día en que otra gente tiene una rutina bien distinta&#8230; como la de intentar sacar algo de beneficio de lo que los demás tiramos.</p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh3.ggpht.com/_pE6wnLeL87o/SXSEqizcVPI/AAAAAAAAaZI/3Ez4tp811UM/s512/DSC07022.JPG"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 512px; height: 384px;" src="http://lh3.ggpht.com/_pE6wnLeL87o/SXSEqizcVPI/AAAAAAAAaZI/3Ez4tp811UM/s512/DSC07022.JPG" alt="" border="0" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh6.ggpht.com/_pE6wnLeL87o/SXSEsBMtXuI/AAAAAAAAaZU/dTXrZ6AsPC0/s512/DSC07023.JPG"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 512px; height: 384px;" src="http://lh6.ggpht.com/_pE6wnLeL87o/SXSEsBMtXuI/AAAAAAAAaZU/dTXrZ6AsPC0/s512/DSC07023.JPG" alt="" border="0" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh6.ggpht.com/_pE6wnLeL87o/SXSEpR6wHEI/AAAAAAAAaY8/RuJN3Bk64uY/s512/DSC07021.JPG"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 384px; height: 512px;" src="http://lh6.ggpht.com/_pE6wnLeL87o/SXSEpR6wHEI/AAAAAAAAaY8/RuJN3Bk64uY/s512/DSC07021.JPG" alt="" border="0" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.ggpht.com/_pE6wnLeL87o/SXSElzelnPI/AAAAAAAAaYw/9SISlzJy9Qg/s512/DSC07024.JPG"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 512px; height: 384px;" src="http://lh5.ggpht.com/_pE6wnLeL87o/SXSElzelnPI/AAAAAAAAaYw/9SISlzJy9Qg/s512/DSC07024.JPG" alt="" border="0" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../la-rutina-del-sabado/feed/index.html</wfw:commentRss>
+			<slash:comments>15</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">656</post-id>	</item>
+		<item>
+		<title>Sales de baño</title>
+		<link>./../../../../sales-de-bano/index.html</link>
+					<comments>./../../../../sales-de-bano/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Fri, 09 Jan 2009 03:09:00 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Productos]]></category>
+		<category><![CDATA[Vete a saber]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=647</guid>
+
+					<description><![CDATA[Me he aficionado a tomarme un baño ahí un ratazo largo a las noches, y mucho más ahora que hace más frío que en los bolsillos de Walt Disney. Y como soy un señoritingo, no os creáis que me tomo los baños ahí con agua sólo, no señor, yo me compro sus sales de baño &#8230; <a href="./../../../../sales-de-bano/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Sales de baño</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Me he aficionado a tomarme un baño ahí un ratazo largo a las noches, y mucho más ahora que hace más frío que en los bolsillos de Walt Disney. Y como soy un señoritingo, no os creáis que me tomo los baños ahí con agua sólo, no señor, yo me compro sus sales de baño que encima aquí venden de cinco mil tipos.</p>
+<p>Estas dos me llamaron la atención:</p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.ggpht.com/_pE6wnLeL87o/SWKEXgecSBI/AAAAAAAAZNo/3p6q2ZZehSw/s512/DSC06611.JPG"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 512px; height: 384px;" src="http://lh5.ggpht.com/_pE6wnLeL87o/SWKEXgecSBI/AAAAAAAAZNo/3p6q2ZZehSw/s512/DSC06611.JPG" alt="" border="0" /></a></p>
+<div id="pieFoto"><i>Las vendían en el barrio chino de Yokohama. Son para adelgazar, y sale un Bruce Lee ahí todo fondón! Be un tirillas my friend!</i></div>
+</div>
+<p></p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh3.ggpht.com/_pE6wnLeL87o/SUUUEPV9oPI/AAAAAAAAY-s/q8a3id6HsHc/s512/DSC06866.JPG"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 384px; height: 512px;" src="http://lh3.ggpht.com/_pE6wnLeL87o/SUUUEPV9oPI/AAAAAAAAY-s/q8a3id6HsHc/s512/DSC06866.JPG" alt="" border="0" /></a></p>
+<div id="pieFoto"><i>Yo estas interpreto que son para el día después de su nombre, vamos, pa la resaca</i></div>
+<p></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../sales-de-bano/feed/index.html</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">647</post-id>	</item>
+		<item>
+		<title>Conversaciones de aeropuerto</title>
+		<link>./../../../../conversaciones-de-aeropuerto/index.html</link>
+					<comments>./../../../../conversaciones-de-aeropuerto/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Mon, 05 Jan 2009 09:21:00 +0000</pubDate>
+				<category><![CDATA[Conversación de...]]></category>
+		<category><![CDATA[Cultura]]></category>
+		<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Vete a saber]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=641</guid>
+
+					<description><![CDATA[Narita, Tokyo. Día de marchar.Mientras imprimo el billete en las máquinas, donde elijo asiento en la puerta de emergencia al lado de la ventanilla, una chica me pregunta si tengo algún problema con el ordenador y si necesito ayuda. Declino su oferta, saco el billete, facturo y me dirijo a la puerta de embarque. Paso &#8230; <a href="./../../../../conversaciones-de-aeropuerto/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Conversaciones de aeropuerto</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><span style="font-size:130%;"><span style="font-weight: bold;">Narita, Tokyo. Día de marchar.</span></span><br />Mientras imprimo el billete en las máquinas, donde elijo asiento en la puerta de emergencia al lado de la ventanilla, una chica me pregunta si tengo algún problema con el ordenador y si necesito ayuda. Declino su oferta, saco el billete, facturo y me dirijo a la puerta de embarque. Paso por un control:</p>
+<p><span style="font-style: italic;">&#8211; Good morning sir, can you show me your passport, please?</span> <span style="font-style: italic;"><br />&#8211; Yes.</span><br /><span style="font-style: italic;">&#8211; Buenos diasu, ¿como está?</span> (en castellano y riéndose)<br /><span style="font-style: italic;">&#8211; Bien bien, good good, thank you</span> <span style="font-style: italic;"><br />&#8211; Ok, thank you very much sir</span></p>
+<p>Y me deja pasar sin más.</p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh3.ggpht.com/_pE6wnLeL87o/SWHoFZxkZnI/AAAAAAAAZKU/D5khdWSow3c/s512/DSC06902.JPG"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 384px; height: 512px;" src="http://lh3.ggpht.com/_pE6wnLeL87o/SWHoFZxkZnI/AAAAAAAAZKU/D5khdWSow3c/s512/DSC06902.JPG" alt="" border="0" /></a><br /><span style="font-size:130%;"><span style="font-weight: bold;">Frankfurt. </span></span><br />Trato de buscar la puerta de embarque del avión para Bilbao. En la cola para el control de equipaje de mano se nos cuelan cuatro personas: una vieja y tres mostrencos. Llego al control y la chica me habla en inglés sin ni siquiera mirarme a la cara:</p>
+<p><span style="font-style: italic;">&#8211; Si tienes un ordenador, ponlo en una bandeja a parte y lo demás ahí y pasa por el arco</span> <span style="font-style: italic;"><br />&#8211; Vale</span></p>
+<p>Al pasar por la maleta, ven algo raro y me paran:</p>
+<p><span style="font-style: italic;">&#8211; ¿Esta es tu maleta?</span> <span style="font-style: italic;"><br />&#8211; Si</span> <span style="font-style: italic;"><br />&#8211; Abrela</span> <span style="font-style: italic;"><br />&#8211; Voy</span></p>
+<p>La abro un poco acojonado por las formas, lo primero que se ve son dos sobres de Udón y Soba que Michiko me ha regalado para que se lo cocine a mis padres, con sus respectivos paquetes para hacer la salsa.</p>
+<p><span style="font-style: italic;">&#8211; Ah, comida basura, muy bien</span> <span style="font-style: italic;"><br />&#8211; No es comida basura, es comida japonesa, así que todo lo contrario más bien</span></p>
+<p>La tía visiblemente incomodada por la respuesta se dedica a sacar absolutamente todo lo que hay en la maleta y lo desperdiga por la mesa, el resto de gente espera. Cuando se aburre de ver que sólo llevo libros y cuatro tonterías, me dice:</p>
+<p><span style="font-style: italic;">&#8211; Vale, puede irse</span></p>
+<p>Y me deja allí volviendo a intentar que todo entre en la maleta mientras se va formando una cola del copón. Yo no tengo otra manera de irme de allí que con todo dentro, así que me tiro un buen rato. La tía, encima, me mira mal como si fuese culpa mía y se dedica a cuchichear con su compañera señalándome en vez de hacer un mínimo esfuerzo por ayudarme a arreglar la que ha preparado ella sola.<br /><span style="font-weight: bold;font-size:130%;" ><br />Bilbao, día de volver a Japón. </span><br />Voy con mi maleta de mano un poco acojonado por si me paso de peso, lo pongo todo en la cinta transportadora y al pasar por el arco el guardia civil que está zampando chicle, me dice que deje la chamarra también. La dejo, vuelvo a pasar por el arco y me doy cuenta que llevo el cinturón metálico puesto, pero no se si ha pitado el chisme o no. El tío también se da cuenta:</p>
+<p><span style="font-style: italic;">&#8211; Esto te lo tenías que haber quitado antes, hombre</span> (tono de perdonarme la vida)<br /><span style="font-style: italic;">&#8211; Ah vale, no me he dado cuenta hasta ahora</span> <span style="font-style: italic;"><br />&#8211; Ba, ya es igual, venga tira tira</span></p>
+<p>Recojo las cosas y me voy. Aquí también he tenido que poner el ordenador a parte en una bandeja él sólo.</p>
+<p><span style="font-size:130%;"> <span style="font-weight: bold;">Frankfurt. Último transbordo.</span></span><br />Paso con la maleta de mano por el control, el señor me da los buenos días mientras me pide el pasaporte:</p>
+<p><span style="font-style: italic;">&#8211; Buenos días, señor, ¿me permite su pasaporte, por favor?</span><br /><span style="font-style: italic;">&#8211; Buenos días, si si, claro, tenga</span><br /><span style="font-style: italic;">&#8211; Muy bien, todo perfecto, que tenga un buen viaje</span> <span style="font-style: italic;"><br />&#8211; Muchas gracias</span><span style="font-size:130%;"><span style="font-weight: bold;"></p>
+<p>Narita. Tokyo. Ya llegamos.</span></span><br />Después del viaje más curioso de mi vida, recojo la maleta grande que había facturado y me dirijo al control. El hombre ve mi pasaporte y me habla:</p>
+<p><span style="font-style: italic;">&#8211; ¿Puedes hablar inglés?</span> (en inglés)<br /><span style="font-style: italic;">&#8211; Si si</span><br /><span style="font-style: italic;">&#8211; ¿Puedes hablar japonés? </span>(en japonés)<br /><span style="font-style: italic;">&#8211; Si, un poco</span> (en japonés)</p>
+<p>Después de hacer estas dos preguntas, a continuación me dice todo en dos idiomas. Primero en inglés y seguido en japonés, yo le contesto en lo primero que me sale:</p>
+<p><span style="font-style: italic;">&#8211; ¿Cuanto has estado fuera? ¿Cuanto has estado fuera?</span> (inglés &#8211; japonés)<br /><span style="font-style: italic;">&#8211; Dos semanas</span></p>
+<p>Así me hace dos o tres preguntas del estilo en dual, y después me saca un panfleto donde se ven fotos de drogas: maría, pastis&#8230; de todo</p>
+<p><span style="font-style: italic;">&#8211; ¿Lleva algo de esto en la maleta?</span> <span style="font-style: italic;"><br />&#8211; No</span></p>
+<p>La siguiente hoja es de armas: pistolas, espadas, cuchillos</p>
+<p><span style="font-style: italic;">&#8211; ¿Y algo de esto?</span> <span style="font-style: italic;"><br />&#8211; Tampoco</span></p>
+<p>No se si no se lo cree, o es que está aburrido, así que me pide abrir la maleta. Yo ya resignado la abro, lo primero que se ve es un plumifero de Karate que me compré y que resulta que está más arrugado que la pata de Periko:</p>
+<p><span style="font-style: italic;">&#8211; SKIF, esto es de Karate, ¿verdad?</span><br /><span style="font-style: italic;">&#8211; Si, Shotokan</span> <span style="font-style: italic;"><br />&#8211; Está muy arrugado, disculpe.</span></p>
+<p>Y coge el tío y se dedica a sacarlo, alisarlo con la mano y doblarlo perfectamente cual dependiente de Zara. Yo me quedo chato:</p>
+<p><span style="font-style: italic;">&#8211; Muchísimas gracias</span> <span style="font-style: italic;"><br />&#8211; Nada nada. ¿Esto que es? </span>(señalando a un envoltorio con un regalo)<br /><span style="font-style: italic;">&#8211; Es un regalo, un cuenco</span></p>
+<p>Mete otra vez la chaqueta de la SKIF cuidando que la ropa no sobresalga, y llama a su compañero. Entre los dos me cierran la maleta mientras yo miro el cuidado con el que lo hacen. Después me dice que mueva los números de la combinación por si se abre sin querer, coge la maleta y la saca por el otro lado de la mesa para que no tenga que bajarla yo:</p>
+<p><span style="font-style: italic;">&#8211; Vale, vaya con cuidado y muchas gracias</span> <span style="font-style: italic;"><br />&#8211; De nada, a ti</span></p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.ggpht.com/_pE6wnLeL87o/SWHufZIB-YI/AAAAAAAAZLA/US6Ri25wLY8/s512/DSC_0036.JPG"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 340px; height: 512px;" src="http://lh4.ggpht.com/_pE6wnLeL87o/SWHufZIB-YI/AAAAAAAAZLA/US6Ri25wLY8/s512/DSC_0036.JPG" alt="" border="0" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../conversaciones-de-aeropuerto/feed/index.html</wfw:commentRss>
+			<slash:comments>35</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">641</post-id>	</item>
+	</channel>
+</rss>

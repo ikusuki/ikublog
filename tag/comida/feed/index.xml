@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Comida &#8211; Bebida &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Sun, 07 Jun 2009 13:18:57 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Las sandías, a tajadas</title>
+		<link>./../../../las-sandias-a-tajadas/index.html</link>
+					<comments>./../../../las-sandias-a-tajadas/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Sun, 07 Jun 2009 13:15:38 +0000</pubDate>
+				<category><![CDATA[Vete a saber]]></category>
+		<category><![CDATA[Comida - Bebida]]></category>
+		<category><![CDATA[Ikusuki]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=807</guid>
+
+					<description><![CDATA[Menudo día&#8230; mira que he pensado «esto no lo cuentes que añades leña a la fama que empezó el Pau, que cuando digas «seguidme» va a ir todo el mundo en la otra dirección».. pero ba, total. Pues eso, que me he perdido, me he ido en bici hasta Haneda, y al volver se me &#8230; <a href="./../../../las-sandias-a-tajadas/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Las sandías, a tajadas</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Menudo día&#8230; mira que he pensado «esto no lo cuentes que añades leña a la fama que empezó el <a href="http://elpachinko.com/japon/viajes-japon-los-pataliebreak/">Pau</a>, que cuando digas «seguidme» va a ir todo el mundo en la otra dirección».. pero ba, total.</p>
+<p>Pues eso, que me he perdido, me he ido en bici hasta Haneda, y al volver se me ha hecho de noche y me he tirado dos horas dando vueltas por entre calles ahí que eran todas iguales. La cosa ha estado chula, tengo que decirlo, porque he fichao un par de tiendas a las que volveré, si soy capaz, cualquier fin de semana.</p>
+<p>Bueno en fin, que a la vuelta he pasado por el Kitamura para aprovisionarme de viandas y bienes alimenticios para tratar de llegar al fin de semana que viene todo nutrido ahí, y me he dado cuenta que me he acostumbrado a comprar las sandías por tajadas. Y esto es algo que yo nunca había visto que vendiesen en los Eroskis.</p>
+<p>Es más, me acuerdo de mi abuelo en el mercado de los miércoles de mi pueblo dándoles pescozones a las sandías enteras para saber si estaban en su punto o no (a mi me sonaba siempre igual: clonk clonk).</p>
+<p><img fetchpriority="high" decoding="async" class="pie-img aligncenter" src="http://lh4.ggpht.com/_pE6wnLeL87o/Siu6GFHISTI/AAAAAAAAvOI/iQtyAzvimT0/DSC_0144-1.jpg?imgmax=576" alt="DSC_0144-1.jpg" width="576" height="383" /></p>
+<div id="pieFoto" style="text-align: center;"><em>Está envuelta en dos o tres capas del plástico puchiglas ese, más protegida que ni sé</em></div>
+<p><img decoding="async" class="pie-img aligncenter" src="http://lh5.ggpht.com/_pE6wnLeL87o/Siu6GzlqFiI/AAAAAAAAvOQ/5aJLPS9Mwt8/DSC_0146-1.jpg?imgmax=576" alt="DSC_0146-1.jpg" width="576" height="383" /></p>
+<div id="pieFoto" style="text-align: center;"><em>Y vale 350 yenes, que son 2.5€ o 415 pts&#8230; ¿cómo os habéis quedao? ¿cuánto vale ahora mismo una sandía entera allí?</em></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../las-sandias-a-tajadas/feed/index.html</wfw:commentRss>
+			<slash:comments>21</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">807</post-id>	</item>
+	</channel>
+</rss>

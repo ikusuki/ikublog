@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Casa &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Thu, 16 Jul 2009 06:01:19 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Mi casa en 7 fotos</title>
+		<link>./../../../mi-casa-en-7-fotos/index.html</link>
+					<comments>./../../../mi-casa-en-7-fotos/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2009 06:00:58 +0000</pubDate>
+				<category><![CDATA[De todo un poco]]></category>
+		<category><![CDATA[Fotos]]></category>
+		<category><![CDATA[Casa]]></category>
+		<category><![CDATA[Malandrín]]></category>
+		<category><![CDATA[Tokyo]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1215</guid>
+
+					<description><![CDATA[Y creo que a parte de lo de dentro del armario, no se ha quedado nada fuera. Normal que se pase la aspiradora en un titá&#8230; ¡¡Aunque, ojo, que la cosa da para un photowalk!!!]]></description>
+										<content:encoded><![CDATA[<p style="text-align:center">
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img fetchpriority="high" decoding="async" src="http://lh5.ggpht.com/_pE6wnLeL87o/Sl5zLm9g8pI/AAAAAAAAza8/mk949iWRgSw/DSC_0002-4-1.jpg?imgmax=576" alt="DSC_0002-4-1.jpg" width="383" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img decoding="async" src="http://lh5.ggpht.com/_pE6wnLeL87o/Sl5zOpVghOI/AAAAAAAAzbM/inbvjwzFATs/DSC_0004-3-1.jpg?imgmax=576" alt="DSC_0004-3-1.jpg" width="383" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img decoding="async" src="http://lh4.ggpht.com/_pE6wnLeL87o/Sl5zM7eWRuI/AAAAAAAAzbE/kp5OiO3IQmY/DSC_0003-4-1.jpg?imgmax=576" alt="DSC_0003-4-1.jpg" width="383" height="576" class="pie-img"></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/_pE6wnLeL87o/Sl5zQn0lnqI/AAAAAAAAzbg/CXyNWWz712Q/DSC_0006-2-1.jpg?imgmax=576" alt="DSC_0006-2-1.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/_pE6wnLeL87o/Sl5zRwG3viI/AAAAAAAAzbo/Easc-yDJbvo/DSC_0013-3-1.jpg?imgmax=576" alt="DSC_0013-3-1.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/_pE6wnLeL87o/Sl5zT-fLrVI/AAAAAAAAzb4/qeE3Ze3nX9M/DSC_0015-4-1.jpg?imgmax=576" alt="DSC_0015-4-1.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/_pE6wnLeL87o/Sl5zVN1KFxI/AAAAAAAAzcA/Wxbw4wL74rg/DSC_0016-4-1.jpg?imgmax=576" alt="DSC_0016-4-1.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<p>Y creo que a parte de lo de dentro del armario, no se ha quedado nada fuera. Normal que se<a href="./../../../el-ikuapanao-2-pasando-la-aspiradora/index.html"> pase la aspiradora en un titá</a>&#8230; ¡¡Aunque, ojo, que <a href="./../../../photo-walk/index.html">la cosa da para un photowalk!!!</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../mi-casa-en-7-fotos/feed/index.html</wfw:commentRss>
+			<slash:comments>41</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1215</post-id>	</item>
+	</channel>
+</rss>

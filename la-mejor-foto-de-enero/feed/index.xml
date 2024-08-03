@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: La mejor foto de Enero	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Wed, 28 Sep 2011 01:47:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-1510</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Mon, 04 Feb 2008 01:27:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=327#comment-1510</guid>
+
+					<description><![CDATA[Es la foto del mes, y por más que he buscado, no podía poner una en la que no estuviese el Fuji.&lt;br/&gt;&lt;br/&gt;Esto es así, compañeros!]]></description>
+			<content:encoded><![CDATA[<p>Es la foto del mes, y por más que he buscado, no podía poner una en la que no estuviese el Fuji.</p>
+<p>Esto es así, compañeros!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Nagore		</title>
+		<link>./../index.html#comment-1508</link>
+
+		<dc:creator><![CDATA[Nagore]]></dc:creator>
+		<pubDate>Sat, 02 Feb 2008 12:05:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=327#comment-1508</guid>
+
+					<description><![CDATA[Pues si, tenía que ser la foto... con lo que te ha costado ver el Fuji, bien se merecía ser la foto del mes y del año... xo como dice Triki... el colofón sería llegar a la cima... así que animo, que tu seguro que lo consigues...]]></description>
+			<content:encoded><![CDATA[<p>Pues si, tenía que ser la foto&#8230; con lo que te ha costado ver el Fuji, bien se merecía ser la foto del mes y del año&#8230; xo como dice Triki&#8230; el colofón sería llegar a la cima&#8230; así que animo, que tu seguro que lo consigues&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: triki		</title>
+		<link>./../index.html#comment-1506</link>
+
+		<dc:creator><![CDATA[triki]]></dc:creator>
+		<pubDate>Sat, 02 Feb 2008 09:57:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=327#comment-1506</guid>
+
+					<description><![CDATA[Realmente te marco la experiencia jajaja , solo te falta coronar la cima este año, así que ya sabes Ikureto al canto.]]></description>
+			<content:encoded><![CDATA[<p>Realmente te marco la experiencia jajaja , solo te falta coronar la cima este año, así que ya sabes Ikureto al canto.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Herzeleyd		</title>
+		<link>./../index.html#comment-1504</link>
+
+		<dc:creator><![CDATA[Herzeleyd]]></dc:creator>
+		<pubDate>Fri, 01 Feb 2008 12:55:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=327#comment-1504</guid>
+
+					<description><![CDATA[Tienes que cambiar la temática eh, que siempre es el mismo protagonista hihihihi&lt;br/&gt;&lt;br/&gt;Mu chula la foto :) Ese monte da fotos buenas, incluso sacándolas con un cartón :P&lt;br/&gt;&lt;br/&gt;Un saludo ;)]]></description>
+			<content:encoded><![CDATA[<p>Tienes que cambiar la temática eh, que siempre es el mismo protagonista hihihihi</p>
+<p>Mu chula la foto <img src="./../../wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Ese monte da fotos buenas, incluso sacándolas con un cartón <img src="./../../wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Un saludo <img src="./../../wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

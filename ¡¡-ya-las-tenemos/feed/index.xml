@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: ¡¡ Ya las tenemos !!	</title>
+	<atom:link href="./../../%C2%A1%C2%A1-ya-las-tenemos/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Thu, 07 Dec 2006 02:12:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Mrs. de Winter		</title>
+		<link>./../index.html#comment-71</link>
+
+		<dc:creator><![CDATA[Mrs. de Winter]]></dc:creator>
+		<pubDate>Thu, 07 Dec 2006 02:12:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=46#comment-71</guid>
+
+					<description><![CDATA[Chulísimas. Muy previsores ;)]]></description>
+			<content:encoded><![CDATA[<p>Chulísimas. Muy previsores <img src="./../../wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

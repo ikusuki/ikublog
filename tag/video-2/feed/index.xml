@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Vídeo &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 19 Sep 2023 12:13:33 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Shock cultural en España!?</title>
+		<link>./../../../shock-cultural-en-espana/index.html</link>
+					<comments>./../../../shock-cultural-en-espana/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Tue, 19 Sep 2023 12:13:30 +0000</pubDate>
+				<category><![CDATA[Vete a saber]]></category>
+		<category><![CDATA[Vídeo]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=11202</guid>
+
+					<description><![CDATA[Después de 4 años sin poder volver a España entre que nació mi hija y que Japón cerró fronteras por el covid, por fin pude hacer esa visita y&#8230; me encontré con un montón de cosas que o no sabía o había olvidado&#8230; ¿¡ shock cultural en mi propio país?!]]></description>
+										<content:encoded><![CDATA[
+<p>Después de 4 años sin poder volver a España entre que nació mi hija y que Japón cerró fronteras por el covid, por fin pude hacer esa visita y&#8230; me encontré con un montón de cosas que o no sabía o había olvidado&#8230; ¿¡ shock cultural en mi propio país?!</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Shock cultural al volver a España después de 4 años seguidos en Japón." width="604" height="340" src="https://www.youtube.com/embed/DHu2zCwX7VA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption>Diferencias que me encontré al volver a España después de 4 años</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../shock-cultural-en-espana/feed/index.html</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">11202</post-id>	</item>
+	</channel>
+</rss>

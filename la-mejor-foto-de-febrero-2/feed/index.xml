@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: La mejor foto de febrero	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Fri, 06 Mar 2009 02:43:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-7750</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Fri, 06 Mar 2009 02:43:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=697#comment-7750</guid>
+
+					<description><![CDATA[Es que me gustó mucho la foto... jopeeeee]]></description>
+			<content:encoded><![CDATA[<p>Es que me gustó mucho la foto&#8230; jopeeeee</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Pau		</title>
+		<link>./../index.html#comment-7718</link>
+
+		<dc:creator><![CDATA[Pau]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2009 12:09:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=697#comment-7718</guid>
+
+					<description><![CDATA[Bonica del tó, sí señor!!!]]></description>
+			<content:encoded><![CDATA[<p>Bonica del tó, sí señor!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: T.M.		</title>
+		<link>./../index.html#comment-7711</link>
+
+		<dc:creator><![CDATA[T.M.]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2009 10:25:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=697#comment-7711</guid>
+
+					<description><![CDATA[De mayor quiero sentarme descalza y con las piernas cruzadas en un banco de cualquier parque al sol, a conversar, a ver la vida pasar...]]></description>
+			<content:encoded><![CDATA[<p>De mayor quiero sentarme descalza y con las piernas cruzadas en un banco de cualquier parque al sol, a conversar, a ver la vida pasar&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: nerea		</title>
+		<link>./../index.html#comment-7699</link>
+
+		<dc:creator><![CDATA[nerea]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2009 04:41:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=697#comment-7699</guid>
+
+					<description><![CDATA[Me encantan esos detalles de humanidad, eres un poeta Tosca!]]></description>
+			<content:encoded><![CDATA[<p>Me encantan esos detalles de humanidad, eres un poeta Tosca!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Nars		</title>
+		<link>./../index.html#comment-7696</link>
+
+		<dc:creator><![CDATA[Nars]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2009 03:04:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=697#comment-7696</guid>
+
+					<description><![CDATA[Siento no aver comentado antes, la verdad esque me e liado viendo el video del shinkansen y se me a pasado,ara toy viendo el del paseo por shybuya =D]]></description>
+			<content:encoded><![CDATA[<p>Siento no aver comentado antes, la verdad esque me e liado viendo el video del shinkansen y se me a pasado,ara toy viendo el del paseo por shybuya =D</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

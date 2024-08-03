@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Shimbashi &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Mon, 26 Jul 2010 08:13:12 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Yurikamome ゆりかもめ</title>
+		<link>./../../../yurikamome/index.html</link>
+					<comments>./../../../yurikamome/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Sun, 21 Jun 2009 06:43:27 +0000</pubDate>
+				<category><![CDATA[Odaiba]]></category>
+		<category><![CDATA[Shimbashi]]></category>
+		<category><![CDATA[Tokyo]]></category>
+		<category><![CDATA[Trenes]]></category>
+		<category><![CDATA[Yurikamome]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1029</guid>
+
+					<description><![CDATA[Yurikamome from ikusuki on Vimeo.]]></description>
+										<content:encoded><![CDATA[<p></p>
+<p style="text-align:center"><object width="576" height="324"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=5253467&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1" /></object></p>
+<p><a href="http://vimeo.com/5253467">Yurikamome</a> from <a href="http://vimeo.com/user443418">ikusuki</a> on <a href="http://vimeo.com/">Vimeo</a>.</p>
+</p>
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../yurikamome/feed/index.html</wfw:commentRss>
+			<slash:comments>27</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1029</post-id>	</item>
+		<item>
+		<title>Desde Shimbashi a Odaiba en Yurikamome</title>
+		<link>./../../../desde-shimbashi-a-odaiba-en-yurikamome/index.html</link>
+					<comments>./../../../desde-shimbashi-a-odaiba-en-yurikamome/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2009 15:41:43 +0000</pubDate>
+				<category><![CDATA[Tokyo]]></category>
+		<category><![CDATA[Gundam]]></category>
+		<category><![CDATA[Odaiba]]></category>
+		<category><![CDATA[Shimbashi]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1003</guid>
+
+					<description><![CDATA[Ahí vamos! A por el Gundam! por Tosca en Pigmeo.]]></description>
+										<content:encoded><![CDATA[<p><strong>Ahí vamos!</strong></p>
+<p style="text-align:center"><object width="576" height="324" data="http://vimeo.com/moogaloop.swf?clip_id=5193455&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1" type="application/x-shockwave-flash"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://vimeo.com/moogaloop.swf?clip_id=5193455&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1" /></object></p>
+<p style="text-align: center;"><a href="http://vimeo.com/5193455">A por el Gundam!</a> por <a href="http://vimeo.com/user443418">Tosca </a> en <a href="http://vimeo.com/"> Pigmeo</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../desde-shimbashi-a-odaiba-en-yurikamome/feed/index.html</wfw:commentRss>
+			<slash:comments>18</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1003</post-id>	</item>
+	</channel>
+</rss>

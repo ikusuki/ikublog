@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Ikumaperízate!	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Wed, 05 Dec 2007 07:39:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-1157</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Wed, 05 Dec 2007 07:39:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=276#comment-1157</guid>
+
+					<description><![CDATA[Bea, pues en cuanto salga la nueva camiseta, me vas a tener que mandar unas cuantas porque tengo unos pedidos por aquí ya encargados....&lt;br/&gt;&lt;br/&gt;Flapy, cambiado! el nuevo blog pinta bien!&lt;br/&gt;&lt;br/&gt;Lupin, a ti Maper no te pilla mu lejos, ne?]]></description>
+			<content:encoded><![CDATA[<p>Bea, pues en cuanto salga la nueva camiseta, me vas a tener que mandar unas cuantas porque tengo unos pedidos por aquí ya encargados&#8230;.</p>
+<p>Flapy, cambiado! el nuevo blog pinta bien!</p>
+<p>Lupin, a ti Maper no te pilla mu lejos, ne?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-1155</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Wed, 05 Dec 2007 00:33:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=276#comment-1155</guid>
+
+					<description><![CDATA[que bien nos va a venir este &quot;conjunto&quot; para el duro invierno, si señor....]]></description>
+			<content:encoded><![CDATA[<p>que bien nos va a venir este «conjunto» para el duro invierno, si señor&#8230;.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Flapy		</title>
+		<link>./../index.html#comment-1150</link>
+
+		<dc:creator><![CDATA[Flapy]]></dc:creator>
+		<pubDate>Tue, 04 Dec 2007 21:15:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=276#comment-1150</guid>
+
+					<description><![CDATA[Joer !! acabo de ver la foto y se me ha antojado un vinito !! y eso que me acabo de levantar y son kas 6.15 de la mananaaaaa !!&lt;br/&gt;&lt;br/&gt;Perdona por el off-topic, pero es simplemente para comunicarte que me he pasado a wordpress, a ver que te parece :&lt;br/&gt;http://flapyinjapan.com/&lt;br/&gt;&lt;br/&gt;Si pudieras, (y no te es molestia) agradeceria si pudieras actualizar el link del blogroll.&lt;br/&gt;&lt;br/&gt;Un abrazo, tio !!]]></description>
+			<content:encoded><![CDATA[<p>Joer !! acabo de ver la foto y se me ha antojado un vinito !! y eso que me acabo de levantar y son kas 6.15 de la mananaaaaa !!</p>
+<p>Perdona por el off-topic, pero es simplemente para comunicarte que me he pasado a wordpress, a ver que te parece :<br /><a href="http://flapyinjapan.com/" rel="nofollow ugc">http://flapyinjapan.com/</a></p>
+<p>Si pudieras, (y no te es molestia) agradeceria si pudieras actualizar el link del blogroll.</p>
+<p>Un abrazo, tio !!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Bea		</title>
+		<link>./../index.html#comment-1149</link>
+
+		<dc:creator><![CDATA[Bea]]></dc:creator>
+		<pubDate>Tue, 04 Dec 2007 19:00:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=276#comment-1149</guid>
+
+					<description><![CDATA[Ahora no va a salir del armario un tal papanoel, le podemos hacer un encarguito ;)]]></description>
+			<content:encoded><![CDATA[<p>Ahora no va a salir del armario un tal papanoel, le podemos hacer un encarguito <img src="./../../wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

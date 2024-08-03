@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>revalorizar coche &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:34:28 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Encargadas nuevas pegatinas</title>
+		<link>./../../../encargadas-nuevas-pegatinas/index.html</link>
+					<comments>./../../../encargadas-nuevas-pegatinas/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Wed, 25 Oct 2006 14:50:00 +0000</pubDate>
+				<category><![CDATA[Ikucamis]]></category>
+		<category><![CDATA[Ikusuki]]></category>
+		<category><![CDATA[inocente]]></category>
+		<category><![CDATA[pegatinas coche]]></category>
+		<category><![CDATA[revalorizar coche]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=27</guid>
+
+					<description><![CDATA[Acabamos de realizar un nuevo pedido de pegatinas para el coche, pero ésta vez incluyendo el &#8216;.com&#8217; que echábamos en falta en las anteriores. Uno de los coches que se ha revalorizado Ya sabes, si quieres que tu coche se revalorice, sólo tienes que ponerte en contacto con nosotros y te enviaremos una. El precio &#8230; <a href="./../../../encargadas-nuevas-pegatinas/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Encargadas nuevas pegatinas</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Acabamos de realizar un nuevo pedido de pegatinas para el coche, pero ésta vez incluyendo el &#8216;.com&#8217; que echábamos en falta en las anteriores.</p>
+<div style="text-align: center;"><a dragover="true" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh3.google.com/koki142/RT-KvFKPABI/AAAAAAAABbg/n4z0L24VAgA/ikucar.jpg"><img decoding="async" dragover="true" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="http://lh3.google.com/koki142/RT-KvFKPABI/AAAAAAAABbg/n4z0L24VAgA/ikucar.jpg" alt="" border="0" /></a><span style="font-size:78%;"><span style="font-style: italic; color: rgb(153, 255, 255);">Uno de los coches que se ha revalorizado</span><br /></span></div>
+<p>Ya sabes, si quieres que tu coche se revalorice, sólo tienes que ponerte en contacto con nosotros y te enviaremos una. El precio es baratísimo!!, simplemente te pedimos que nos envíes una foto de tu coche con la pegata puesta.</p>
+<p>Además, una sorpresa que pronto revelaremos&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../encargadas-nuevas-pegatinas/feed/index.html</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">27</post-id>	</item>
+	</channel>
+</rss>

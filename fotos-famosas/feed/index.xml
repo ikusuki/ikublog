@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Fotos famosas	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Mon, 11 Jun 2007 08:22:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: CeLia		</title>
+		<link>./../index.html#comment-384</link>
+
+		<dc:creator><![CDATA[CeLia]]></dc:creator>
+		<pubDate>Mon, 11 Jun 2007 08:22:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=125#comment-384</guid>
+
+					<description><![CDATA[esta gente es tonta&lt;br/&gt;como que revista promocional, es un puto panfleto.&lt;br/&gt;&lt;br/&gt;además, el otro día hablando con lekeriko, me dijo que lo de numero en japón ni de coña, que era número uno en la lista de éxitos latinos...&lt;br/&gt;&lt;br/&gt;oskar, da gracias porque no se han leído ni tu artículo original, ni los míos, ni los videos ni hostias...&lt;br/&gt;&lt;br/&gt;como está el mundo]]></description>
+			<content:encoded><![CDATA[<p>esta gente es tonta<br />como que revista promocional, es un puto panfleto.</p>
+<p>además, el otro día hablando con lekeriko, me dijo que lo de numero en japón ni de coña, que era número uno en la lista de éxitos latinos&#8230;</p>
+<p>oskar, da gracias porque no se han leído ni tu artículo original, ni los míos, ni los videos ni hostias&#8230;</p>
+<p>como está el mundo</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

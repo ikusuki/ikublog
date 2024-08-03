@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Kotoba de Chico	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:32:24 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Cechave		</title>
+		<link>./../index.html#comment-8960</link>
+
+		<dc:creator><![CDATA[Cechave]]></dc:creator>
+		<pubDate>Wed, 06 May 2009 15:38:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=6#comment-8960</guid>
+
+					<description><![CDATA[La foto de Kiefer será una coña, ¿no?. ¿De verdad la tiene?]]></description>
+			<content:encoded><![CDATA[<p>La foto de Kiefer será una coña, ¿no?. ¿De verdad la tiene?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: LourdesMi		</title>
+		<link>./../index.html#comment-8943</link>
+
+		<dc:creator><![CDATA[LourdesMi]]></dc:creator>
+		<pubDate>Tue, 05 May 2009 12:52:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=6#comment-8943</guid>
+
+					<description><![CDATA[Pregunta.&lt;br /&gt;&lt;br /&gt;La primera foto y la séptima ¿donde fueron hechas? porque se parece a La Palma (aunque no recuerdo las salinas tan grandes).]]></description>
+			<content:encoded><![CDATA[<p>Pregunta.</p>
+<p>La primera foto y la séptima ¿donde fueron hechas? porque se parece a La Palma (aunque no recuerdo las salinas tan grandes).</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: enekochan		</title>
+		<link>./../index.html#comment-8932</link>
+
+		<dc:creator><![CDATA[enekochan]]></dc:creator>
+		<pubDate>Tue, 05 May 2009 07:46:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=6#comment-8932</guid>
+
+					<description><![CDATA[Dios que susto me he dado al verme xDDD]]></description>
+			<content:encoded><![CDATA[<p>Dios que susto me he dado al verme xDDD</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

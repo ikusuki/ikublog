@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: La mejor foto de Junio	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 04:00:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Alan		</title>
+		<link>./../index.html#comment-3248</link>
+
+		<dc:creator><![CDATA[Alan]]></dc:creator>
+		<pubDate>Wed, 02 Jul 2008 18:20:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=460#comment-3248</guid>
+
+					<description><![CDATA[Es muy triste lo que pasó, ojalá nunca se repite, y así es la vida, frágil, muy frágil, en un instante no sabemos si seguiremos aquí, así que a disfrutar la vida :D]]></description>
+			<content:encoded><![CDATA[<p>Es muy triste lo que pasó, ojalá nunca se repite, y así es la vida, frágil, muy frágil, en un instante no sabemos si seguiremos aquí, así que a disfrutar la vida <img src="./../../wp-includes/images/smilies/meparto.gif" alt=":D" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Isabel		</title>
+		<link>./../index.html#comment-3242</link>
+
+		<dc:creator><![CDATA[Isabel]]></dc:creator>
+		<pubDate>Wed, 02 Jul 2008 12:54:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=460#comment-3242</guid>
+
+					<description><![CDATA[Con el calor que hace y me han entrado unos escalofrios al pensar que en el momento menos pensado alguien puede llevarse todos nuestros sueños e ilusiones...]]></description>
+			<content:encoded><![CDATA[<p>Con el calor que hace y me han entrado unos escalofrios al pensar que en el momento menos pensado alguien puede llevarse todos nuestros sueños e ilusiones&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

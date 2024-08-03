@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Una razón para no fumar en la calle	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:58:20 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Josune		</title>
+		<link>./../index.html#comment-22152</link>
+
+		<dc:creator><![CDATA[Josune]]></dc:creator>
+		<pubDate>Fri, 18 Feb 2011 14:01:05 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=236#comment-22152</guid>
+
+					<description><![CDATA[Tienen toda la razón, si van tan apelotonados todos por la calle es normal que no se pueda fumar mientras andas, puedes quemar el ojo a más de un niño. Ahora lo entiendo (por que segun he leido el anterior post de que no se puede fumar en la calle he pensado: Jo que putada).]]></description>
+			<content:encoded><![CDATA[<p>Tienen toda la razón, si van tan apelotonados todos por la calle es normal que no se pueda fumar mientras andas, puedes quemar el ojo a más de un niño. Ahora lo entiendo (por que segun he leido el anterior post de que no se puede fumar en la calle he pensado: Jo que putada).</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

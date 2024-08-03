@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Las elecciones	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:48:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Nagore		</title>
+		<link>./../index.html#comment-614</link>
+
+		<dc:creator><![CDATA[Nagore]]></dc:creator>
+		<pubDate>Tue, 24 Jul 2007 16:01:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=162#comment-614</guid>
+
+					<description><![CDATA[Jajajajajaja vaya elementos jajajaja... si los carteles de aqui fueran menos fríos, yo creo que la gente se animaría a votar jajaja...&lt;br/&gt;Algunos son de lo mas graciosos jajaja... que bueno...]]></description>
+			<content:encoded><![CDATA[<p>Jajajajajaja vaya elementos jajajaja&#8230; si los carteles de aqui fueran menos fríos, yo creo que la gente se animaría a votar jajaja&#8230;<br />Algunos son de lo mas graciosos jajaja&#8230; que bueno&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Bea		</title>
+		<link>./../index.html#comment-613</link>
+
+		<dc:creator><![CDATA[Bea]]></dc:creator>
+		<pubDate>Tue, 24 Jul 2007 04:32:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=162#comment-613</guid>
+
+					<description><![CDATA[Jope el último!!! que valor! si señor, ese se merece el voto de cualquiera. Ale ale aprende rajoy, aprende zapatitos!!!!!!]]></description>
+			<content:encoded><![CDATA[<p>Jope el último!!! que valor! si señor, ese se merece el voto de cualquiera. Ale ale aprende rajoy, aprende zapatitos!!!!!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

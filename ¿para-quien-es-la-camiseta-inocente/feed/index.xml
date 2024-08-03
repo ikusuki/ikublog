@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: ¿Para quién es la camiseta Inocente?	</title>
+	<atom:link href="./../../%C2%BFpara-quien-es-la-camiseta-inocente/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Thu, 17 Feb 2011 11:16:41 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Josune		</title>
+		<link>./../index.html#comment-22129</link>
+
+		<dc:creator><![CDATA[Josune]]></dc:creator>
+		<pubDate>Thu, 17 Feb 2011 11:16:41 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=47#comment-22129</guid>
+
+					<description><![CDATA[Definitivamente me tengo que comprar una camiseta de inocente. Me he reido o he respondido: &quot;Fijo...&quot; a la mayoria de ellas...]]></description>
+			<content:encoded><![CDATA[<p>Definitivamente me tengo que comprar una camiseta de inocente. Me he reido o he respondido: «Fijo&#8230;» a la mayoria de ellas&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-77</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Sun, 10 Dec 2006 19:13:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=47#comment-77</guid>
+
+					<description><![CDATA[Jajaja, Aupa Sara!&lt;br /&gt;¡¡¡Pues es un pantalón!!!&lt;br /&gt;&lt;br /&gt;jejeje]]></description>
+			<content:encoded><![CDATA[<p>Jajaja, Aupa Sara!<br />¡¡¡Pues es un pantalón!!!</p>
+<p>jejeje</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Saraikusuki		</title>
+		<link>./../index.html#comment-75</link>
+
+		<dc:creator><![CDATA[Saraikusuki]]></dc:creator>
+		<pubDate>Sun, 10 Dec 2006 17:28:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=47#comment-75</guid>
+
+					<description><![CDATA[Y que es lo q llevas debajo? un pantalon o unos gayumbos? No lo se, pero vaya culito!!!!!!!!!JAJAJAJA]]></description>
+			<content:encoded><![CDATA[<p>Y que es lo q llevas debajo? un pantalon o unos gayumbos? No lo se, pero vaya culito!!!!!!!!!JAJAJAJA</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Iñaki		</title>
+		<link>./../index.html#comment-72</link>
+
+		<dc:creator><![CDATA[Iñaki]]></dc:creator>
+		<pubDate>Fri, 08 Dec 2006 16:54:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=47#comment-72</guid>
+
+					<description><![CDATA[Toscano eres tu el de la foto/dibujo?&lt;br /&gt;te ha quedado chulo]]></description>
+			<content:encoded><![CDATA[<p>Toscano eres tu el de la foto/dibujo?<br />te ha quedado chulo</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

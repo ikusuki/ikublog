@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Que se acaban las rebajas!!!	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Mon, 12 Mar 2007 15:09:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Sara		</title>
+		<link>./../index.html#comment-121</link>
+
+		<dc:creator><![CDATA[Sara]]></dc:creator>
+		<pubDate>Mon, 12 Mar 2007 15:09:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=67#comment-121</guid>
+
+					<description><![CDATA[El monigote de inocente no se si es el de la camiseta o el de la visera, jajajajaja! que chulo el edificio, no? lo del tejado, que es? una antena para moviles???&lt;br/&gt;Eso si Tosca, menudo estilo para posar, ni en el Voge!!!! jajajajaja!!! Cuidate. 1 besazo!!! ACCENTURECUSTOMERWORKSBUENOSDIASLEPASO]]></description>
+			<content:encoded><![CDATA[<p>El monigote de inocente no se si es el de la camiseta o el de la visera, jajajajaja! que chulo el edificio, no? lo del tejado, que es? una antena para moviles???<br />Eso si Tosca, menudo estilo para posar, ni en el Voge!!!! jajajajaja!!! Cuidate. 1 besazo!!! ACCENTURECUSTOMERWORKSBUENOSDIASLEPASO</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-119</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Sun, 11 Mar 2007 01:13:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=67#comment-119</guid>
+
+					<description><![CDATA[Ehh que nooooo, que los envíos y las camisetas se siguen haciendo desde Bilbao!!! Aprovechad, que no van a volver a tener ese precio!]]></description>
+			<content:encoded><![CDATA[<p>Ehh que nooooo, que los envíos y las camisetas se siguen haciendo desde Bilbao!!! Aprovechad, que no van a volver a tener ese precio!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Tancredi		</title>
+		<link>./../index.html#comment-118</link>
+
+		<dc:creator><![CDATA[Tancredi]]></dc:creator>
+		<pubDate>Sun, 11 Mar 2007 01:06:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=67#comment-118</guid>
+
+					<description><![CDATA[Ah, pero seguís haciendo envíos? y como los mandais desde japón? saldran los gastos de envio a millon y medio!!!]]></description>
+			<content:encoded><![CDATA[<p>Ah, pero seguís haciendo envíos? y como los mandais desde japón? saldran los gastos de envio a millon y medio!!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

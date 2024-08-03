@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Fri, 28 Jun 2024 08:12:37 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Informativo del 28/06/24</title>
+		<link>./../informativo-del-28-06-24/index.html</link>
+					<comments>./../informativo-del-28-06-24/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Fri, 28 Jun 2024 08:12:34 +0000</pubDate>
+				<category><![CDATA[Vete a saber]]></category>
+		<category><![CDATA[Informativo matinal Japón]]></category>
+		<guid isPermaLink="false">./../index.html?p=11384</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="28 de Junio del 2024. Informativo de Japón con las noticias que no sabías que necesitabas saber" width="604" height="340" src="https://www.youtube.com/embed/0LtoLwSxtbk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">Menudo sindios es esto de las elecciones en Tokio</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../informativo-del-28-06-24/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">11384</post-id>	</item>
+		<item>
+		<title>Informativo del 24/6/24</title>
+		<link>./../informativo-del-24-6-24/index.html</link>
+					<comments>./../informativo-del-24-6-24/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Mon, 24 Jun 2024 03:07:26 +0000</pubDate>
+				<category><![CDATA[Vete a saber]]></category>
+		<category><![CDATA[Informativo matinal Japón]]></category>
+		<guid isPermaLink="false">./../index.html?p=11381</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="24 de Junio del 2024. Informativo de Japón con las noticias que no sabías que necesitabas saber" width="604" height="340" src="https://www.youtube.com/embed/SYvg3d9PSSw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">¿Tendrán culo los delfines?</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../informativo-del-24-6-24/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">11381</post-id>	</item>
+		<item>
+		<title>Informativo del 21/06/24</title>
+		<link>./../informativo-del-21-06-24/index.html</link>
+					<comments>./../informativo-del-21-06-24/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Fri, 21 Jun 2024 05:18:53 +0000</pubDate>
+				<category><![CDATA[Vete a saber]]></category>
+		<category><![CDATA[Informativo matinal Japón]]></category>
+		<guid isPermaLink="false">./../index.html?p=11379</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="21 de Junio del 2024. Informativo de Japón con las noticias que no sabías que necesitabas saber" width="604" height="340" src="https://www.youtube.com/embed/se0knUNayAw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">Casi enseña el whopper ahí</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../informativo-del-21-06-24/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">11379</post-id>	</item>
+		<item>
+		<title>Informativo del 23/05/24</title>
+		<link>./../informativo-del-23-05-24/index.html</link>
+					<comments>./../informativo-del-23-05-24/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Thu, 23 May 2024 05:05:38 +0000</pubDate>
+				<category><![CDATA[Vete a saber]]></category>
+		<category><![CDATA[Informativo matinal Japón]]></category>
+		<guid isPermaLink="false">./../index.html?p=11376</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="23 de Mayo del 2024. Informativo de Japón con las noticias que no sabías que necesitabas saber" width="604" height="340" src="https://www.youtube.com/embed/hKADsOE1tMM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">Ojo al alien</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../informativo-del-23-05-24/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">11376</post-id>	</item>
+		<item>
+		<title>Informativo del 22/05/24</title>
+		<link>./../informativo-del-22-05-24/index.html</link>
+					<comments>./../informativo-del-22-05-24/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Wed, 22 May 2024 08:18:31 +0000</pubDate>
+				<category><![CDATA[Vete a saber]]></category>
+		<category><![CDATA[Informativo matinal Japón]]></category>
+		<guid isPermaLink="false">./../index.html?p=11373</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="22 de Mayo del 2024. Informativo de Japón con las noticias que no sabías que necesitabas saber" width="604" height="340" src="https://www.youtube.com/embed/cTuYV7__KLo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">La salerosa cuchara, te lo digo, el futuro ya está aquí</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../informativo-del-22-05-24/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">11373</post-id>	</item>
+		<item>
+		<title>Informativo del 10/05/24</title>
+		<link>./../informativo-del-10-05-24/index.html</link>
+					<comments>./../informativo-del-10-05-24/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Fri, 10 May 2024 04:16:52 +0000</pubDate>
+				<category><![CDATA[Vete a saber]]></category>
+		<category><![CDATA[Informativo matinal Japón]]></category>
+		<guid isPermaLink="false">./../index.html?p=11369</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="10 de Mayo del 2024. Informativo de Japón con las noticias que no sabías que necesitabas saber" width="604" height="340" src="https://www.youtube.com/embed/vw-6chGvp04?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">Son ballenas azules, no jorobadas, que me he hecho la picha un flyer</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../informativo-del-10-05-24/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">11369</post-id>	</item>
+		<item>
+		<title>Informativo del 9/5/24</title>
+		<link>./../informativo-del-9-5-24/index.html</link>
+					<comments>./../informativo-del-9-5-24/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Thu, 09 May 2024 05:46:55 +0000</pubDate>
+				<category><![CDATA[Vete a saber]]></category>
+		<category><![CDATA[Informativo matinal Japón]]></category>
+		<guid isPermaLink="false">./../index.html?p=11367</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="9 de Mayo del 2024. Informativo de Japón con las noticias que no sabías que necesitabas saber" width="604" height="340" src="https://www.youtube.com/embed/xt4sRFvDVSk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">Goku te metía una hostia en euskera que te ponía a bailar aurreskus</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../informativo-del-9-5-24/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">11367</post-id>	</item>
+		<item>
+		<title>Informativo del 8/5/24</title>
+		<link>./../informativo-del-8-5-24/index.html</link>
+					<comments>./../informativo-del-8-5-24/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Wed, 08 May 2024 04:25:19 +0000</pubDate>
+				<category><![CDATA[Vete a saber]]></category>
+		<category><![CDATA[Informativo matinal Japón]]></category>
+		<guid isPermaLink="false">./../index.html?p=11365</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="8 de Mayo del 2024. Informativo de Japón con las noticias que no sabías que necesitabas saber" width="604" height="340" src="https://www.youtube.com/embed/7PCoS7vZWKI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">Concurso de capturar pokémons de tipo brow nepe</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../informativo-del-8-5-24/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">11365</post-id>	</item>
+		<item>
+		<title>Informaqtivo del 1/5/24</title>
+		<link>./../informaqtivo-del-1-5-24/index.html</link>
+					<comments>./../informaqtivo-del-1-5-24/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Wed, 01 May 2024 05:05:45 +0000</pubDate>
+				<category><![CDATA[Vete a saber]]></category>
+		<category><![CDATA[Informativo matinal Japón]]></category>
+		<guid isPermaLink="false">./../index.html?p=11362</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="1 de Mayo del 2024. Informativo de Japón con las noticias que no sabías que necesitabas saber" width="604" height="340" src="https://www.youtube.com/embed/gr0xq5Oyybc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption>Mecagüen la gentuza, coño</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../informaqtivo-del-1-5-24/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">11362</post-id>	</item>
+		<item>
+		<title>Informativo del 26/04/24</title>
+		<link>./../informativo-del-26-04-24/index.html</link>
+					<comments>./../informativo-del-26-04-24/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 05:11:22 +0000</pubDate>
+				<category><![CDATA[Vete a saber]]></category>
+		<category><![CDATA[Informativo matinal Japón]]></category>
+		<guid isPermaLink="false">./../index.html?p=11359</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="26 de Abril del 2024. Informativo de Japón con las noticias que no sabías que necesitabas saber" width="604" height="340" src="https://www.youtube.com/embed/BxAxqLrpjk8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption>El día del ofuro</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../informativo-del-26-04-24/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">11359</post-id>	</item>
+	</channel>
+</rss>

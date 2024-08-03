@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Guru &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:34:01 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Oh no! un borrego en mi equipo!</title>
+		<link>./../../../oh-no-un-borrego-en-mi-equipo/index.html</link>
+					<comments>./../../../oh-no-un-borrego-en-mi-equipo/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Tue, 07 Nov 2006 17:52:00 +0000</pubDate>
+				<category><![CDATA[Ikucamis]]></category>
+		<category><![CDATA[Guru]]></category>
+		<category><![CDATA[Kotoba]]></category>
+		<category><![CDATA[Loreak Mendian]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=33</guid>
+
+					<description><![CDATA[Mira con que pintas me viene el moreno, y luego se pregunta que por qué no pilla cacho. ¡¡ Sal por esa puerta y no vuelvas hasta que traigas un niki decente !!¡¡ Y no lo robes, que te conozco !!]]></description>
+										<content:encoded><![CDATA[<p><a dragover="true" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://photos1.blogger.com/blogger2/2723/4398/1600/drHouse.gif"><img decoding="async" dragover="true" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://photos1.blogger.com/blogger2/2723/4398/400/drHouse.gif" alt="" border="0" /></a></p>
+<div dragover="true" style="text-align: center;"><span dragover="true" style="font-style: italic; color: rgb(204, 204, 204);">Mira con que pintas me viene el moreno, y luego se pregunta que por qué no pilla cacho. </span><br /><span style="font-size:130%;"><span dragover="true" style="font-weight: bold;"><br />¡¡ Sal por esa puerta y no vuelvas hasta que traigas un niki decente !!<br />¡¡ Y no lo robes, que te conozco !!</p>
+<p></span></span></div>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://photos1.blogger.com/blogger2/2723/4398/1600/drHouse2.gif"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://photos1.blogger.com/blogger2/2723/4398/400/drHouse2.gif" alt="" border="0" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../oh-no-un-borrego-en-mi-equipo/feed/index.html</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">33</post-id>	</item>
+	</channel>
+</rss>

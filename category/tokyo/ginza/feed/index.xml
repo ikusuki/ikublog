@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Ginza &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Sun, 29 Jan 2012 12:56:56 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Al acecho</title>
+		<link>./../../../../al-acecho/index.html</link>
+					<comments>./../../../../al-acecho/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Sun, 29 Jan 2012 12:51:25 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Ginza]]></category>
+		<category><![CDATA[Tokyo]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=7880</guid>
+
+					<description><![CDATA[Visto en Ginza]]></description>
+										<content:encoded><![CDATA[<p style="text-align:center">
+<div class="pie-gallery">
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img fetchpriority="high" decoding="async" src="http://lh4.ggpht.com/-RG4m2-71YUM/TyVBWtWA8NI/AAAAAAABCcg/Vn9vNmTCyNQ/DSC_6014-Edit-4.jpg?imgmax=576" alt="DSC_6014-Edit-4.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img decoding="async" src="http://lh5.ggpht.com/-nH8IqdGit3E/TyU_UR6WDII/AAAAAAABCcU/XGvbulPL-_Q/DSC_6014-Edit-3.jpg?imgmax=576" alt="DSC_6014-Edit-3.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img decoding="async" src="http://lh4.ggpht.com/-uVg3CBqmwQ0/TyU_Rb_R5mI/AAAAAAABCb8/eog2D7kwsE8/DSC_6014-Edit.jpg?imgmax=576" alt="DSC_6014-Edit.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/-47jkdGA8-bE/TyU_TZlAFZI/AAAAAAABCcM/wysrgnDUgYI/DSC_6014-Edit-2.jpg?imgmax=576" alt="DSC_6014-Edit-2.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-RRdnYs_3B4s/TyU_OawGIvI/AAAAAAABCb0/pBTrwwziNUo/DSC_6015-Edit.jpg?imgmax=576" alt="DSC_6015-Edit.jpg" width="383" height="576" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/-I-0_g1kyRc4/TyU_Sc0CnlI/AAAAAAABCcE/ZnyABXNcRTA/DSC_6016-Edit.jpg?imgmax=576" alt="DSC_6016-Edit.jpg" width="383" height="576" class="pie-img"/></p>
+</div>
+</div>
+<p>
+Visto en Ginza</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../al-acecho/feed/index.html</wfw:commentRss>
+			<slash:comments>27</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">7880</post-id>	</item>
+	</channel>
+</rss>

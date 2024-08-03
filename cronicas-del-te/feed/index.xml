@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Crónicas del té	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 06 Jan 2009 00:25:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-6535</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Tue, 06 Jan 2009 00:25:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=636#comment-6535</guid>
+
+					<description><![CDATA[¿y el quimono es tuyo o te lo prestan en las clases?&lt;br/&gt;Porque está chulo, chulo!!]]></description>
+			<content:encoded><![CDATA[<p>¿y el quimono es tuyo o te lo prestan en las clases?<br />Porque está chulo, chulo!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Beti		</title>
+		<link>./../index.html#comment-6489</link>
+
+		<dc:creator><![CDATA[Beti]]></dc:creator>
+		<pubDate>Sun, 04 Jan 2009 12:44:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=636#comment-6489</guid>
+
+					<description><![CDATA[Gracias por la ceremonia particular, y por el detalle de las manchitas verdes en la alfombra blanca ;)&lt;br/&gt;&lt;br/&gt;De verdad que te agradezco el haberme hecho participe de la ceremonia, un honor.]]></description>
+			<content:encoded><![CDATA[<p>Gracias por la ceremonia particular, y por el detalle de las manchitas verdes en la alfombra blanca <img src="./../../wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>De verdad que te agradezco el haberme hecho participe de la ceremonia, un honor.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Shira		</title>
+		<link>./../index.html#comment-6465</link>
+
+		<dc:creator><![CDATA[Shira]]></dc:creator>
+		<pubDate>Wed, 31 Dec 2008 15:55:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=636#comment-6465</guid>
+
+					<description><![CDATA[Estás muy bien con el kimono (a mi es que me encantan los chicos con kimono, tengo fijación XD, creo que es una prenda que le queda bien y favorece a todo el mundo)&lt;br/&gt;Me he visto también las fotos de los enlaces y me llaman un montón la atención los dulces extraños que tienen para acompañar el té, son superlindos, que bien hechos, y siempre me pregunto...¿a que sabrán?]]></description>
+			<content:encoded><![CDATA[<p>Estás muy bien con el kimono (a mi es que me encantan los chicos con kimono, tengo fijación XD, creo que es una prenda que le queda bien y favorece a todo el mundo)<br />Me he visto también las fotos de los enlaces y me llaman un montón la atención los dulces extraños que tienen para acompañar el té, son superlindos, que bien hechos, y siempre me pregunto&#8230;¿a que sabrán?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Nagore		</title>
+		<link>./../index.html#comment-6448</link>
+
+		<dc:creator><![CDATA[Nagore]]></dc:creator>
+		<pubDate>Wed, 31 Dec 2008 12:00:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=636#comment-6448</guid>
+
+					<description><![CDATA[Le has echo a tu ama ya la ceremonia del té?]]></description>
+			<content:encoded><![CDATA[<p>Le has echo a tu ama ya la ceremonia del té?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

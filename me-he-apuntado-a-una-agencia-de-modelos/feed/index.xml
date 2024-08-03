@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Me he apuntado a una agencia de modelos!!!	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:57:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Bea		</title>
+		<link>./../index.html#comment-668</link>
+
+		<dc:creator><![CDATA[Bea]]></dc:creator>
+		<pubDate>Wed, 15 Aug 2007 08:08:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=177#comment-668</guid>
+
+					<description><![CDATA[Jodo que puto flipe con el colega ojiplatico en el mundo del sol naciente.&lt;br/&gt;Te digo yo que me quedo sin socio! Me lo van a robaaaaar, noooooooo?&lt;br/&gt;Suerte suerte y suerte!&lt;br/&gt;Je je con la de autografos que tengo yo por aki, me voy a forrar como te hagas famoso!]]></description>
+			<content:encoded><![CDATA[<p>Jodo que puto flipe con el colega ojiplatico en el mundo del sol naciente.<br />Te digo yo que me quedo sin socio! Me lo van a robaaaaar, noooooooo?<br />Suerte suerte y suerte!<br />Je je con la de autografos que tengo yo por aki, me voy a forrar como te hagas famoso!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: MeriScubi		</title>
+		<link>./../index.html#comment-667</link>
+
+		<dc:creator><![CDATA[MeriScubi]]></dc:creator>
+		<pubDate>Tue, 14 Aug 2007 15:45:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=177#comment-667</guid>
+
+					<description><![CDATA[Estamos ante el proximo Mark Vanderloo??? Si señor, de esta a top model del año que eres mucho mas resulton y natural.&lt;br/&gt;&lt;br/&gt;Viva la belleza bilbaina!!!!!!!!]]></description>
+			<content:encoded><![CDATA[<p>Estamos ante el proximo Mark Vanderloo??? Si señor, de esta a top model del año que eres mucho mas resulton y natural.</p>
+<p>Viva la belleza bilbaina!!!!!!!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

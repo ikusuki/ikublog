@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Ikusuki in the world!	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Wed, 05 Mar 2008 20:24:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Nagore		</title>
+		<link>./../index.html#comment-1715</link>
+
+		<dc:creator><![CDATA[Nagore]]></dc:creator>
+		<pubDate>Wed, 05 Mar 2008 20:24:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=349#comment-1715</guid>
+
+					<description><![CDATA[Ehh que pasa!!! No le deis ideas jajaja...&lt;br/&gt;Yo xq no hay chica todavía q sino... Bea ya sabes, apuntame una para cuando tengais... la talla ya sabes... si es como las otras una S porfa...]]></description>
+			<content:encoded><![CDATA[<p>Ehh que pasa!!! No le deis ideas jajaja&#8230;<br />Yo xq no hay chica todavía q sino&#8230; Bea ya sabes, apuntame una para cuando tengais&#8230; la talla ya sabes&#8230; si es como las otras una S porfa&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Bea		</title>
+		<link>./../index.html#comment-1705</link>
+
+		<dc:creator><![CDATA[Bea]]></dc:creator>
+		<pubDate>Wed, 05 Mar 2008 05:26:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=349#comment-1705</guid>
+
+					<description><![CDATA[Lupin III, que ético, ni que niño muerto! aprovecha!!!!! esa camarita de ebay que te está haciendo guiños y a toooo correr te sacas una fotico, y alehop.]]></description>
+			<content:encoded><![CDATA[<p>Lupin III, que ético, ni que niño muerto! aprovecha!!!!! esa camarita de ebay que te está haciendo guiños y a toooo correr te sacas una fotico, y alehop.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-1703</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Tue, 04 Mar 2008 23:42:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=349#comment-1703</guid>
+
+					<description><![CDATA[Joer... media hora escribiendo un comentario y se peta a la hora de publicar.......&lt;br/&gt;&lt;br/&gt;Pues no me apetece reescribirlo....&lt;br/&gt;&lt;br/&gt;Resumiendo... a ver quien se lleva esa cami, que yo considero más ético mantenerme al margen...&lt;br/&gt;&lt;br/&gt;;)]]></description>
+			<content:encoded><![CDATA[<p>Joer&#8230; media hora escribiendo un comentario y se peta a la hora de publicar&#8230;&#8230;.</p>
+<p>Pues no me apetece reescribirlo&#8230;.</p>
+<p>Resumiendo&#8230; a ver quien se lleva esa cami, que yo considero más ético mantenerme al margen&#8230;</p>
+<p><img src="./../../wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

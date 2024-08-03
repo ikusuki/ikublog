@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Adelanto	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Sat, 13 Oct 2007 12:32:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-905</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Sat, 13 Oct 2007 12:32:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=227#comment-905</guid>
+
+					<description><![CDATA[Las nuevas camis! pues si, tranquilo que ya saldrán!&lt;br/&gt;&lt;br/&gt;Winnie enhorabuena!!!!! esa pedazo de tia!!!!!! ale ale, a dar la paga a los sobris, que no se diga!]]></description>
+			<content:encoded><![CDATA[<p>Las nuevas camis! pues si, tranquilo que ya saldrán!</p>
+<p>Winnie enhorabuena!!!!! esa pedazo de tia!!!!!! ale ale, a dar la paga a los sobris, que no se diga!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Winnie		</title>
+		<link>./../index.html#comment-899</link>
+
+		<dc:creator><![CDATA[Winnie]]></dc:creator>
+		<pubDate>Wed, 10 Oct 2007 13:13:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=227#comment-899</guid>
+
+					<description><![CDATA[Sirirmiri??? Pero si esto parece el diluvio universal!!!!! &lt;br/&gt;&lt;br/&gt;Van a tener que venirnos a buscar a los de Zamudio con lanchas de rescate.... que manera de llover, por dios!!!!&lt;br/&gt;&lt;br/&gt;&lt;b&gt;ANDE ESTA NOE CON LA BARCAAAAAAAA!!!!&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Que es eso??? Dulce, salaoo???&lt;br/&gt;Para salao tuuuuu, tururuuuuu...&lt;br/&gt;&lt;br/&gt;PD: He sido de nuevo tiaaa!!!!]]></description>
+			<content:encoded><![CDATA[<p>Sirirmiri??? Pero si esto parece el diluvio universal!!!!! </p>
+<p>Van a tener que venirnos a buscar a los de Zamudio con lanchas de rescate&#8230;. que manera de llover, por dios!!!!</p>
+<p><b>ANDE ESTA NOE CON LA BARCAAAAAAAA!!!!</b></p>
+<p>Que es eso??? Dulce, salaoo???<br />Para salao tuuuuu, tururuuuuu&#8230;</p>
+<p>PD: He sido de nuevo tiaaa!!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-898</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Wed, 10 Oct 2007 12:50:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=227#comment-898</guid>
+
+					<description><![CDATA[Por cierto...&lt;br/&gt;&lt;br/&gt;Para cuando la nueva temporada...?? Que tengo que ir renovando el armario....&lt;br/&gt;&lt;br/&gt;QUIERO IKUSETAS ¡¡YA!!]]></description>
+			<content:encoded><![CDATA[<p>Por cierto&#8230;</p>
+<p>Para cuando la nueva temporada&#8230;?? Que tengo que ir renovando el armario&#8230;.</p>
+<p>QUIERO IKUSETAS ¡¡YA!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-897</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Wed, 10 Oct 2007 12:42:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=227#comment-897</guid>
+
+					<description><![CDATA[Joer... con el día tan bueno que te ha hecho a ti, y por aquí.... aleee!!! xirimiri, pues... a ver si se me limpia un poco la limusina....]]></description>
+			<content:encoded><![CDATA[<p>Joer&#8230; con el día tan bueno que te ha hecho a ti, y por aquí&#8230;. aleee!!! xirimiri, pues&#8230; a ver si se me limpia un poco la limusina&#8230;.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

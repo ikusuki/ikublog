@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Un tipo atractivo en China	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:47:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: enekochan		</title>
+		<link>./../index.html#comment-3565</link>
+
+		<dc:creator><![CDATA[enekochan]]></dc:creator>
+		<pubDate>Fri, 18 Jul 2008 10:24:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=165#comment-3565</guid>
+
+					<description><![CDATA[Apúntame en ese mapa también hombre jajaj mi foto está sacada cerca del ayuntamiento de Sopelana ;)]]></description>
+			<content:encoded><![CDATA[<p>Apúntame en ese mapa también hombre jajaj mi foto está sacada cerca del ayuntamiento de Sopelana <img src="./../../wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Estamos de gira!	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Mon, 30 Oct 2006 14:09:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-38</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Mon, 30 Oct 2006 14:09:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=29#comment-38</guid>
+
+					<description><![CDATA[Si si, es Fuenterrabía, pensaba que era conocido también.&lt;br /&gt;&lt;br /&gt;Pues siempre les sorprenden los pintxos y la forma de hablar de la gente de aquí. Dicen que parece que estamos siempre enfadados porque hablamos muy fuerte ¡que curioso!.&lt;br /&gt;En cuanto a sitios, les gustó mucho San Juán de Gaztelugatxe y Donosti. &lt;br /&gt;&lt;br /&gt;Y no paraban de decir &quot;Nihon mitai&quot; (parece Japón) porque fuimos por entre montañas.]]></description>
+			<content:encoded><![CDATA[<p>Si si, es Fuenterrabía, pensaba que era conocido también.</p>
+<p>Pues siempre les sorprenden los pintxos y la forma de hablar de la gente de aquí. Dicen que parece que estamos siempre enfadados porque hablamos muy fuerte ¡que curioso!.<br />En cuanto a sitios, les gustó mucho San Juán de Gaztelugatxe y Donosti. </p>
+<p>Y no paraban de decir «Nihon mitai» (parece Japón) porque fuimos por entre montañas.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Albert		</title>
+		<link>./../index.html#comment-37</link>
+
+		<dc:creator><![CDATA[Albert]]></dc:creator>
+		<pubDate>Mon, 30 Oct 2006 13:28:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=29#comment-37</guid>
+
+					<description><![CDATA[Para todo el que no sea de aquí: Hondarribia es Fuenterrabía en euskera... Donosti-San Sebastián se sabe perfectamente, pero Hondarribia no lo tengo tan claro!&lt;br /&gt;&lt;br /&gt;Por cierto, ¿que fue lo que más les gustó a los japoneses?]]></description>
+			<content:encoded><![CDATA[<p>Para todo el que no sea de aquí: Hondarribia es Fuenterrabía en euskera&#8230; Donosti-San Sebastián se sabe perfectamente, pero Hondarribia no lo tengo tan claro!</p>
+<p>Por cierto, ¿que fue lo que más les gustó a los japoneses?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-33</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Sat, 28 Oct 2006 18:45:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=29#comment-33</guid>
+
+					<description><![CDATA[La verdad es que el tiempo está siendo una pasada!, como para quedarnos en casa!!]]></description>
+			<content:encoded><![CDATA[<p>La verdad es que el tiempo está siendo una pasada!, como para quedarnos en casa!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: M@k, el Buscaimposibles		</title>
+		<link>./../index.html#comment-32</link>
+
+		<dc:creator><![CDATA[M@k, el Buscaimposibles]]></dc:creator>
+		<pubDate>Sat, 28 Oct 2006 17:06:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=29#comment-32</guid>
+
+					<description><![CDATA[No sabeis ná vosotros dos... ;-))]]></description>
+			<content:encoded><![CDATA[<p>No sabeis ná vosotros dos&#8230; ;-))</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

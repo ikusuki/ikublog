@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Maneki Neko &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Mon, 23 Oct 2006 22:47:00 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Ikumaneki neko</title>
+		<link>./../../../ikumaneki-neko/index.html</link>
+					<comments>./../../../ikumaneki-neko/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Mon, 23 Oct 2006 22:47:00 +0000</pubDate>
+				<category><![CDATA[Japón]]></category>
+		<category><![CDATA[Gato de la suerte]]></category>
+		<category><![CDATA[Japan]]></category>
+		<category><![CDATA[Maneki Neko]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=25</guid>
+
+					<description><![CDATA[El Maneki Neko es un talismán muy habitual en Japón. Se trata de un gato que tiene una pata levantada a modo de saludo. Si tiene alzada la pata izquierda, el gato atrae clientes al lugar donde se encuentra: restaurantes, tiendas&#8230; En cambio, si es la derecha, la tradición dice que atrae prosperidad y dinero, &#8230; <a href="./../../../ikumaneki-neko/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Ikumaneki neko</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>El Maneki Neko es un talismán muy habitual en Japón. Se trata de un gato que tiene una pata levantada a modo de saludo. Si tiene alzada la pata izquierda, el gato atrae clientes al lugar donde se encuentra: restaurantes, tiendas&#8230; En cambio, si es la derecha, la tradición dice que atrae prosperidad y dinero, lo que casi casi viene a decir lo mismo.</p>
+<p>Nosotros tenemos nuestro propio Ikumaneki Neko:</p>
+<div style="text-align: center;"><a dragover="true" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.google.com/koki142/RT1KrFfLABI/AAAAAAAABa4/_s-C-OETIs8/DCAM0224.JPG?imgmax=640"><img decoding="async" dragover="true" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="http://lh5.google.com/koki142/RT1KrFfLABI/AAAAAAAABa4/_s-C-OETIs8/DCAM0224.JPG?imgmax=640" alt="" border="0" /></a>¡Fijaos que pata tiene levantada!</div>
+<p>Más información en <a href="http://www.kirainet.com/maneki-neko/">Kirai</a> y <a href="http://es.wikipedia.org/wiki/Maneki_Neko">Wikipedia</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../ikumaneki-neko/feed/index.html</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">25</post-id>	</item>
+	</channel>
+</rss>

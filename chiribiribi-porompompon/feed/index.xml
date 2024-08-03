@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Chiribiribi porompompón	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:46:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: MeriScubi		</title>
+		<link>./../index.html#comment-657</link>
+
+		<dc:creator><![CDATA[MeriScubi]]></dc:creator>
+		<pubDate>Wed, 08 Aug 2007 13:26:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=174#comment-657</guid>
+
+					<description><![CDATA[Y te quejas de que hubiera un bar de pizzas... pues a mi lo que me ha dejado alucinada es que no te encontraras con un McDonald&#039;s o un Burrikín, que parece que estan en todas partes....]]></description>
+			<content:encoded><![CDATA[<p>Y te quejas de que hubiera un bar de pizzas&#8230; pues a mi lo que me ha dejado alucinada es que no te encontraras con un McDonald&#8217;s o un Burrikín, que parece que estan en todas partes&#8230;.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Saruli		</title>
+		<link>./../index.html#comment-654</link>
+
+		<dc:creator><![CDATA[Saruli]]></dc:creator>
+		<pubDate>Wed, 08 Aug 2007 06:27:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=174#comment-654</guid>
+
+					<description><![CDATA[Creo q es lo mejor que nos has mostrado. Me ha parecido una isla maravillosa, la foto del perro de piedra con el babero me ha hecho mucha gracia, hay que ver, creo q tienes madera de periodista... quizas deberias pensartelo, eh!!!]]></description>
+			<content:encoded><![CDATA[<p>Creo q es lo mejor que nos has mostrado. Me ha parecido una isla maravillosa, la foto del perro de piedra con el babero me ha hecho mucha gracia, hay que ver, creo q tienes madera de periodista&#8230; quizas deberias pensartelo, eh!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Bea		</title>
+		<link>./../index.html#comment-653</link>
+
+		<dc:creator><![CDATA[Bea]]></dc:creator>
+		<pubDate>Wed, 08 Aug 2007 05:02:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=174#comment-653</guid>
+
+					<description><![CDATA[Gracias por el reportaje! precioso!!!  De verdad, creo que nos has hecho pasearnos a todos por allí, a tí te tenía que pagar el turismo japonés, cagüen la lexe.]]></description>
+			<content:encoded><![CDATA[<p>Gracias por el reportaje! precioso!!!  De verdad, creo que nos has hecho pasearnos a todos por allí, a tí te tenía que pagar el turismo japonés, cagüen la lexe.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: MeriScubi		</title>
+		<link>./../index.html#comment-652</link>
+
+		<dc:creator><![CDATA[MeriScubi]]></dc:creator>
+		<pubDate>Tue, 07 Aug 2007 18:40:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=174#comment-652</guid>
+
+					<description><![CDATA[Precioso... ves? por estas cosas me dan ganas de hacer un viaje tan largo :) Gracias por compartir estos paisajes tan bonitos :)]]></description>
+			<content:encoded><![CDATA[<p>Precioso&#8230; ves? por estas cosas me dan ganas de hacer un viaje tan largo <img src="./../../wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Gracias por compartir estos paisajes tan bonitos <img src="./../../wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Pelao &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Fri, 25 Nov 2011 01:16:57 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>El sandwhich de nocilla, fresa y kiwi</title>
+		<link>./../../../el-sandwhich-de-nocilla-fresa-y-kiwi/index.html</link>
+					<comments>./../../../el-sandwhich-de-nocilla-fresa-y-kiwi/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Fri, 27 Feb 2009 00:00:00 +0000</pubDate>
+				<category><![CDATA[Japón]]></category>
+		<category><![CDATA[Peneke]]></category>
+		<category><![CDATA[Tokyo]]></category>
+		<category><![CDATA[Nocilla]]></category>
+		<category><![CDATA[Pelao]]></category>
+		<category><![CDATA[Tonto]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=693</guid>
+
+					<description><![CDATA[Imagínate que coges pan bimbo, tres rebanadillas ahí. Y entre las dos primeras le metes un chute de nocilla y dejas que se peguen bien. Luego coges la manga pastelera y le enchufas un flis poniendo todo hasta arriba de nata. Después vas y sumerges en la nata trozos de fresa, piña y kiwi, y &#8230; <a href="./../../../el-sandwhich-de-nocilla-fresa-y-kiwi/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">El sandwhich de nocilla, fresa y kiwi</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Imagínate que coges pan bimbo, tres rebanadillas ahí. Y entre las dos primeras le metes un chute de nocilla y dejas que se peguen bien. Luego coges la manga pastelera y le enchufas un flis poniendo todo hasta arriba de nata. Después vas y sumerges en la nata trozos de fresa, piña y kiwi, y para acabar de prepararla parda, vas y lo tapas con la otra rebanada de pan bimbo y lo vendes como el «Sandwhich de frutas y chocolate».</p>
+<p>Pues eso&#8230;</p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.ggpht.com/_pE6wnLeL87o/SZTh1wK0fpI/AAAAAAAAdlE/gk6QA-Q3QFk/s576/DSC07857.JPG"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 576px; height: 432px;" src="http://lh4.ggpht.com/_pE6wnLeL87o/SZTh1wK0fpI/AAAAAAAAdlE/gk6QA-Q3QFk/s576/DSC07857.JPG" alt="" border="0" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.ggpht.com/_pE6wnLeL87o/SZTh36HUX2I/AAAAAAAAdlc/_Z30L9q7xf8/s576/DSC07859.JPG"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 576px; height: 432px;" src="http://lh4.ggpht.com/_pE6wnLeL87o/SZTh36HUX2I/AAAAAAAAdlc/_Z30L9q7xf8/s576/DSC07859.JPG" alt="" border="0" /></a></p>
+<p>Pues, oyes, <span style="font-weight: bold;">¡que estaba bueno y todo!</span></p>
+<hr />
+<p></p>
+<div style="margin: auto; text-align: center;"><a href="http://ikusuki.blogspot.com/2008/06/ikusuki-investigacin.html"><img decoding="async" src="http://lh6.ggpht.com/_pE6wnLeL87o/SWQazI8xk2I/AAAAAAAAZRU/xplGF-Bwiuo/peneke.jpg" style="margin: auto; text-align: center;" /></a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../el-sandwhich-de-nocilla-fresa-y-kiwi/feed/index.html</wfw:commentRss>
+			<slash:comments>22</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">693</post-id>	</item>
+	</channel>
+</rss>

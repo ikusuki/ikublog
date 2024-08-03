@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Inundaciones &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Wed, 28 Jan 2009 01:30:00 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Lluvias</title>
+		<link>./../../../lluvias/index.html</link>
+					<comments>./../../../lluvias/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Wed, 28 Jan 2009 01:30:00 +0000</pubDate>
+				<category><![CDATA[Japón]]></category>
+		<category><![CDATA[Tokyo]]></category>
+		<category><![CDATA[Inundaciones]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=663</guid>
+
+					<description><![CDATA[El 26 de agosto de 1983 empezó a caer en Bilbao una tromba de agua que nadie se esperaba, provocando que la ría se desbordase y que el agua cubriese hasta más de cinco metros en algunas calles del Casco Viejo. Yo recuerdo vagamente verlo por la televisión, y que también hubo «riada» en mi &#8230; <a href="./../../../lluvias/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Lluvias</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://servicios.elcorreodigital.com/especiales/inundaciones/reportaje.html">El 26 de agosto de 1983</a> empezó a caer en Bilbao una tromba de agua que nadie se esperaba, provocando que la ría se desbordase y que el agua cubriese hasta más de cinco metros en algunas calles del Casco Viejo.</p>
+<p>Yo recuerdo vagamente verlo por la televisión, y que también hubo «riada» en mi pueblo donde el garaje de mis padres, que siempre se inundaba al de dos txirimiris, se llenó hasta arriba de agua y mi vecino del cuarto, el bombero, allí andaba con el camión achicando. Que, por cierto, me hice la picha un lío porque yo pensaba que los bomberos sólo apagaban fuegos y aquello era poco menos que lo contrario.</p>
+<p>Después de ver cómo estaban ayer <a href="http://www.elcorreodigital.com/vizcaya/20090127/local/continuas-trombas-agua-causan-200901270753.html">las cosas por Bizkaia</a>, yo creo que a muchos nos ha venido a la mente la historia de aquél verano del 83.</p>
+<p>Y entonces me he acordado que en navidades, cuando estuve con Bea de pintxos por el<br />Casco Viejo, en un bar tenían señalada la marca de hasta donde llegó el agua:</p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.ggpht.com/_pE6wnLeL87o/SW0Xzl3wnWI/AAAAAAAAZwg/pkBrForSrb4/s512/DSC_0182.JPG"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 512px; height: 340px;" src="http://lh4.ggpht.com/_pE6wnLeL87o/SW0Xzl3wnWI/AAAAAAAAZwg/pkBrForSrb4/s512/DSC_0182.JPG" alt="" border="0" /></a><br />Y aunque no tiene nada que ver con el tema, me encantó el mensaje de la pizarra que tenían al lado:</p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh3.ggpht.com/_pE6wnLeL87o/SW0X0jfTMCI/AAAAAAAAZws/JzI6wwDjjm0/s576/DSC_0183.JPG"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 383px; height: 576px;" src="http://lh3.ggpht.com/_pE6wnLeL87o/SW0X0jfTMCI/AAAAAAAAZws/JzI6wwDjjm0/s576/DSC_0183.JPG" alt="" border="0" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../lluvias/feed/index.html</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">663</post-id>	</item>
+	</channel>
+</rss>

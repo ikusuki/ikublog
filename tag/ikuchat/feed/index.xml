@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>ikuchat &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Thu, 02 Nov 2006 19:39:00 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Ikuchat!!</title>
+		<link>./../../../ikuchat/index.html</link>
+					<comments>./../../../ikuchat/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Thu, 02 Nov 2006 19:39:00 +0000</pubDate>
+				<category><![CDATA[ikublog]]></category>
+		<category><![CDATA[ikuchat]]></category>
+		<category><![CDATA[plugoo]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=30</guid>
+
+					<description><![CDATA[¡Inauguramos chat! ¿Qué significa ésto? Pues que si te fijas, justo debajo de la sección Histórico, aparece un pedazo de chat hecho en flash donde nos puedes escribir lo que se te ocurra! Podrán pasar dos cosas: que estemos y que no. Si estamos conectados, podrás hablar con nosotros directamente desde la web y así &#8230; <a href="./../../../ikuchat/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Ikuchat!!</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<div dragover="true" style="text-align: center;"><span dragover="true"  style="font-size:130%;">¡Inauguramos chat! </span></div>
+<p>¿Qué significa ésto? Pues que si te fijas, justo debajo de la sección <span dragover="true" style="font-style: italic;">Histórico, </span>aparece un pedazo de chat hecho en flash donde nos puedes escribir lo que se te ocurra!</p>
+<p>Podrán pasar dos cosas: que estemos y que no. Si estamos conectados, podrás hablar con nosotros directamente desde la web y así contarnos cualquier cosa que te apetezca.<br />Si no estamos conectados, lo que nos escribas nos llegará por mail, vamos, que pase lo que pase, te leeremos y te atenderemos fijo!</p>
+<div dragover="true" style="text-align: right;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://photos1.blogger.com/blogger2/2723/4398/1600/ikuchat.gif"><img decoding="async" dragover="true" style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="http://photos1.blogger.com/blogger2/2723/4398/400/ikuchat.gif" alt="" border="0" /></a></div>
+<p>Pregunta, sugiere, comenta, haznos la pelota, propón, enseñanos algún enlace que te guste, ponnos a parir, elogianos, pide una camiseta, envía un post para el blog, cuéntanos tu idea para el siguiente diseño, dínos que frío hace en tu pueblo, preséntanos a un amigo, <span style="font-size:85%;">envía un sudoku, imita a chiquito</span>, <span style="font-size:78%;">pon un smiley, cuenta un chiste, desahogate, canta una canción&#8230;</p>
+<p></span><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://photos1.blogger.com/blogger2/2723/4398/1600/ikuchat.jpg"><br /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../ikuchat/feed/index.html</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">30</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Haciendo cola	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:59:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Nagore		</title>
+		<link>./../index.html#comment-846</link>
+
+		<dc:creator><![CDATA[Nagore]]></dc:creator>
+		<pubDate>Sun, 30 Sep 2007 17:43:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=217#comment-846</guid>
+
+					<description><![CDATA[Lo del donuts ya es mortal!!! Xo lo que me ha dejado cao es lo del coche... ojala no llegue aqui esa moda, xq sino... creo que mas de uno le imitaría...]]></description>
+			<content:encoded><![CDATA[<p>Lo del donuts ya es mortal!!! Xo lo que me ha dejado cao es lo del coche&#8230; ojala no llegue aqui esa moda, xq sino&#8230; creo que mas de uno le imitaría&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: DsYk		</title>
+		<link>./../index.html#comment-845</link>
+
+		<dc:creator><![CDATA[DsYk]]></dc:creator>
+		<pubDate>Fri, 28 Sep 2007 13:09:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=217#comment-845</guid>
+
+					<description><![CDATA[y yo k soy diabetico.....&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;por cierto, que coche mas discretito no ?? xDD]]></description>
+			<content:encoded><![CDATA[<p>y yo k soy diabetico&#8230;..</p>
+<p>por cierto, que coche mas discretito no ?? xDD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Saruli		</title>
+		<link>./../index.html#comment-844</link>
+
+		<dc:creator><![CDATA[Saruli]]></dc:creator>
+		<pubDate>Fri, 28 Sep 2007 09:55:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=217#comment-844</guid>
+
+					<description><![CDATA[Tienen q estar cojonudos, no te entra la curiosidad de pobrarlos?]]></description>
+			<content:encoded><![CDATA[<p>Tienen q estar cojonudos, no te entra la curiosidad de pobrarlos?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: haatik		</title>
+		<link>./../index.html#comment-843</link>
+
+		<dc:creator><![CDATA[haatik]]></dc:creator>
+		<pubDate>Fri, 28 Sep 2007 08:24:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=217#comment-843</guid>
+
+					<description><![CDATA[Deberían mejorar sus infraestructuras... hacer cola para comprar un donut... es como si en el casco antiguo de bilbo o en la parte vieja de donosti, tuvieses que hacer cola para tomar un pintxo o un txikito....]]></description>
+			<content:encoded><![CDATA[<p>Deberían mejorar sus infraestructuras&#8230; hacer cola para comprar un donut&#8230; es como si en el casco antiguo de bilbo o en la parte vieja de donosti, tuvieses que hacer cola para tomar un pintxo o un txikito&#8230;.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Ikusuki in the world	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Wed, 12 Sep 2007 07:23:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: toscano middle		</title>
+		<link>./../index.html#comment-774</link>
+
+		<dc:creator><![CDATA[toscano middle]]></dc:creator>
+		<pubDate>Wed, 12 Sep 2007 07:23:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=203#comment-774</guid>
+
+					<description><![CDATA[Ikusuki ha estado en Africa, aunque no se hayan subido las fotos todavía, las podéis ver en http://www.cig.canon-europe.com/a?i=9snXJHDpp7]]></description>
+			<content:encoded><![CDATA[<p>Ikusuki ha estado en Africa, aunque no se hayan subido las fotos todavía, las podéis ver en <a href="http://www.cig.canon-europe.com/a?i=9snXJHDpp7" rel="nofollow ugc">http://www.cig.canon-europe.com/a?i=9snXJHDpp7</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: saruli		</title>
+		<link>./../index.html#comment-773</link>
+
+		<dc:creator><![CDATA[saruli]]></dc:creator>
+		<pubDate>Wed, 12 Sep 2007 06:25:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=203#comment-773</guid>
+
+					<description><![CDATA[Que afan de protagonismo, cualquiera diria que Andres no fue contigo...]]></description>
+			<content:encoded><![CDATA[<p>Que afan de protagonismo, cualquiera diria que Andres no fue contigo&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

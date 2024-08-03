@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Cachivache del momento	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Wed, 31 Oct 2007 16:30:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Idoia		</title>
+		<link>./../index.html#comment-987</link>
+
+		<dc:creator><![CDATA[Idoia]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2007 16:30:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=247#comment-987</guid>
+
+					<description><![CDATA[Si esto ya estaba inventado en los 80!&lt;br/&gt;O si no, acordaros del mítico Michael Knight llamando al coche fantástico a través del reloj: &quot;Kit, te necesito!&quot;. Ahora el reloj podría responderle:&quot;el móvil al que llama está apagado o fuera de cobertura&quot;... &lt;br/&gt;Jajajaja...]]></description>
+			<content:encoded><![CDATA[<p>Si esto ya estaba inventado en los 80!<br />O si no, acordaros del mítico Michael Knight llamando al coche fantástico a través del reloj: «Kit, te necesito!». Ahora el reloj podría responderle:»el móvil al que llama está apagado o fuera de cobertura»&#8230; <br />Jajajaja&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Doris		</title>
+		<link>./../index.html#comment-986</link>
+
+		<dc:creator><![CDATA[Doris]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2007 15:57:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=247#comment-986</guid>
+
+					<description><![CDATA[Qué juguetito más chulo!! sólo tengo una duda.. y si tienes una urgencia?! serán capaces de marcar el número a la primera?! je.je]]></description>
+			<content:encoded><![CDATA[<p>Qué juguetito más chulo!! sólo tengo una duda.. y si tienes una urgencia?! serán capaces de marcar el número a la primera?! je.je</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Winnie		</title>
+		<link>./../index.html#comment-985</link>
+
+		<dc:creator><![CDATA[Winnie]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2007 11:41:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=247#comment-985</guid>
+
+					<description><![CDATA[COMO ME MOLA el reloj ese...!!!!&lt;br/&gt;&lt;br/&gt;QUE CHUUUUUUUUULIPIIIIIIIIIRULIIIII!!!!&lt;br/&gt;&lt;br/&gt;Estos japoneses dan 1000 vueltas al resto del mundo en cuanto a tecnologia, siempre que veo en las noticias algo de eso (los robots y esas cosas), pienso &quot;ya no me pueden sorprender mas, lo que no inventen!!! &quot; pero veo qeu si.]]></description>
+			<content:encoded><![CDATA[<p>COMO ME MOLA el reloj ese&#8230;!!!!</p>
+<p>QUE CHUUUUUUUUULIPIIIIIIIIIRULIIIII!!!!</p>
+<p>Estos japoneses dan 1000 vueltas al resto del mundo en cuanto a tecnologia, siempre que veo en las noticias algo de eso (los robots y esas cosas), pienso «ya no me pueden sorprender mas, lo que no inventen!!! » pero veo qeu si.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

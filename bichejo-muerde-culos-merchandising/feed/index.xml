@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Bichejo muerde culos merchandising	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Wed, 14 Nov 2007 22:08:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-1030</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Wed, 14 Nov 2007 22:08:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=256#comment-1030</guid>
+
+					<description><![CDATA[&quot;El bichejo muerde culooooooos&quot;&lt;br/&gt;&lt;br/&gt;Je, jeee... que gran cacnción Oskar...&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;PD: Di que sí Oskar... que son todos unos soseras, que sois todos unos soseras... con este pedazo de post y la gente muda... si es que hay que ver...]]></description>
+			<content:encoded><![CDATA[<p>«El bichejo muerde culooooooos»</p>
+<p>Je, jeee&#8230; que gran cacnción Oskar&#8230;</p>
+<p>PD: Di que sí Oskar&#8230; que son todos unos soseras, que sois todos unos soseras&#8230; con este pedazo de post y la gente muda&#8230; si es que hay que ver&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

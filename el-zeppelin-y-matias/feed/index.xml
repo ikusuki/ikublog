@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: El Zeppelín y Matías	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:59:29 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-1031</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Wed, 14 Nov 2007 22:11:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=255#comment-1031</guid>
+
+					<description><![CDATA[Yo recuerdo que de pequeño veía zepelines de vez en cuando por la ventana...&lt;br/&gt;&lt;br/&gt;Recuerdo que uno venía tan bajo que rozó la antena de mi casa y nos quedamos sin tele durante una semana... que duro fue...&lt;br/&gt;&lt;br/&gt;PD: Que no... que lo de la antena era bola... es que justo hoy he visto un anuncio de mentirosos patológicos y me animado ;)]]></description>
+			<content:encoded><![CDATA[<p>Yo recuerdo que de pequeño veía zepelines de vez en cuando por la ventana&#8230;</p>
+<p>Recuerdo que uno venía tan bajo que rozó la antena de mi casa y nos quedamos sin tele durante una semana&#8230; que duro fue&#8230;</p>
+<p>PD: Que no&#8230; que lo de la antena era bola&#8230; es que justo hoy he visto un anuncio de mentirosos patológicos y me animado <img src="./../../wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Winnie		</title>
+		<link>./../index.html#comment-1018</link>
+
+		<dc:creator><![CDATA[Winnie]]></dc:creator>
+		<pubDate>Mon, 12 Nov 2007 08:23:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=255#comment-1018</guid>
+
+					<description><![CDATA[Tiene que ser bonito, emocionante y una experiencia alucinante montar en un zepelin de esos y ver todo Tokyo, no?? &lt;br/&gt;&lt;br/&gt;En cuanto al matias de las muñecas, si le vuelves a ver le pides una barriguitas de esas, que es la que me falta!!! jajaja&lt;br/&gt;&lt;br/&gt;Por cierto, un comentario al de la mujer de los paraguas... que bonito, ultimamente estas muy sentimental (o semental como diria una mujer de mi pueblo) y haces unas entradas muy bonitas!!!&lt;br/&gt;&lt;br/&gt;Un besazo guapeton]]></description>
+			<content:encoded><![CDATA[<p>Tiene que ser bonito, emocionante y una experiencia alucinante montar en un zepelin de esos y ver todo Tokyo, no?? </p>
+<p>En cuanto al matias de las muñecas, si le vuelves a ver le pides una barriguitas de esas, que es la que me falta!!! jajaja</p>
+<p>Por cierto, un comentario al de la mujer de los paraguas&#8230; que bonito, ultimamente estas muy sentimental (o semental como diria una mujer de mi pueblo) y haces unas entradas muy bonitas!!!</p>
+<p>Un besazo guapeton</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

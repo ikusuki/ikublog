@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Sanders &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Fri, 26 Jun 2009 08:54:00 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>El post regulero de la semana</title>
+		<link>./../../../el-post-regulero-de-la-semana-3/index.html</link>
+					<comments>./../../../el-post-regulero-de-la-semana-3/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Fri, 26 Jun 2009 08:53:20 +0000</pubDate>
+				<category><![CDATA[Regulero]]></category>
+		<category><![CDATA[Hanshin Tigers]]></category>
+		<category><![CDATA[KFC]]></category>
+		<category><![CDATA[Sanders]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1088</guid>
+
+					<description><![CDATA[Esta semana me he tirado delante del ordenador más tiempo que ni sé, entre el trabajo y lo de las nuevas camisetas, se me ha quedao una carapixel que riete de Mario Bros, me peino con escuadra y cartabón, no os digo más. Así que ¿qué mejor que despedir la semana con un post de &#8230; <a href="./../../../el-post-regulero-de-la-semana-3/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">El post regulero de la semana</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Esta semana me he tirado delante del ordenador más tiempo que ni sé, entre el trabajo y lo de las nuevas camisetas, se me ha quedao una carapixel que riete de Mario Bros, me peino con escuadra y cartabón, no os digo más. </p>
+<p><strong>Así que ¿qué mejor que despedir la semana con un post de esos de los de sin pensar? </strong></p>
+<p>Efectivamente, vuelvo con otra entrega del culto a la huevez, narrando la hazaña de la estatua del Coronel Sanders que han encontrado en el fondo del río. Cuento la historia a lo ikusuki: resulta que hace 24 años el equipo de Beisbol de Osaka, los Hanshin Tigers, ganó la liga por primera vez en su historia, así que la gente salió toda pataliebreada a liarla parda y al pasar cerca de un Kentucky Fried Chicken de esos, arramplaron con la estatua y la tiraron al río. Y el caso es que no se ha vuelto a saber nada hasta el otro día que la encontraron toda regulera, como el post este.</p>
+<p>Aprovechando un ritual que celebran los del Kentucky Fried Chicken este todos los años para «honrar» a los pollos que han cocinao, han hecho una especie de exorcismo con la estatua y hay un monje que dice que «está destinada a salvar al equipo que últimamente anda regulero».</p>
+<p>Dentro videos!</p>
+<div style="text-align:center;">
+<p><a href="//www.youtube.com/watch?v=rS1cyyxyF0E&#038;fmt=18">//www.youtube.com/watch?v=rS1cyyxyF0E</a></p>
+<p><a href="//www.youtube.com/watch?v=rS1cyyxyF0E&#038;fmt=18"><img decoding="async" src="//img.youtube.com/vi/rS1cyyxyF0E/default.jpg" width="130" height="97" border=0></a></p>
+</div>
+<p></p>
+<div style="text-align:center;">
+<p><a href="//www.youtube.com/watch?v=yfzt8LlDU3E&#038;fmt=18">//www.youtube.com/watch?v=yfzt8LlDU3E</a></p>
+<p><a href="//www.youtube.com/watch?v=yfzt8LlDU3E&#038;fmt=18"><img decoding="async" src="//img.youtube.com/vi/yfzt8LlDU3E/default.jpg" width="130" height="97" border=0></a></p>
+</div>
+<p>
+<b>Fuente</b>: <a href="http://www.japanprobe.com/?p=11045">Japan Probe</a><br />
+<b>Tiempo destinado:</b> 6 minutos (se va notando que le voy pillando el truco a wordpress)<br />
+<b>Orientación del camino de salida:</b> </p>
+<p><img src="./../../../wp-includes/images/smilies/ikusegao.gif" alt=":bythesegao:" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><b>Buen finde!</b><br /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../el-post-regulero-de-la-semana-3/feed/index.html</wfw:commentRss>
+			<slash:comments>13</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1088</post-id>	</item>
+	</channel>
+</rss>

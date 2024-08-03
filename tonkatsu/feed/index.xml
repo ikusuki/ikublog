@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Tonkatsu	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 03:42:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-1780</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Wed, 12 Mar 2008 23:15:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=357#comment-1780</guid>
+
+					<description><![CDATA[hhhhhmmmm cochifritoooo.... se me hace la boca agua solo de pensarlo.]]></description>
+			<content:encoded><![CDATA[<p>hhhhhmmmm cochifritoooo&#8230;. se me hace la boca agua solo de pensarlo.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Manji		</title>
+		<link>./../index.html#comment-1767</link>
+
+		<dc:creator><![CDATA[Manji]]></dc:creator>
+		<pubDate>Wed, 12 Mar 2008 09:11:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=357#comment-1767</guid>
+
+					<description><![CDATA[Butaniku!&lt;br/&gt;Que ya puestos,va del palo de butanero,y al ser tan pezqueñines,serian &#039;butanitos&#039;,jeje....&lt;br/&gt;Saludos.]]></description>
+			<content:encoded><![CDATA[<p>Butaniku!<br />Que ya puestos,va del palo de butanero,y al ser tan pezqueñines,serian &#8216;butanitos&#8217;,jeje&#8230;.<br />Saludos.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Pata		</title>
+		<link>./../index.html#comment-1760</link>
+
+		<dc:creator><![CDATA[Pata]]></dc:creator>
+		<pubDate>Tue, 11 Mar 2008 14:45:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=357#comment-1760</guid>
+
+					<description><![CDATA[Yo lo se! Yo lo se! ¿De hipopotamo?]]></description>
+			<content:encoded><![CDATA[<p>Yo lo se! Yo lo se! ¿De hipopotamo?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

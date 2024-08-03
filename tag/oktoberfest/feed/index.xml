@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Oktoberfest &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Thu, 28 May 2009 00:54:00 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Oktoberfest &#8211; The ida pallá</title>
+		<link>./../../../oktoberfest-the-ida-palla/index.html</link>
+					<comments>./../../../oktoberfest-the-ida-palla/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Thu, 28 May 2009 00:54:00 +0000</pubDate>
+				<category><![CDATA[Tokyo]]></category>
+		<category><![CDATA[Moto]]></category>
+		<category><![CDATA[Oktoberfest]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=784</guid>
+
+					<description><![CDATA[Ni esto era Alemania, ni estamos en Octubre, aunque fest si que había si&#8230; de momento: ¡¡ La ida en moto por Tokyo !! Esa Jamonera!!!!]]></description>
+										<content:encoded><![CDATA[<p>Ni esto era Alemania, ni estamos en Octubre, aunque fest si que había si&#8230; de momento:</p>
+<div style="text-align: center; font-weight: bold;"><span style="font-size:180%;">¡¡ La ida en moto por Tokyo !!<br /></span></div>
+<p></p>
+<div style="text-align: center;"><object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/keOp3wBNYuI&amp;hl=en&amp;fs=1&amp;hd=1"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"></object></div>
+<p>Esa <a href="http://www.nerelorco.com/se-van-a/Tokio/la-llamaban-jamonera/">Jamonera</a>!!!!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../oktoberfest-the-ida-palla/feed/index.html</wfw:commentRss>
+			<slash:comments>12</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">784</post-id>	</item>
+	</channel>
+</rss>

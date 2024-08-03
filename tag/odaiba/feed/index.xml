@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Odaiba &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Mon, 26 Jul 2010 08:13:12 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Japovisión</title>
+		<link>./../../../japovision/index.html</link>
+					<comments>./../../../japovision/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Fri, 10 Jul 2009 01:08:12 +0000</pubDate>
+				<category><![CDATA[Amigos]]></category>
+		<category><![CDATA[De todo un poco]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Odaiba]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1189</guid>
+
+					<description><![CDATA[Con un documento audiovisual tan impactante, sobran las palabras&#8230;. //www.youtube.com/watch?v=FyA9QmDf2Sk Otia, que se me había olvidao! que a parte de un servidor, las otras dos eminencias que aparecen en el vídeo son el tito Fla y el primo Guille.]]></description>
+										<content:encoded><![CDATA[<p>Con un documento audiovisual tan impactante, sobran las palabras&#8230;.</p>
+<div style="text-align:center;">
+<p><a href="//www.youtube.com/watch?v=FyA9QmDf2Sk&#038;fmt=18">//www.youtube.com/watch?v=FyA9QmDf2Sk</a></p>
+<p><a href="//www.youtube.com/watch?v=FyA9QmDf2Sk&#038;fmt=18"><img decoding="async" src="//img.youtube.com/vi/FyA9QmDf2Sk/default.jpg" width="130" height="97" border=0></a></p>
+</div>
+<p>
+Otia, que se me había olvidao! que a parte de un servidor, las otras dos eminencias que aparecen en el vídeo son el <a href="http://flapyinjapan.com/">tito Fla</a> y <a href="http://nerelorco.com/">el primo Guille</a>.<br /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../japovision/feed/index.html</wfw:commentRss>
+			<slash:comments>42</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1189</post-id>	</item>
+		<item>
+		<title>Yurikamome ゆりかもめ</title>
+		<link>./../../../yurikamome/index.html</link>
+					<comments>./../../../yurikamome/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Sun, 21 Jun 2009 06:43:27 +0000</pubDate>
+				<category><![CDATA[Odaiba]]></category>
+		<category><![CDATA[Shimbashi]]></category>
+		<category><![CDATA[Tokyo]]></category>
+		<category><![CDATA[Trenes]]></category>
+		<category><![CDATA[Yurikamome]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1029</guid>
+
+					<description><![CDATA[Yurikamome from ikusuki on Vimeo.]]></description>
+										<content:encoded><![CDATA[<p></p>
+<p style="text-align:center"><object width="576" height="324"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=5253467&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1" /></object></p>
+<p><a href="http://vimeo.com/5253467">Yurikamome</a> from <a href="http://vimeo.com/user443418">ikusuki</a> on <a href="http://vimeo.com/">Vimeo</a>.</p>
+</p>
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../yurikamome/feed/index.html</wfw:commentRss>
+			<slash:comments>27</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1029</post-id>	</item>
+		<item>
+		<title>Desde Shimbashi a Odaiba en Yurikamome</title>
+		<link>./../../../desde-shimbashi-a-odaiba-en-yurikamome/index.html</link>
+					<comments>./../../../desde-shimbashi-a-odaiba-en-yurikamome/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2009 15:41:43 +0000</pubDate>
+				<category><![CDATA[Tokyo]]></category>
+		<category><![CDATA[Gundam]]></category>
+		<category><![CDATA[Odaiba]]></category>
+		<category><![CDATA[Shimbashi]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1003</guid>
+
+					<description><![CDATA[Ahí vamos! A por el Gundam! por Tosca en Pigmeo.]]></description>
+										<content:encoded><![CDATA[<p><strong>Ahí vamos!</strong></p>
+<p style="text-align:center"><object width="576" height="324" data="http://vimeo.com/moogaloop.swf?clip_id=5193455&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1" type="application/x-shockwave-flash"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://vimeo.com/moogaloop.swf?clip_id=5193455&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1" /></object></p>
+<p style="text-align: center;"><a href="http://vimeo.com/5193455">A por el Gundam!</a> por <a href="http://vimeo.com/user443418">Tosca </a> en <a href="http://vimeo.com/"> Pigmeo</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../desde-shimbashi-a-odaiba-en-yurikamome/feed/index.html</wfw:commentRss>
+			<slash:comments>18</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1003</post-id>	</item>
+		<item>
+		<title>Más del Gundam</title>
+		<link>./../../../mas-del-gundam/index.html</link>
+					<comments>./../../../mas-del-gundam/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Sun, 14 Jun 2009 15:18:22 +0000</pubDate>
+				<category><![CDATA[Japón]]></category>
+		<category><![CDATA[Tokyo]]></category>
+		<category><![CDATA[Gundam]]></category>
+		<category><![CDATA[Odaiba]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=906</guid>
+
+					<description><![CDATA[El viernes a la noche volví y resulta que lo tenían iluminado en plan guay, pero guay guay, pero yo no llevé ni cámara ni nada. Hoy he vuelto, pero no tenía luces&#8230; aún así he sacado alguna foto desde otros ángulos. Ahí van, y prometo no dar más la chapa con el roboto por &#8230; <a href="./../../../mas-del-gundam/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Más del Gundam</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>El viernes a la noche volví y resulta que lo tenían iluminado en plan guay, pero guay guay, pero yo no llevé ni cámara ni nada. Hoy he vuelto, pero no tenía luces&#8230; aún así he sacado alguna foto desde otros ángulos. Ahí van, y prometo no dar más la chapa con el roboto por ahora (o hasta que le pille con las luces guays, que molaba, soltaba humo y todo!)</p>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img fetchpriority="high" decoding="async" src="http://lh5.ggpht.com/_pE6wnLeL87o/SjUHeS--MmI/AAAAAAAAvt4/EJN7I8HZTF8/DSC_0253-1.jpg?imgmax=576" alt="DSC_0253-1.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img decoding="async" src="http://lh5.ggpht.com/_pE6wnLeL87o/SjUHgGVjsII/AAAAAAAAvuA/T4iEofH6rKs/DSC_0259-1.jpg?imgmax=576" alt="DSC_0259-1.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/_pE6wnLeL87o/SjUHghE3whI/AAAAAAAAvuI/Gkv7kZz4H-U/DSC_0260-1.jpg?imgmax=576" alt="DSC_0260-1.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/_pE6wnLeL87o/SjUMf_EwTuI/AAAAAAAAvus/g8MHWJFXFBA/DSC_0262-Edit-1.jpg?imgmax=576" alt="DSC_0262-Edit-1.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh3.ggpht.com/_pE6wnLeL87o/SjUMgXckPSI/AAAAAAAAvu0/V56LFSdI1Q0/DSC_0263-Edit-1.jpg?imgmax=576" alt="DSC_0263-Edit-1.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/_pE6wnLeL87o/SjUMhpxFOJI/AAAAAAAAvu8/h-9XJsOwmFM/DSC_0265-1.jpg?imgmax=576" alt="DSC_0265-1.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh5.ggpht.com/_pE6wnLeL87o/SjUMieBuSiI/AAAAAAAAvvE/OCWURAhshM8/DSC_0267-1.jpg?imgmax=576" alt="DSC_0267-1.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+<div class="pie-item" style="margin:10px 0px 0px 0px;">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" src="http://lh6.ggpht.com/_pE6wnLeL87o/SjUMjMe4buI/AAAAAAAAvvM/SQdcN16is4I/DSC_0270-1.jpg?imgmax=576" alt="DSC_0270-1.jpg" width="576" height="383" class="pie-img"/></p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../mas-del-gundam/feed/index.html</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">906</post-id>	</item>
+		<item>
+		<title>El Gundam de Odaiba</title>
+		<link>./../../../el-gundam-de-odaiba/index.html</link>
+					<comments>./../../../el-gundam-de-odaiba/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Thu, 11 Jun 2009 17:48:35 +0000</pubDate>
+				<category><![CDATA[Japón]]></category>
+		<category><![CDATA[Tokyo]]></category>
+		<category><![CDATA[2009]]></category>
+		<category><![CDATA[Gundam]]></category>
+		<category><![CDATA[Odaiba]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=898</guid>
+
+					<description><![CDATA[Gundam, por lo visto, es una serie estilo Mazinger-Z pero a lo nuevo donde hay robots. No la he visto en mi vida, pero por hacer 30 años que se le ocurrió a alguien hacerla, han plantado en Odaiba un pedazo de robot de 18 metros de alto. Hoy después de currar me he ido &#8230; <a href="./../../../el-gundam-de-odaiba/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">El Gundam de Odaiba</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Gundam, por lo visto, es una serie estilo Mazinger-Z pero a lo nuevo donde hay robots. No la he visto en mi vida, pero por hacer 30 años que se le ocurrió a alguien hacerla, han plantado en Odaiba un pedazo de robot de 18 metros de alto.</p>
+<p>Hoy después de currar me he ido allí y le he sacado todas las fotos. Mola mucho aunque no os guste el anime, y además había una luna preciosa y hacía una temperatura guay, así que me ha gustao la roboexcursión!</p>
+<div style="text-align:center">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" class="pie-img" src="http://lh4.ggpht.com/_pE6wnLeL87o/SjFAJDXmOSI/AAAAAAAAvmI/ZNQXX_cfEqQ/DSC_0050.JPG?imgmax=576" alt="DSC_0050.JPG" width="576" height="383" /></p>
+<p class="pie-img-wrapper">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" class="pie-img" src="http://lh6.ggpht.com/_pE6wnLeL87o/SjE55TybcoI/AAAAAAAAvio/CShW9CWDDgM/DSC_0032-1.jpg?imgmax=576" alt="DSC_0032-1.jpg" width="576" height="383" /></p>
+<p class="pie-img-wrapper">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" class="pie-img" src="http://lh5.ggpht.com/_pE6wnLeL87o/SjE56RLKLWI/AAAAAAAAviw/X6DE5Jd41qw/DSC_0033-1.jpg?imgmax=576" alt="DSC_0033-1.jpg" width="576" height="383" /></p>
+<p class="pie-img-wrapper">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" class="pie-img" src="http://lh6.ggpht.com/_pE6wnLeL87o/SjE57Pgk3cI/AAAAAAAAvi4/iCQZM7Ph_Xs/DSC_0035-1.jpg?imgmax=576" alt="DSC_0035-1.jpg" width="576" height="383" /></p>
+<p class="pie-img-wrapper">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" class="pie-img" src="http://lh6.ggpht.com/_pE6wnLeL87o/SjE5744pMyI/AAAAAAAAvjE/QdWc16_qWEA/DSC_0037-1.jpg?imgmax=576" alt="DSC_0037-1.jpg" width="576" height="383" /></p>
+<p class="pie-img-wrapper">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" class="pie-img" src="http://lh4.ggpht.com/_pE6wnLeL87o/SjE58nmk4KI/AAAAAAAAvjM/E-f6MMNY02Q/DSC_0039-1-1.jpg?imgmax=576" alt="DSC_0039-1-1.jpg" width="576" height="383" /></p>
+<p class="pie-img-wrapper">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" class="pie-img" src="http://lh5.ggpht.com/_pE6wnLeL87o/SjE59DVv-7I/AAAAAAAAvjU/YedhnRBONWA/DSC_0040-1-1.jpg?imgmax=576" alt="DSC_0040-1-1.jpg" width="576" height="383" /></p>
+<p class="pie-img-wrapper">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" class="pie-img" src="http://lh4.ggpht.com/_pE6wnLeL87o/SjE5-2vPgOI/AAAAAAAAvjc/4Zwf2pgW6Fk/DSC_0042-1.jpg?imgmax=576" alt="DSC_0042-1.jpg" width="576" height="383" /></p>
+<p class="pie-img-wrapper">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" class="pie-img" src="http://lh5.ggpht.com/_pE6wnLeL87o/SjFAImTFHMI/AAAAAAAAvmA/vAKBQ6qT_Z8/DSC_0046.JPG?imgmax=576" alt="DSC_0046.JPG" width="576" height="383" /></p>
+<p class="pie-img-wrapper">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" class="pie-img" src="http://lh5.ggpht.com/_pE6wnLeL87o/SjFAH9JY12I/AAAAAAAAvl4/2VB6-tfyUn0/DSC_0045.JPG?imgmax=576" alt="DSC_0045.JPG" width="576" height="383" /></p>
+<p class="pie-img-wrapper">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" class="pie-img" src="http://lh5.ggpht.com/_pE6wnLeL87o/SjE5_S_eGMI/AAAAAAAAvjk/1m-amXuXZr8/DSC_0044-1-1.jpg?imgmax=576" alt="DSC_0044-1-1.jpg" width="576" height="383" /></p>
+<p class="pie-img-wrapper">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" class="pie-img" src="http://lh3.ggpht.com/_pE6wnLeL87o/SjFAKBUhnAI/AAAAAAAAvmQ/6FCK_M7BUVU/DSC_0055-1.JPG?imgmax=576" alt="DSC_0055-1.JPG" width="576" height="383" /></p>
+<p class="pie-img-wrapper">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" class="pie-img" src="http://lh6.ggpht.com/_pE6wnLeL87o/SjFAKpJ6gjI/AAAAAAAAvmY/dMYcJ9OlSuA/DSC_0056.JPG?imgmax=576" alt="DSC_0056.JPG" width="576" height="383" /></p>
+<p class="pie-img-wrapper">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" class="pie-img" src="http://lh3.ggpht.com/_pE6wnLeL87o/SjE6DUYYICI/AAAAAAAAvkE/Q4NfzV2iWec/s576/DSC_0060-1.jpg" width="576" height="383" /></p>
+<p class="pie-img-wrapper">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" class="pie-img" src="http://lh5.ggpht.com/_pE6wnLeL87o/SjE6D-SEK_I/AAAAAAAAvkM/_3diIVfafxE/DSC_0067-1-1.jpg?imgmax=576" alt="DSC_0067-1-1.jpg" width="576" height="383" /></p>
+<p class="pie-img-wrapper">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" class="pie-img" src="http://lh5.ggpht.com/_pE6wnLeL87o/SjGd27PMkwI/AAAAAAAAvpw/J4L5U0TGC64/s576/DSC_0053-1.JPG" alt="DSC_0070.JPG" width="576" height="383" /></p>
+<p class="pie-img-wrapper">
+<p class="pie-img-wrapper"><img loading="lazy" decoding="async" class="pie-img" src="http://lh3.ggpht.com/_pE6wnLeL87o/SjE6FINZd9I/AAAAAAAAvkc/xVmgLC0kwCw/DSC_0072-2-1.jpg?imgmax=576" alt="DSC_0072-2-1.jpg" width="576" height="383" /></p>
+</div>
+<p>En <a href="http://www.flickr.com/photos/13926043@N07/sets/72157619602337656/">ikuflickr están las fotos</a> en gordas, echadles un ojo láser!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../el-gundam-de-odaiba/feed/index.html</wfw:commentRss>
+			<slash:comments>42</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">898</post-id>	</item>
+	</channel>
+</rss>

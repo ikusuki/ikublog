@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>hanami &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 03:44:17 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Reservando sitio para el hanami</title>
+		<link>./../../../reservando-sitio-para-el-hanami/index.html</link>
+					<comments>./../../../reservando-sitio-para-el-hanami/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Sun, 13 Apr 2008 02:11:00 +0000</pubDate>
+				<category><![CDATA[Hanami]]></category>
+		<category><![CDATA[Tokyo]]></category>
+		<category><![CDATA[hanami]]></category>
+		<category><![CDATA[Ikusuki]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=389</guid>
+
+					<description><![CDATA[Me hace gracia cómo limitan el sitio ahí con cinta, y ponen carteles con el día y la hora Nosotros hicimos algo parecido, y nos respetaron el sitio, lo suelen dejar el mismo día por la mañana Vamos, que no vale dejarlo el mes antes! Esto ha sido el pan nuestro de cada día durante &#8230; <a href="./../../../reservando-sitio-para-el-hanami/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Reservando sitio para el hanami</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh6.ggpht.com/koki142/SAF6Fqha91I/AAAAAAAAIJk/UkEDRa1wHvY/DSC05115.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://lh6.ggpht.com/koki142/SAF6Fqha91I/AAAAAAAAIJk/UkEDRa1wHvY/DSC05115.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Me hace gracia cómo limitan el sitio ahí con cinta, y ponen carteles con el día y la hora</p>
+<p></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.ggpht.com/koki142/SAF6EKha90I/AAAAAAAAIJc/qaUf-rZzBfU/DSC05114.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://lh4.ggpht.com/koki142/SAF6EKha90I/AAAAAAAAIJc/qaUf-rZzBfU/DSC05114.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Nosotros hicimos algo parecido, y nos respetaron el sitio, lo suelen dejar el mismo día por la mañana</p>
+<p></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh6.ggpht.com/koki142/SAF6Cqha9zI/AAAAAAAAIJU/nmsIlYy9Vm4/DSC05113.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://lh6.ggpht.com/koki142/SAF6Cqha9zI/AAAAAAAAIJU/nmsIlYy9Vm4/DSC05113.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Vamos, que no vale dejarlo el mes antes!</p>
+<p></span></span></p>
+<div style="text-align: left;"><span style="font-size:100%;">Esto ha sido el pan nuestro de cada día durante las dos últimas semanas. Por las mañanas: sitios reservados, por las tardes/noches: gente pimplada diciéndome «hello» y saludándome con la mano al volver. Hasta hubo un señor que insistió en que me sentara con ellos y me dio una botellita de sake!!<br /></span></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../reservando-sitio-para-el-hanami/feed/index.html</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">389</post-id>	</item>
+	</channel>
+</rss>

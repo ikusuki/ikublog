@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Ikuchat!!	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Fri, 03 Nov 2006 16:09:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-41</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Fri, 03 Nov 2006 16:09:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=30#comment-41</guid>
+
+					<description><![CDATA[Pues ayer justo me enteré de como iba. Cuando alguien habla por la web,  a mi me habla un contacto por el gtalk que se llama &quot;plugoo&quot; y me pone justo lo que me escribís. Si yo contesto al gtalk, os aparece en la web! que curioso!&lt;br /&gt;El caso es que mientras esté hablando con una persona, al resto le aparecerá en la web el chat como &quot;busy&quot;. Vamos, que sólo hablamos con uno cada vez... eso si, si escribís mientras estamos hablando con otros, nos llega un mail.&lt;br /&gt;&lt;br /&gt;Qué cosas! ¿es esto lo que llaman la web 2.0?]]></description>
+			<content:encoded><![CDATA[<p>Pues ayer justo me enteré de como iba. Cuando alguien habla por la web,  a mi me habla un contacto por el gtalk que se llama «plugoo» y me pone justo lo que me escribís. Si yo contesto al gtalk, os aparece en la web! que curioso!<br />El caso es que mientras esté hablando con una persona, al resto le aparecerá en la web el chat como «busy». Vamos, que sólo hablamos con uno cada vez&#8230; eso si, si escribís mientras estamos hablando con otros, nos llega un mail.</p>
+<p>Qué cosas! ¿es esto lo que llaman la web 2.0?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: lUIx		</title>
+		<link>./../index.html#comment-40</link>
+
+		<dc:creator><![CDATA[lUIx]]></dc:creator>
+		<pubDate>Fri, 03 Nov 2006 15:38:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=30#comment-40</guid>
+
+					<description><![CDATA[pero vamos a ver... lo que yo hablo contigo lo ve todo el mundo? es decir, te pueden escribir cuarenta personas a la vez? vaya lío, no?]]></description>
+			<content:encoded><![CDATA[<p>pero vamos a ver&#8230; lo que yo hablo contigo lo ve todo el mundo? es decir, te pueden escribir cuarenta personas a la vez? vaya lío, no?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

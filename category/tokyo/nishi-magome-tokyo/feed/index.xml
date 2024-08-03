@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Nishi Magome &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Thu, 27 Oct 2011 04:50:09 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>El matsuri de mi barrio pero con la luz dada</title>
+		<link>./../../../../el-matsuri-de-mi-barrio-pero-con-la-luz-dada/index.html</link>
+					<comments>./../../../../el-matsuri-de-mi-barrio-pero-con-la-luz-dada/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Sun, 03 Aug 2008 02:23:00 +0000</pubDate>
+				<category><![CDATA[Matsuri]]></category>
+		<category><![CDATA[Nishi Magome]]></category>
+		<category><![CDATA[Vete a saber]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=496</guid>
+
+					<description><![CDATA[Pues eso, que he podido dar un poco la luz en uno de los videos, y ahora, por lo menos, podéis ver a la gente bailando en vez de sólo imaginaroslo: La verbena de mi barrio pero con la luz dada from ikusuki on si no hago lo que Vimeo, me meo.]]></description>
+										<content:encoded><![CDATA[<p>Pues eso, que he podido dar un poco la luz en uno de los videos, y ahora, por lo menos, podéis ver a la gente bailando en vez de sólo imaginaroslo:</p>
+<div style="text-align:center"><object width="500" height="377"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=1447282&amp;server=www.vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" /></object><br /><a href="http://www.vimeo.com/1447282?pg=embed&#038;sec=1447282">La verbena de mi barrio pero con la luz dada</a> from <a href="http://www.vimeo.com/user443418?pg=embed&#038;sec=1447282">ikusuki</a> on <a href="http://vimeo.com/?pg=embed&#038;sec=1447282">si no hago lo que Vimeo, me meo</a>.</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../el-matsuri-de-mi-barrio-pero-con-la-luz-dada/feed/index.html</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">496</post-id>	</item>
+		<item>
+		<title>Obreros</title>
+		<link>./../../../../obreros/index.html</link>
+					<comments>./../../../../obreros/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Thu, 24 Apr 2008 22:16:00 +0000</pubDate>
+				<category><![CDATA[Nishi Magome]]></category>
+		<category><![CDATA[Vete a saber]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=399</guid>
+
+					<description><![CDATA[Yo he contado siete&#8230;]]></description>
+										<content:encoded><![CDATA[<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh6.ggpht.com/koki142/SBEVqqHe2gI/AAAAAAAAIW4/ZIyuFNJmjRk/DSC05063.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://lh6.ggpht.com/koki142/SBEVqqHe2gI/AAAAAAAAIW4/ZIyuFNJmjRk/DSC05063.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Yo he contado siete&#8230;</span></span></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../obreros/feed/index.html</wfw:commentRss>
+			<slash:comments>14</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">399</post-id>	</item>
+		<item>
+		<title>El biplan biplanítico del otro lao</title>
+		<link>./../../../../el-biplan-biplanitico-del-otro-lao/index.html</link>
+					<comments>./../../../../el-biplan-biplanitico-del-otro-lao/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2008 11:47:00 +0000</pubDate>
+				<category><![CDATA[Matsuri]]></category>
+		<category><![CDATA[Nishi Magome]]></category>
+		<category><![CDATA[Vete a saber]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=388</guid>
+
+					<description><![CDATA[¡¡ Qué Chikilikuatre ni ochochikilicuartos !! Lo que se cocía en la calle de mi barrio fue lo mismo mismo mismito mismo que lo que os conté el año pasao (el tiempo va en Shinkansen, amigos!!), y además no hace ni un plis que os puse los videos que ni sabía que tenía. Así que &#8230; <a href="./../../../../el-biplan-biplanitico-del-otro-lao/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">El biplan biplanítico del otro lao</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.ggpht.com/koki142/R_4SjqebGII/AAAAAAAAIIE/mfw0jRE51eg/DSC_0031.JPG?imgmax=576"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://lh4.ggpht.com/koki142/R_4SjqebGII/AAAAAAAAIIE/mfw0jRE51eg/DSC_0031.JPG?imgmax=576" alt="" border="0" /></a><span style="font-weight: bold;font-size:130%;" >¡¡ Qué Chikilikuatre ni ochochikilicuartos !!</p>
+<p></span></p>
+<div style="text-align: left;">Lo que se cocía en la calle de mi barrio fue lo mismo mismo mismito mismo que <a href="http://ikusuki.blogspot.com/2007/04/no-si-algo-se-coca_02.html">lo que os conté el año pasao</a> (el tiempo va en <a href="http://en.wikipedia.org/wiki/Shinkansen">Shinkansen</a>, amigos!!), y además no hace ni un plis que <a href="http://ikusuki.blogspot.com/2008/03/puntito-puntito.html">os puse los videos que ni sabía que tenía</a>.</p>
+<p>Así que no os voy a contar otra vez lo que ví, porque lo del año pasado vale mismamente. Lo que si quiero es que sepáis lo que viví, y que entendáis cómo me sentí.</p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh3.ggpht.com/koki142/R_4SiaebGHI/AAAAAAAAIH8/8A7b4-J3Z14/DSC_0021.JPG?imgmax=576"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://lh3.ggpht.com/koki142/R_4SiaebGHI/AAAAAAAAIH8/8A7b4-J3Z14/DSC_0021.JPG?imgmax=576" alt="" border="0" /></a><br />Hace un año volvía de dar una vuelta por ahí cuando de repente me encontré todo el percal. Fue inesperado e impresionante, algo muy bonito que me hizo hasta emocionarme cuando los ancianitos bailaban con cara de pura felicidad.</p>
+<p>Esta vez ya sabía lo que iba a venir, así que el factor sorpresa fue sustituido por un sentimiento de orgullo. Hace un año que paso por esta calle al menos dos veces al día, que compro en el mismo supermercado, que veo a la misma gente paseando los mismos perros. Durante estos trece meses he visto como tiraban una casa y construían tres en el mismo sitio, he visto a los cerezos en flor, después con hojas, luego pelados y ahora otra vez con flores.</p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.ggpht.com/koki142/R_4Sf6ebGFI/AAAAAAAAIHs/adFlxMCdVhw/DSC_0018.JPG?imgmax=576"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://lh5.ggpht.com/koki142/R_4Sf6ebGFI/AAAAAAAAIHs/adFlxMCdVhw/DSC_0018.JPG?imgmax=576" alt="" border="0" /></a><br />Aunque totalmente provisional, este es mi barrio y ahora conozco todos sus rincones y a la mayoría de sus gentes.</p>
+<p>Este año no era sólo un matsuri, sino que era el <span style="font-weight: bold;">matsuri de mi barrio</span>. Eso se vive de forma especial, ¿verdad?. No hay como las fiestas del pueblo de uno, por pequeñas que sean.</p>
+<p>Así que volví de Honmonji, pasé por casa para cambiar de cámara de fotos, y salí a ver a <span style="font-weight: bold;">mis </span>vecinos.</p>
+<p>Y fue aún más precioso que el año pasado.</p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.ggpht.com/koki142/R_4Se6ebGEI/AAAAAAAAIHk/QQvH1X13r4g/DSC_0007.JPG?imgmax=576"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://lh5.ggpht.com/koki142/R_4Se6ebGEI/AAAAAAAAIHk/QQvH1X13r4g/DSC_0007.JPG?imgmax=576" alt="" border="0" /></a><span style="color: rgb(153, 255, 255);font-size:78%;" ><span style="font-style: italic;">No se sus nombres, pero conozco a muchos de vista</p>
+<p></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.ggpht.com/koki142/R_4SdqebGDI/AAAAAAAAIHc/PC-yYYQWleE/DSC_0004.JPG?imgmax=576"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://lh4.ggpht.com/koki142/R_4SdqebGDI/AAAAAAAAIHc/PC-yYYQWleE/DSC_0004.JPG?imgmax=576" alt="" border="0" /></a><span style="color: rgb(153, 255, 255);font-size:78%;" ><span style="font-style: italic;">Estos escenificaban algo parecido a un duelo contra las chicas. Es todo muy alegre, muy salao</p>
+<p></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh6.ggpht.com/koki142/R_4ShKebGGI/AAAAAAAAIH0/gspeZl0x7O8/DSC_0019.JPG?imgmax=576"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://lh6.ggpht.com/koki142/R_4ShKebGGI/AAAAAAAAIH0/gspeZl0x7O8/DSC_0019.JPG?imgmax=576" alt="" border="0" /></a><span style="color: rgb(153, 255, 255);font-size:78%;" ><span style="font-style: italic;">El de la derecha no metió la lengua pa dentro en todo el baile!</p>
+<p></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.ggpht.com/koki142/R_4SkqebGJI/AAAAAAAAIIM/xDs3dNhRaTM/DSC_0032.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://lh4.ggpht.com/koki142/R_4SkqebGJI/AAAAAAAAIIM/xDs3dNhRaTM/DSC_0032.JPG?imgmax=512" alt="" border="0" /></a><span style="color: rgb(153, 255, 255);font-size:78%;" ><span style="font-style: italic;">Y al final invitaban a la gente a bailar con ellos. Yo porque bailo como un click de famobil, que si no&#8230;</p>
+<p></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh3.ggpht.com/koki142/R_4SnaebGLI/AAAAAAAAIIc/EXJyUGcoGGk/DSC_0040.JPG?imgmax=576"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://lh3.ggpht.com/koki142/R_4SnaebGLI/AAAAAAAAIIc/EXJyUGcoGGk/DSC_0040.JPG?imgmax=576" alt="" border="0" /></a><span style="color: rgb(153, 255, 255);font-size:78%;" ><span style="font-style: italic;">Y entonces las señoras, vestidas con sus mejores kimonos, bailaban en el otro lado.</p>
+<p></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh6.ggpht.com/koki142/R_4SmKebGKI/AAAAAAAAIIU/Mh8fPz5c0TQ/DSC_0034.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://lh6.ggpht.com/koki142/R_4SmKebGKI/AAAAAAAAIIU/Mh8fPz5c0TQ/DSC_0034.JPG?imgmax=512" alt="" border="0" /></a><span style="color: rgb(153, 255, 255);font-size:78%;" ><span style="font-style: italic;">Se pondrán este kimono una o dos veces al año&#8230; estaban de guapas!!!</p>
+<p></span></span><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh6.ggpht.com/koki142/R_4SpKebGMI/AAAAAAAAIIk/QQf58gPxoSA/DSC_0054.JPG?imgmax=576"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://lh6.ggpht.com/koki142/R_4SpKebGMI/AAAAAAAAIIk/QQf58gPxoSA/DSC_0054.JPG?imgmax=576" alt="" border="0" /></a><span style="color: rgb(153, 255, 255);font-size:78%;" ><span style="font-style: italic;">Ya véis cómo se las gastan las señoras de mi barrio!!! Igual luego son unas cotillas como todas, vete a saber!!</span></span></p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../el-biplan-biplanitico-del-otro-lao/feed/index.html</wfw:commentRss>
+			<slash:comments>13</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">388</post-id>	</item>
+		<item>
+		<title>Un piso de Tokyo</title>
+		<link>./../../../../un-piso-de-tokyo/index.html</link>
+					<comments>./../../../../un-piso-de-tokyo/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Fri, 22 Jun 2007 13:25:00 +0000</pubDate>
+				<category><![CDATA[Nishi Magome]]></category>
+		<category><![CDATA[Vete a saber]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=139</guid>
+
+					<description><![CDATA[Aquí mi casa de noche&#8230; Aquí mi casa de día&#8230;]]></description>
+										<content:encoded><![CDATA[<p>Aquí mi casa de noche&#8230;</p>
+<div style="text-align: center;"></div>
+<p>Aquí mi casa de día&#8230;</p>
+<div style="text-align: center;"></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../un-piso-de-tokyo/feed/index.html</wfw:commentRss>
+			<slash:comments>14</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">139</post-id>	</item>
+		<item>
+		<title>No, si algo se cocía&#8230;</title>
+		<link>./../../../../no-si-algo-se-cocia/index.html</link>
+					<comments>./../../../../no-si-algo-se-cocia/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Mon, 02 Apr 2007 10:50:00 +0000</pubDate>
+				<category><![CDATA[Hanami]]></category>
+		<category><![CDATA[Nishi Magome]]></category>
+		<category><![CDATA[Tokyo]]></category>
+		<category><![CDATA[Vete a saber]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=82</guid>
+
+					<description><![CDATA[Una de las primeras cosas que me dijeron cuando alquilé el piso, fue que había una calle famosa llena de cerezos. La verdad es que me pilla a medio minuto de casa, y tiene un montón de árboles de lado a lado. Tanto el dueño de la casa como Michiko le daban mucha importancia al &#8230; <a href="./../../../../no-si-algo-se-cocia/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">No, si algo se cocía&#8230;</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Una de las primeras cosas que me dijeron cuando alquilé el piso, fue que había una calle famosa llena de cerezos. La verdad es que me pilla a medio minuto de casa, y tiene un montón de árboles de lado a lado.</p>
+<p>Tanto el dueño de la casa como Michiko le daban mucha importancia al hecho de que estuviese tan cerca, y yo que lo que tenía era muuuucho frío, me dedicaba a pasar a toda leche por ahí para intentar llegar al tren que tiene calefa y se está calentito.</p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh6.google.com/image/koki142/RhDu19P-fPI/AAAAAAAABcM/o3dR2WI42t8/DSC00923.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh6.google.com/image/koki142/RhDu19P-fPI/AAAAAAAABcM/o3dR2WI42t8/DSC00923.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="font-style: italic;"><span style="color: rgb(153, 255, 255);">La calle pelada.</p>
+<p></span></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.google.com/image/koki142/RhDu3tP-fQI/AAAAAAAABcU/r0DE7dciZ5o/DSC00924.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh5.google.com/image/koki142/RhDu3tP-fQI/AAAAAAAABcU/r0DE7dciZ5o/DSC00924.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="font-style: italic;"><span style="color: rgb(153, 255, 255);">Bicis y más bicis en cualquier esquina</span></span></span></div>
+<p>Y de repente, empezaron a colgar farolillos. Ahí ya empecé a sospechar, seguro que esta gente tienen alguna preparada, que ahí donde los ves como que sólo trabajan y andan rápido, fijo que preparan alguna&#8230;</p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.google.com/image/koki142/RhDu4tP-fRI/AAAAAAAABcc/M5GR3qBLUZ4/DSC00963.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh5.google.com/image/koki142/RhDu4tP-fRI/AAAAAAAABcc/M5GR3qBLUZ4/DSC00963.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Farolillos o «chochin». Si si, reiros, que no me lo invento.</p>
+<p></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.google.com/image/koki142/RhDu5tP-fSI/AAAAAAAABck/pIbUnVgylp4/DSC00964.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh5.google.com/image/koki142/RhDu5tP-fSI/AAAAAAAABck/pIbUnVgylp4/DSC00964.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Aqui podría poner mil y un chistes sobre el nombre. Pero me limitaré a poner «un farolillo visto de cerca»</span></span></div>
+<p>Entonces fue cuando empezaron a aparecer flores. Una aquí&#8230; dos allí&#8230;. y yo ya me empecé a dar medio cuenta de la que se iba a liar allí. Si a todos los árboles que hay en esta calle les da por florecer a la vez, esto puede parecer un anuncio de Mimosín con farolillos.</p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.google.com/image/koki142/RhDu7dP-fTI/AAAAAAAABcs/Ui-SA1-R_E4/DSC01164.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh4.google.com/image/koki142/RhDu7dP-fTI/AAAAAAAABcs/Ui-SA1-R_E4/DSC01164.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Tímidas, como temiendo molestar, las flores se asoman. (Toscano, 2007)</p>
+<p></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.google.com/image/koki142/RhDvLdP-fdI/AAAAAAAABd8/DOUgTqBm0BE/DSC01602.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh4.google.com/image/koki142/RhDvLdP-fdI/AAAAAAAABd8/DOUgTqBm0BE/DSC01602.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Ale, a motrollón!!!</p>
+<p></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.google.com/image/koki142/RhDvEtP-fZI/AAAAAAAABdc/4QdrGSVPg1Q/DSC01438.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh5.google.com/image/koki142/RhDvEtP-fZI/AAAAAAAABdc/4QdrGSVPg1Q/DSC01438.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Alaaaaa, todas a la vez!!!!</p>
+<p></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh6.google.com/image/koki142/RhDvJ9P-fcI/AAAAAAAABd0/EABf0uqFx1A/DSC01445.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh6.google.com/image/koki142/RhDvJ9P-fcI/AAAAAAAABd0/EABf0uqFx1A/DSC01445.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Sakuranamiki dori. Sakura es «Cerezo» en japonés, y además un nombre de mujer. Namiki no tengo ni idea, google os dice si eso. Y Dori es calle.</span></span><br /><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;"></span></span></div>
+<p><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;"><br /></span></span>Y después de los farolillos, empezaron a instalar casetillas estilo a las del tiro que ponen en las verbenillas, pero de comida. Y efectivamente&#8230; Yo nunca he estado en el valle del Jerte, y seguro que allí hay más cerezos que aquí, pero os juro que es precioso pasar por aquí dos veces todos los días. Y la segunda vez que paso, que es a las tardes cuando vuelvo a casa, de repente me encuentro con gente ahí sentada debajo de los árboles pimplando y comiendo!</p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.google.com/image/koki142/RhDvCdP-fXI/AAAAAAAABdM/Po3ojSBKBtA/DSC01436.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh4.google.com/image/koki142/RhDvCdP-fXI/AAAAAAAABdM/Po3ojSBKBtA/DSC01436.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Reservan el sitio con esterillas de esas.</span></span></div>
+<p></p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh3.google.com/image/koki142/RhDvDNP-fYI/AAAAAAAABdU/z9mByck0ChI/DSC01437.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh3.google.com/image/koki142/RhDvDNP-fYI/AAAAAAAABdU/z9mByck0ChI/DSC01437.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Es muy habitual ir con la gente de la empresa. Además el novato es al que mandan a coger sitio, Que perros!!</span></span></div>
+<p></p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh3.google.com/image/koki142/RhDw-NP-fhI/AAAAAAAABec/pM6Jje5kI9Y/DSC01663.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh3.google.com/image/koki142/RhDw-NP-fhI/AAAAAAAABec/pM6Jje5kI9Y/DSC01663.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Pero mira que soy un artista, eh? esta foto no la saca ni el national geographic ni akilino juntos.</span></span></p>
+</div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.google.com/image/koki142/RhDu9tP-fVI/AAAAAAAABc8/ZW6YVKwLupk/DSC01169.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh5.google.com/image/koki142/RhDu9tP-fVI/AAAAAAAABc8/ZW6YVKwLupk/DSC01169.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Gente pimplando. Yo no se si mirarán mucho a los cerezos&#8230;</p>
+<p></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.google.com/image/koki142/RhDxgdP-ftI/AAAAAAAABf8/19uIMwLzQCQ/DSC01657.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh4.google.com/image/koki142/RhDxgdP-ftI/AAAAAAAABf8/19uIMwLzQCQ/DSC01657.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">¿Os podéis imaginar el ambientillo?<br /></span></span></div>
+<p></p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.google.com/image/koki142/RhDu8tP-fUI/AAAAAAAABc0/hH0oP2UUR5Y/DSC01167.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh5.google.com/image/koki142/RhDu8tP-fUI/AAAAAAAABc0/hH0oP2UUR5Y/DSC01167.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Una ocasión especial para pimplarse. Como Santo Tomás, donde nadie se acuerda del santo.</p>
+<p></span></span></div>
+<p>Como os contaba ayer, el domingo por la mañana me fui <a href="http://ikusuki.blogspot.com/2007/04/harajuku.html">a Harajuku a ver a los figuras de Tokyo</a>. Y la verdad es que estaba ya bastante cansado de tanto andar, así que decidí volver a casa pronto para dedicarme al noble arte de la siesta. Y me bajé del tren, y sin darme cuenta, pasé a formar parte de una procesión de gente que se dirigía a mi casa. «Ya la he liao, tanto poner Fito a tope por las tardes&#8230; me van a linchar» pensaba yo. Pero no!, iban todos a la calle de la que os estoy hablando. Resulta que la habían cortado, y tenían montada allí una verbena del copón!!!!</p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh3.google.com/image/koki142/RhDyHNP-f9I/AAAAAAAABh8/huGxoqAHOt8/DSC01775.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh3.google.com/image/koki142/RhDyHNP-f9I/AAAAAAAABh8/huGxoqAHOt8/DSC01775.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Japón en estado puro. Fijaos en el suelo, lleno ya de pétalos.</p>
+<p></span></span><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.google.com/image/koki142/RhDxxdP-f0I/AAAAAAAABg0/J8GjJkyHSxM/DSC01773.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh4.google.com/image/koki142/RhDxxdP-f0I/AAAAAAAABg0/J8GjJkyHSxM/DSC01773.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Con cada corriente de aire, una lluvia de pétalos cae. </span></span><br /><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;"><br /></span></span></p>
+<div style="text-align: left;">El caso es que se oía como una tamborrada, y para allá que me fui. De nuevo siguiendo el criterio de mis entendederas, os paso a contar lo que vi. Se dividen como en peñas, en komparsas, cada una de las cuales va con su kimono y su cuadrilla de tambores. Por turnos, iban saliendo en grupos a una plaza que había allí al lado y bailaban. En cada cuadrilla hay gente de todas las edades, desde señoras que parecían tener setecientos veintitres años, hasta niños pequeños, y eso es lo bonito, ver bailar lo mismo a gente tan distinta:</div>
+<p><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;"><br /></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.google.com/image/koki142/RhDx7dP-f4I/AAAAAAAABhU/HPVIYOWCvTk/DSC01788.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh4.google.com/image/koki142/RhDx7dP-f4I/AAAAAAAABhU/HPVIYOWCvTk/DSC01788.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Madre e hija. Van o no van guapos!?!?!?</p>
+<p></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.google.com/image/koki142/RhDx_dP-f7I/AAAAAAAABhs/QEzK8UpHbmA/DSC01808.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh4.google.com/image/koki142/RhDx_dP-f7I/AAAAAAAABhs/QEzK8UpHbmA/DSC01808.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">En plena actuación. Hasta me emocioné y todo!!!</span></span><br /><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;"></span></span></div>
+<div style="text-align: center;"><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;"></span></span><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh6.google.com/image/koki142/RhDxd9P-fsI/AAAAAAAABf0/g_qX78b3F4I/DSC01656.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh6.google.com/image/koki142/RhDxd9P-fsI/AAAAAAAABf0/g_qX78b3F4I/DSC01656.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Yo ahí que si me escondo que si no para sacar la foto, y al final menuda cazada me pegaron!</p>
+<p></span></span><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;"></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh3.google.com/image/koki142/RhDx-NP-f6I/AAAAAAAABhk/W-fCmi-XkXk/DSC01792.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh3.google.com/image/koki142/RhDx-NP-f6I/AAAAAAAABhk/W-fCmi-XkXk/DSC01792.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Detalle de un kimono.</p>
+<p></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.google.com/image/koki142/RhDxztP-f1I/AAAAAAAABg8/uQCj1FlDN00/DSC01783.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh5.google.com/image/koki142/RhDxztP-f1I/AAAAAAAABg8/uQCj1FlDN00/DSC01783.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Para comérselas!!!!</p>
+<p></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.google.com/image/koki142/RhDx2tP-f2I/AAAAAAAABhE/wzjuu5VobBg/DSC01784.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh5.google.com/image/koki142/RhDx2tP-f2I/AAAAAAAABhE/wzjuu5VobBg/DSC01784.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Una de las komparsas. De verdad que fue chulo chulo.</span></span></div>
+<p>De nuevo, por inesperado, fue más emocionante y precioso si cabe. Además va a durar poco, y quizás por eso se aprovecha tanto el momento. Se calcula que en dos semanas no quedará ninguna flor&#8230;.</p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh6.google.com/image/koki142/RhDxA9P-fiI/AAAAAAAABek/188v3LgerEA/DSC01664.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh6.google.com/image/koki142/RhDxA9P-fiI/AAAAAAAABek/188v3LgerEA/DSC01664.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Y es algo que se ve todos los días&#8230; triste, pero no se puede hacer nada. <a href="http://shoganai.org/">Shoganai</a>, ne?</span></span></div>
+<p></p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh6.google.com/image/koki142/RhDxP9P-fnI/AAAAAAAABfM/p2bpVvKv9zk/DSC01670.JPG?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; " src="http://lh6.google.com/image/koki142/RhDxP9P-fnI/AAAAAAAABfM/p2bpVvKv9zk/DSC01670.JPG?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">En mi memoria, cuando pase por allí, seguireis estando!</span></span></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../no-si-algo-se-cocia/feed/index.html</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">82</post-id>	</item>
+		<item>
+		<title>Mi pisito de 25m2</title>
+		<link>./../../../../mi-pisito-de-25m2/index.html</link>
+					<comments>./../../../../mi-pisito-de-25m2/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Thu, 08 Mar 2007 11:42:00 +0000</pubDate>
+				<category><![CDATA[Nishi Magome]]></category>
+		<category><![CDATA[Vete a saber]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=66</guid>
+
+					<description><![CDATA[Uyuyuyuyuuyyyyyy que de cosas os estoy contandoooo!!!Íbamos por Akihabara y mi flamante nuevo ordenador en perfecto japonés. Por cierto que sepáis que he podido meterle cosas en cristiano y funciona igual, la siguiente es intentar instalarle un windows Vista en castellano.Vale, yo y mi ordenador en la Weekly Mansion. El domingo quedé con un amigo &#8230; <a href="./../../../../mi-pisito-de-25m2/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Mi pisito de 25m2</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Uyuyuyuyuuyyyyyy que de cosas os estoy contandoooo!!!<br />Íbamos por Akihabara y mi flamante nuevo ordenador en perfecto japonés. Por cierto que sepáis que he podido meterle cosas en cristiano y funciona igual, la siguiente es intentar instalarle un windows Vista en castellano.<br />Vale, yo y mi ordenador en la Weekly Mansion. El domingo quedé con un amigo que es el que más tiene que ver con que yo esté aquí haciendo mis trapis, brindamos con una botella de champán el principio del proyecto, y hablamos un poco de todo. Va a estar programado en Java y lo mejor es que me han dejado total libertad para hacerlo como yo crea, así que me va a valer para aprender un huevo.</p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.google.com/image/koki142/ReeEeVNAqSI/AAAAAAAAAWg/YP3KEjz36gs/DSC00538.JPG"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://lh5.google.com/image/koki142/ReeEeVNAqSI/AAAAAAAAAWg/YP3KEjz36gs/DSC00538.JPG" alt="" border="0" /></a><span style="font-size:78%;"><span style="font-style: italic; color: rgb(153, 255, 255);">Una tienduqui de plantas de al lado de la ofi. Bonito nombre, si señor</p>
+<p></span></span></div>
+<p>Venga venga, que me enrollo y luego me llamáis frikiplanet. El caso es que el martes me vine a vivir al piso por fin, menudo rollo era tener toda la ropa en las maletas, ya tenía ganas de sacar todo, aunque sea para ponerlo en el suelo como está ahora, jeje. La cosa del piso funciona así: se alquila a través de una agencia, y sólo al final de todo es cuando ves al dueño. Todo el papeleo se hace con la agencia, el piso lo ves con ellos, y si estás interesado, entonces el dueño tiene que darte el visto bueno. En mi caso, al ser extranjerillo y tener los ojos como dos soles, los de mi ofi tenían sus reservas de que me lo fuesen a dar así sin más. Peeero resultó que el matrimonio que lo alquila tiene dos hijos, uno en la India y el otro en Boston, así que dicen que entienden mi situación y que me van a ayudar todo lo posible. Genial!! Yo le hice cuatro reverencias, y dije cuatro tonterías en japonés para caer majete y finalmente aquí estoy.</p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.google.com/image/koki142/RellvNdbQrI/AAAAAAAAAdE/JEWFbRke0qc/DSC00604.JPG"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://lh5.google.com/image/koki142/RellvNdbQrI/AAAAAAAAAdE/JEWFbRke0qc/DSC00604.JPG" alt="" border="0" /></a><span style="font-size:78%;"><span style="font-style: italic; color: rgb(153, 255, 255);">Lata de café de una máquina expendendora. ¡¡Sale caliente!!, menudo invento (unas 130 pelas)</span></span></div>
+<p>A la hora de pagar, la cosa se pone graciosa. Todo se basa en la mensualidad, que en mi caso son unas 75.000 pts (por 25 metros cuadrados, y aun así es grande para una sola persona). Pues basándonos en eso, el primer pago se desglosa en:</p>
+<ul>
+<li>Key Money: dos mensualidades. Este concepto es muy gracioso, básicamente se basa en que le pagas ese dinero al dueño por dejarte estar en su casa. No se devuelve y no cuenta como mes. Aquí le llaman «Thank you money». En fin.</li>
+<li>Fianza: suelen ser un par de mensualidades, aunque lo cuadran con el Key Money y al final pagas tres en total. Este dinero en teoría te lo devuelven si no has preparado ninguna en el piso.</li>
+<li>Agencia: te clavan el equivalente a un mes por los servicios prestados. La verdad es que en mi caso se desvivieron por nosotros, nos llevaban en coche a ver los pisos, y me dieron un regalo de bienvenida.</li>
+<li>Por supuesto, el primer mes que cuenta como mensualidad normal.</li>
+</ul>
+<p>Estamos hablando de 6 mensualidades de golpe y solo cuentan como un mes de renta&#8230; ¡vaya sistema más cachondo que tienen montado!. En mi caso el dueño «sólo» me cobró un mes de Key Money y la agencia medio mes, así que echad cuentas: 1 Key Money + 2 de Fianza + 1/2 Agencia + Marzo&#8230;</p>
+<p>Ahí van unas fotos del piso:</p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.google.com/image/koki142/Re17cEPjkII/AAAAAAAAAuE/nIu7s4dq7R4/DSC00730.jpg"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://lh5.google.com/image/koki142/Re17cEPjkII/AAAAAAAAAuE/nIu7s4dq7R4/DSC00730.jpg" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">You Heights&#8230; ¿tu altura? vete tu a saber</p>
+<p></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.google.com/image/koki142/Re17bEPjkHI/AAAAAAAAAt8/R9TupWeWUvc/DSC00729.jpg"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://lh5.google.com/image/koki142/Re17bEPjkHI/AAAAAAAAAt8/R9TupWeWUvc/DSC00729.jpg" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Nada más subir las escaleras, de frente. Pero tengo parking de bici si quiero, eh??</p>
+<p></span></span><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh6.google.com/image/koki142/Re17YUPjkFI/AAAAAAAAAts/Q5ewADsjhSQ/DSC00727.jpg"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://lh6.google.com/image/koki142/Re17YUPjkFI/AAAAAAAAAts/Q5ewADsjhSQ/DSC00727.jpg" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Ahí pone Osukaru, me di cuenta al día siguiente que lo habían colocao. Que chulooo</span></span><br /><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;"><br /></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.google.com/image/koki142/Re16u0PjjqI/AAAAAAAAAqU/HYOCkETwLRU/DSC00700.jpg"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://lh4.google.com/image/koki142/Re16u0PjjqI/AAAAAAAAAqU/HYOCkETwLRU/DSC00700.jpg" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">La entrada con su sitio para dejar los zapatos. A la izquierda, un huequillo para una lavadora</span></span><br /><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;"></span></span></div>
+<p><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;"><br /></span></span></p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh3.google.com/image/koki142/Re16ykPjjsI/AAAAAAAAAqk/PeNlSkgRIs4/DSC00702.jpg?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://lh3.google.com/image/koki142/Re16ykPjjsI/AAAAAAAAAqk/PeNlSkgRIs4/DSC00702.jpg?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Cocina y baño, estilo japonés, chiquitito chiquitito, como yo.</span></span><br /><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;"></span></span></div>
+<p><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;"><br /></span></span></p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh3.google.com/image/koki142/Re16xkPjjrI/AAAAAAAAAqc/6EW7vt-ADHk/DSC00701.jpg?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://lh3.google.com/image/koki142/Re16xkPjjrI/AAAAAAAAAqc/6EW7vt-ADHk/DSC00701.jpg?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Aquí el asunto va a gas, cómodo y fácil.</p>
+<p></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh3.google.com/image/koki142/Re169kPjj1I/AAAAAAAAArs/MQSEMM18BKU/DSC00711.jpg?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://lh3.google.com/image/koki142/Re169kPjj1I/AAAAAAAAArs/MQSEMM18BKU/DSC00711.jpg?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Un aire acondicionado/calefacción. Aún así, estoy pasando un frío del copón, a ver si me agencio una estufa o algo.</p>
+<p></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.google.com/image/koki142/Re17LEPjj9I/AAAAAAAAAwg/lJn2EsdKqEI/DSC00719.jpg?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://lh5.google.com/image/koki142/Re17LEPjj9I/AAAAAAAAAwg/lJn2EsdKqEI/DSC00719.jpg?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Foto de los compis del curro de Zamudio. El patio que se ve es el del dueño de la casa.</p>
+<p></span></span></div>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.google.com/image/koki142/Re1630PjjxI/AAAAAAAAArM/k8BQqA1lFFg/DSC00707.jpg?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://lh4.google.com/image/koki142/Re1630PjjxI/AAAAAAAAArM/k8BQqA1lFFg/DSC00707.jpg?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Michiko, la pinche japomexicana buscando palabras en mi diccionario japonés-español. Estábamos esperando al señor que iba a enchufarnos el gas.</span></span><br /><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;"></span></span></div>
+<p><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;"><br /></span></span></p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh4.google.com/image/koki142/Re17N0Pjj_I/AAAAAAAAAs8/ijhufliBv5E/DSC00721.jpg?imgmax=512"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://lh4.google.com/image/koki142/Re17N0Pjj_I/AAAAAAAAAs8/ijhufliBv5E/DSC00721.jpg?imgmax=512" alt="" border="0" /></a><span style="font-size:78%;"><span style="color: rgb(153, 255, 255); font-style: italic;">Como dice Medina, duermo como los mendigos!!!</p>
+<p></span></span></div>
+<p>Lo bueno del piso es que el precio está muy ajustado, que me pilla a sólo cuatro estaciones de la ofi, con lo que de puerta a puerta tardo una media hora, y que tengo cerquita un seven eleven (tiendilla que abre las 24h y que tienen de todo), y un supermercado.<br />Cuando volvíamos a la oficina, Michiko me dijo que era «costumbre bien linda japonesa hacer un regalo al dueño de unos 1000 yenes más o menos». Y aunque el tema del key money me parece tener una jeta increible, tampoco quiero ser un desaborío, ya sabéis: donde fueres haz lo que vieres. Así que me estiré y me casqué una tortilla de patatas que le llevé ayer por la noche. Eh! este testimonio está documentado:</p>
+<div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.google.com/image/koki142/RfAPq48BGLI/AAAAAAAAAwk/SO2g0V_xLDA/DSC00747.JPG"><img decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://lh5.google.com/image/koki142/RfAPq48BGLI/AAAAAAAAAwk/SO2g0V_xLDA/DSC00747.JPG" alt="" border="0" /></a><span style="color: rgb(153, 255, 255);font-size:78%;" ><span style="font-style: italic;">Por cierto, que era el único plato que tenía y se lo ha quedado el dueño!!!!</span></span></div>
+<p>Ale, hasta la siguiente!!!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../mi-pisito-de-25m2/feed/index.html</wfw:commentRss>
+			<slash:comments>12</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">66</post-id>	</item>
+	</channel>
+</rss>

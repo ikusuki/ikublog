@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Película &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Sun, 15 Feb 2009 01:45:00 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>¿Ande anda Toscano?</title>
+		<link>./../../../%c2%bfande-anda-toscano-4/index.html</link>
+					<comments>./../../../%c2%bfande-anda-toscano-4/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Sun, 15 Feb 2009 01:45:00 +0000</pubDate>
+				<category><![CDATA[Tokyo]]></category>
+		<category><![CDATA[Película]]></category>
+		<category><![CDATA[Shibuya]]></category>
+		<category><![CDATA[Video]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=680</guid>
+
+					<description><![CDATA[Ande anda Toscano por ikusuki en Pigmeo. Mejor verlo en la página de Vimeo directamente porque está en HD, aquí la calidad no es muy allá. ¿Y antes de esto?¿Y antes?¿Y más antes?¿Para ver el resto de vídeos, por dónde, si me hace el favor?]]></description>
+										<content:encoded><![CDATA[<div style="text-align: center;"><object width="500" height="281"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=3218666&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1"></object><br /><a href="http://vimeo.com/3218666">Ande anda Toscano</a> por <a href="http://vimeo.com/user443418">ikusuki</a> en <a href="http://vimeo.com/"> Pigmeo</a>.</div>
+<p>Mejor verlo en <a href="http://vimeo.com/3218666?pg=embed&#038;sec=3218666">la página de Vimeo directamente</a> porque está en HD, aquí la calidad no es muy allá.</p>
+<p></p>
+<hr />
+<p></p>
+<div style="border: 2px solid white; text-align: center; font-weight: bold; background-color: rgb(0, 162, 255); color: white; font-size: 120%;">
+<div style="text-align: center;"><a href="http://ikusuki.blogspot.com/2008/10/ande-anda-toscano.html">¿Y antes de esto?</a><br /><a href="http://ikusuki.blogspot.com/2008/09/ande-andar-toscano.html" style="color: white;">¿Y antes?</a><br /><a href="http://ikusuki.blogspot.com/2008/09/ande-anda-toscano.html">¿Y más antes?</a><br /><a href="http://ikusuki.blogspot.com/2008/03/ikusuki-tv.html" style="color: white;">¿Para ver el resto de vídeos, por dónde, si me hace el favor?</a></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../%c2%bfande-anda-toscano-4/feed/index.html</wfw:commentRss>
+			<slash:comments>14</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">680</post-id>	</item>
+	</channel>
+</rss>

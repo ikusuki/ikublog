@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Ikusuki en la capital del mundo	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 22 May 2007 06:51:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Winnie (no sin mi caracol)		</title>
+		<link>./../index.html#comment-299</link>
+
+		<dc:creator><![CDATA[Winnie (no sin mi caracol)]]></dc:creator>
+		<pubDate>Tue, 22 May 2007 06:51:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=104#comment-299</guid>
+
+					<description><![CDATA[&lt;b&gt;QUE CHICOS MAS GUAPOS HAY POR BILBAOOOO!!!!&lt;/b&gt; Tendre que empezar a salir por el casco viejo, a ver si me los encuentro, jejejeje ;-)&lt;br/&gt;&lt;br/&gt;Que nos lo pasamos muy bien ese dia, si, si.... y nos reimos un montón con la coincidencia de la camiseta... ni que se hubiesen llamado para quedar!!!&lt;br/&gt;&lt;br/&gt;Desde aqui, &lt;b&gt;ARANTZA Y ASIER&lt;/b&gt; os deseo muuuuuuuuucha suerte y que seais muuuuuuuuuuy felices.&lt;br/&gt;&lt;br/&gt;Lo mismo para ti TOSCANO, para que no te pongas celoson, jejeje.&lt;br/&gt;&lt;br/&gt;FIRMADO: &lt;b&gt;NO SIN MI CARACOL&lt;/b&gt;!!!&lt;br/&gt;&lt;br/&gt;PD: Besazos para mi niño, qe le queda de bien esa camiseta azulita...ainssss!!!]]></description>
+			<content:encoded><![CDATA[<p><b>QUE CHICOS MAS GUAPOS HAY POR BILBAOOOO!!!!</b> Tendre que empezar a salir por el casco viejo, a ver si me los encuentro, jejejeje ;-)</p>
+<p>Que nos lo pasamos muy bien ese dia, si, si&#8230;. y nos reimos un montón con la coincidencia de la camiseta&#8230; ni que se hubiesen llamado para quedar!!!</p>
+<p>Desde aqui, <b>ARANTZA Y ASIER</b> os deseo muuuuuuuuucha suerte y que seais muuuuuuuuuuy felices.</p>
+<p>Lo mismo para ti TOSCANO, para que no te pongas celoson, jejeje.</p>
+<p>FIRMADO: <b>NO SIN MI CARACOL</b>!!!</p>
+<p>PD: Besazos para mi niño, qe le queda de bien esa camiseta azulita&#8230;ainssss!!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

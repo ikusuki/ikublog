@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Ikusuki va a Yokohama	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Wed, 28 Sep 2011 01:43:32 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-907</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Sat, 13 Oct 2007 12:35:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=224#comment-907</guid>
+
+					<description><![CDATA[Inusha, ¿por qué no puedes ver las fotos? ¿estás censurada o algo?]]></description>
+			<content:encoded><![CDATA[<p>Inusha, ¿por qué no puedes ver las fotos? ¿estás censurada o algo?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-894</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Tue, 09 Oct 2007 22:10:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=224#comment-894</guid>
+
+					<description><![CDATA[Mola el reportaje...&lt;br/&gt;&lt;br/&gt;Y esa Franziskaner... menuda envidia... a ver si cojo alguna reservita, que ya hace tiempo que no la saboreo...&lt;br/&gt;hhhmmmmm que rica....]]></description>
+			<content:encoded><![CDATA[<p>Mola el reportaje&#8230;</p>
+<p>Y esa Franziskaner&#8230; menuda envidia&#8230; a ver si cojo alguna reservita, que ya hace tiempo que no la saboreo&#8230;<br />hhhmmmmm que rica&#8230;.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Bea		</title>
+		<link>./../index.html#comment-888</link>
+
+		<dc:creator><![CDATA[Bea]]></dc:creator>
+		<pubDate>Mon, 08 Oct 2007 20:29:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=224#comment-888</guid>
+
+					<description><![CDATA[Menudo día te hizo, y menudo recorrido, las fotos como siempre muy chulas. Ya veo que no te pierdes ni un sarao!]]></description>
+			<content:encoded><![CDATA[<p>Menudo día te hizo, y menudo recorrido, las fotos como siempre muy chulas. Ya veo que no te pierdes ni un sarao!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: inusha-chan		</title>
+		<link>./../index.html#comment-884</link>
+
+		<dc:creator><![CDATA[inusha-chan]]></dc:creator>
+		<pubDate>Mon, 08 Oct 2007 07:25:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=224#comment-884</guid>
+
+					<description><![CDATA[parece que te lo has pasado bien, me alegro^^&lt;br/&gt;lastima k no pueda ver las fotos, cachis!]]></description>
+			<content:encoded><![CDATA[<p>parece que te lo has pasado bien, me alegro^^<br />lastima k no pueda ver las fotos, cachis!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

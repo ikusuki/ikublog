@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Marketing Ikusuki style	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 26 Dec 2006 14:20:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: betitxe@gmail.com		</title>
+		<link>./../index.html#comment-86</link>
+
+		<dc:creator><![CDATA[betitxe@gmail.com]]></dc:creator>
+		<pubDate>Tue, 26 Dec 2006 14:20:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=51#comment-86</guid>
+
+					<description><![CDATA[A ver cuando os pasais por otras ciudades que no sea vuestro Bilbao del alma, eh!!! ;)]]></description>
+			<content:encoded><![CDATA[<p>A ver cuando os pasais por otras ciudades que no sea vuestro Bilbao del alma, eh!!! <img src="./../../wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Txipi		</title>
+		<link>./../index.html#comment-82</link>
+
+		<dc:creator><![CDATA[Txipi]]></dc:creator>
+		<pubDate>Tue, 26 Dec 2006 13:33:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=51#comment-82</guid>
+
+					<description><![CDATA[Nunca dejareis de sorprenderme... ¿qué va a ser lo siguiente? ¿salir en pelotas de cintura para abajo en el intermedio de San Mamés con la camiseta?]]></description>
+			<content:encoded><![CDATA[<p>Nunca dejareis de sorprenderme&#8230; ¿qué va a ser lo siguiente? ¿salir en pelotas de cintura para abajo en el intermedio de San Mamés con la camiseta?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

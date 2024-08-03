@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Los minicoches	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:49:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Bea		</title>
+		<link>./../index.html#comment-703</link>
+
+		<dc:creator><![CDATA[Bea]]></dc:creator>
+		<pubDate>Fri, 24 Aug 2007 09:09:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=187#comment-703</guid>
+
+					<description><![CDATA[ja ja q salaus.&lt;br/&gt;Vivan las fiestas de Bilbo pasadas por H20, vivan!!!!]]></description>
+			<content:encoded><![CDATA[<p>ja ja q salaus.<br />Vivan las fiestas de Bilbo pasadas por H20, vivan!!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alvaro		</title>
+		<link>./../index.html#comment-701</link>
+
+		<dc:creator><![CDATA[Alvaro]]></dc:creator>
+		<pubDate>Thu, 23 Aug 2007 19:18:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=187#comment-701</guid>
+
+					<description><![CDATA[O_O Es para quedarse a cuadros&lt;br/&gt;&lt;br/&gt;Estos coches tan pequeños son la mar de interesantes o.o parecen scalextrix XDDDDDDDDDDD&lt;br/&gt;&lt;br/&gt;Aunque no se yo si iria igual de convencido dentro de un minicoche que dentro de un coche normal ^^ (a mi los Smart y similares me dan miedo xD, parece que si te chocas te rompes tó)]]></description>
+			<content:encoded><![CDATA[<p>O_O Es para quedarse a cuadros</p>
+<p>Estos coches tan pequeños son la mar de interesantes o.o parecen scalextrix XDDDDDDDDDDD</p>
+<p>Aunque no se yo si iria igual de convencido dentro de un minicoche que dentro de un coche normal ^^ (a mi los Smart y similares me dan miedo xD, parece que si te chocas te rompes tó)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

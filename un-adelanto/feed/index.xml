@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Un adelanto&#8230;.	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 18 Sep 2007 09:32:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: DsYk		</title>
+		<link>./../index.html#comment-794</link>
+
+		<dc:creator><![CDATA[DsYk]]></dc:creator>
+		<pubDate>Tue, 18 Sep 2007 09:32:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=208#comment-794</guid>
+
+					<description><![CDATA[te caiste de la bici ¡¡¡¡¡ a que si ??? xDD]]></description>
+			<content:encoded><![CDATA[<p>te caiste de la bici ¡¡¡¡¡ a que si ??? xDD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-793</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Tue, 18 Sep 2007 09:25:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=208#comment-793</guid>
+
+					<description><![CDATA[Pues ahora la cosa está peor!!&lt;br/&gt;&lt;br/&gt;Bueno bueno, en un rato lo cuento que ahora no puedo!!!!&lt;br/&gt;&lt;br/&gt;Aunque no se si voy a poder, que estoy muy afectao...]]></description>
+			<content:encoded><![CDATA[<p>Pues ahora la cosa está peor!!</p>
+<p>Bueno bueno, en un rato lo cuento que ahora no puedo!!!!</p>
+<p>Aunque no se si voy a poder, que estoy muy afectao&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Winnie		</title>
+		<link>./../index.html#comment-792</link>
+
+		<dc:creator><![CDATA[Winnie]]></dc:creator>
+		<pubDate>Tue, 18 Sep 2007 08:44:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=208#comment-792</guid>
+
+					<description><![CDATA[porque pone Bea que es un moraton, que sino pienso que es una picadura de alacran!!!! jajajaja&lt;br/&gt;&lt;br/&gt;Bueno, eres peor que antena3, tienes mas anuncios que la leche, quieres decir de una vez que te ha pasado???&lt;br/&gt;&lt;br/&gt;Que no puedo estar conectandome cada medio segundo a ver si lo cuentas, jolines, que estoy haciendo que trabajo, jajajaja!!!!]]></description>
+			<content:encoded><![CDATA[<p>porque pone Bea que es un moraton, que sino pienso que es una picadura de alacran!!!! jajajaja</p>
+<p>Bueno, eres peor que antena3, tienes mas anuncios que la leche, quieres decir de una vez que te ha pasado???</p>
+<p>Que no puedo estar conectandome cada medio segundo a ver si lo cuentas, jolines, que estoy haciendo que trabajo, jajajaja!!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Saruli		</title>
+		<link>./../index.html#comment-791</link>
+
+		<dc:creator><![CDATA[Saruli]]></dc:creator>
+		<pubDate>Tue, 18 Sep 2007 07:03:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=208#comment-791</guid>
+
+					<description><![CDATA[Dios!!! Se puede saber q te ha pasado???]]></description>
+			<content:encoded><![CDATA[<p>Dios!!! Se puede saber q te ha pasado???</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Bea		</title>
+		<link>./../index.html#comment-790</link>
+
+		<dc:creator><![CDATA[Bea]]></dc:creator>
+		<pubDate>Tue, 18 Sep 2007 04:37:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=208#comment-790</guid>
+
+					<description><![CDATA[Jope majo, menudo moretón.&lt;br/&gt;Por cierto... sigo sabiendo de que va la historia ....&lt;br/&gt;:P]]></description>
+			<content:encoded><![CDATA[<p>Jope majo, menudo moretón.<br />Por cierto&#8230; sigo sabiendo de que va la historia &#8230;.<br /><img src="./../../wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

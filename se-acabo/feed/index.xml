@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Se acabó!!	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Wed, 24 Oct 2007 21:41:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-953</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Wed, 24 Oct 2007 21:41:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=240#comment-953</guid>
+
+					<description><![CDATA[té, té, té, té, tééééééé!!!!!&lt;br/&gt;Que rico...!!&lt;br/&gt;&lt;br/&gt;Y pensar que antes no me parecía (y sabía) más que a un sucia agua estancada de río calentada... con ligerísimo sabor a menú de rumiantes.&lt;br/&gt;&lt;br/&gt;Como cambian las cosas...]]></description>
+			<content:encoded><![CDATA[<p>té, té, té, té, tééééééé!!!!!<br />Que rico&#8230;!!</p>
+<p>Y pensar que antes no me parecía (y sabía) más que a un sucia agua estancada de río calentada&#8230; con ligerísimo sabor a menú de rumiantes.</p>
+<p>Como cambian las cosas&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Saruli		</title>
+		<link>./../index.html#comment-952</link>
+
+		<dc:creator><![CDATA[Saruli]]></dc:creator>
+		<pubDate>Wed, 24 Oct 2007 07:24:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=240#comment-952</guid>
+
+					<description><![CDATA[pero todas esas latas son tés??? A mi como no me gustan... Pero puedes ponerte un limite o salir con el dinero justo en el bolsillo, es un método para acabar con el vicio]]></description>
+			<content:encoded><![CDATA[<p>pero todas esas latas son tés??? A mi como no me gustan&#8230; Pero puedes ponerte un limite o salir con el dinero justo en el bolsillo, es un método para acabar con el vicio</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

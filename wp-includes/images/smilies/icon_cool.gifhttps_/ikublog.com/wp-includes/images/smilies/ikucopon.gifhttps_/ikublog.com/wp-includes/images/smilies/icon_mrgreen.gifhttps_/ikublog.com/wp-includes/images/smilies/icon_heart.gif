@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirigiendo...</title>
+		<meta http-equiv="refresh" content="0;url=.//wp-includes/images/smilies/icon_cool.gifhttps:/ikublog.com/wp-includes/images/smilies/ikucopon.gifhttps:/ikublog.com/wp-includes/images/smilies/icon_mrgreen.gifhttps:/ikublog.com/wp-includes/images/smilies/icon_heart.gif">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = ".//wp-includes/images/smilies/icon_cool.gifhttps:/ikublog.com/wp-includes/images/smilies/ikucopon.gifhttps:/ikublog.com/wp-includes/images/smilies/icon_mrgreen.gifhttps:/ikublog.com/wp-includes/images/smilies/icon_heart.gif";
+		</script>
+
+		<p>Estás siendo redirigido a <a href=".//wp-includes/images/smilies/icon_cool.gifhttps:/ikublog.com/wp-includes/images/smilies/ikucopon.gifhttps:/ikublog.com/wp-includes/images/smilies/icon_mrgreen.gifhttps:/ikublog.com/wp-includes/images/smilies/icon_heart.gif">.//wp-includes/images/smilies/icon_cool.gifhttps:/ikublog.com/wp-includes/images/smilies/ikucopon.gifhttps:/ikublog.com/wp-includes/images/smilies/icon_mrgreen.gifhttps:/ikublog.com/wp-includes/images/smilies/icon_heart.gif</a></p>
+	</body>
+</html>

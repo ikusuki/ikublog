@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: El pachinkamiento	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 05 Aug 2008 15:57:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: NeGrO		</title>
+		<link>./../index.html#comment-3848</link>
+
+		<dc:creator><![CDATA[NeGrO]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2008 15:57:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=498#comment-3848</guid>
+
+					<description><![CDATA[Camarero, una de envidia por favor! &lt;br/&gt;&lt;br/&gt;xDD]]></description>
+			<content:encoded><![CDATA[<p>Camarero, una de envidia por favor! </p>
+<p>xDD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Prognatis		</title>
+		<link>./../index.html#comment-3832</link>
+
+		<dc:creator><![CDATA[Prognatis]]></dc:creator>
+		<pubDate>Mon, 04 Aug 2008 12:04:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=498#comment-3832</guid>
+
+					<description><![CDATA[Jejeje, lo luzco con mucho orgullo.&lt;br/&gt;&lt;br/&gt;Será una visita turística obligada para todos aquellos que pasen por mi casa,&lt;br/&gt;&lt;br/&gt;Un abrazo pachinkero!!!]]></description>
+			<content:encoded><![CDATA[<p>Jejeje, lo luzco con mucho orgullo.</p>
+<p>Será una visita turística obligada para todos aquellos que pasen por mi casa,</p>
+<p>Un abrazo pachinkero!!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

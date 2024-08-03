@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Vamos a ver si pasamos el trago	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Wed, 16 Jan 2008 23:14:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: triki		</title>
+		<link>./../index.html#comment-1380</link>
+
+		<dc:creator><![CDATA[triki]]></dc:creator>
+		<pubDate>Wed, 16 Jan 2008 23:14:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=314#comment-1380</guid>
+
+					<description><![CDATA[Coño!! a mi me encanbta todo lo de sabor a cereza, desde los chicles a la mermelada.&lt;br/&gt;El KIT-KAT este es un poco gay no?]]></description>
+			<content:encoded><![CDATA[<p>Coño!! a mi me encanbta todo lo de sabor a cereza, desde los chicles a la mermelada.<br />El KIT-KAT este es un poco gay no?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Lupin III		</title>
+		<link>./../index.html#comment-1379</link>
+
+		<dc:creator><![CDATA[Lupin III]]></dc:creator>
+		<pubDate>Wed, 16 Jan 2008 22:41:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=314#comment-1379</guid>
+
+					<description><![CDATA[Apunta tres para el kit-kat...&lt;br/&gt;&lt;br/&gt;Que ya estamos a19 de enero y se me está termiando la caja de bombones de nestle, la de trufas, la de chocolatinas surtidas y la bolsita de monedas de chocolate...&lt;br/&gt;&lt;br/&gt;Apunta, apunta...]]></description>
+			<content:encoded><![CDATA[<p>Apunta tres para el kit-kat&#8230;</p>
+<p>Que ya estamos a19 de enero y se me está termiando la caja de bombones de nestle, la de trufas, la de chocolatinas surtidas y la bolsita de monedas de chocolate&#8230;</p>
+<p>Apunta, apunta&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Bea		</title>
+		<link>./../index.html#comment-1375</link>
+
+		<dc:creator><![CDATA[Bea]]></dc:creator>
+		<pubDate>Wed, 16 Jan 2008 21:31:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=314#comment-1375</guid>
+
+					<description><![CDATA[Yo también me quedo con el kit-kat ese! uhmmmmmm]]></description>
+			<content:encoded><![CDATA[<p>Yo también me quedo con el kit-kat ese! uhmmmmmm</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Herzeleyd		</title>
+		<link>./../index.html#comment-1374</link>
+
+		<dc:creator><![CDATA[Herzeleyd]]></dc:creator>
+		<pubDate>Wed, 16 Jan 2008 16:38:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=314#comment-1374</guid>
+
+					<description><![CDATA[Que kit kat más curioso :)]]></description>
+			<content:encoded><![CDATA[<p>Que kit kat más curioso <img src="./../../wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

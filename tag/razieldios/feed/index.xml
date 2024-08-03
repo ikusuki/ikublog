@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>RazielDios &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Mon, 04 Dec 2006 12:40:00 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Video de Ikusuki en el Salón del Manga</title>
+		<link>./../../../video-de-ikusuki-en-el-salon-del-manga/index.html</link>
+					<comments>./../../../video-de-ikusuki-en-el-salon-del-manga/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Mon, 04 Dec 2006 12:40:00 +0000</pubDate>
+				<category><![CDATA[Kotoba]]></category>
+		<category><![CDATA[RazielDios]]></category>
+		<category><![CDATA[Salón del Manga]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=45</guid>
+
+					<description><![CDATA[Pues si, así sin quererlo, nos hemos hecho con un video donde se ven las camisetas en el stand de PortalJapón en el Salón del Manga de Barcelona. El video está hecho por RazielDios y Chaino que se fueron a Japón el año pasado y se han currado unas películas dignas de ver por cualquiera &#8230; <a href="./../../../video-de-ikusuki-en-el-salon-del-manga/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Video de Ikusuki en el Salón del Manga</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Pues si, así sin quererlo, nos hemos hecho con un video donde se ven las camisetas en el stand de <a href="http://www.portaljapon.com/">PortalJapón</a> en el Salón del Manga de Barcelona.</p>
+<div style="text-align: center;"> </div>
+<p>El video está hecho por <a href="http://www.dosfrikisenjapon.galeon.com/">RazielDios y Chaino</a> que se fueron a Japón el año pasado y se han currado unas películas dignas de ver por cualquiera que quiera saber cómo es este país en la actualidad.</p>
+<p>Nosotros nos hemos bajado sus videos y nos hemos echado unas risas viéndolos, pero no nos podíamos imaginar que iban a ir al Salón del Manga y que se iban a poner a leer una de nuestras camisetas&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../video-de-ikusuki-en-el-salon-del-manga/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">45</post-id>	</item>
+	</channel>
+</rss>

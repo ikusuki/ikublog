@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Se nos ha ido la pinza	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 16 Jan 2007 15:00:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Winnie		</title>
+		<link>./../index.html#comment-89</link>
+
+		<dc:creator><![CDATA[Winnie]]></dc:creator>
+		<pubDate>Tue, 16 Jan 2007 15:00:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=57#comment-89</guid>
+
+					<description><![CDATA[He visto los carteles finalistas de los carnavales de Bilbao y que quieres que te diga, a mi me gusta mucho mas el tuyo que los que han quedado finalistas...!!!! &lt;br /&gt;&lt;br /&gt;Hay un par que o son hijos del alcalde o no se ni como lo han podido elegir!!!! &lt;br /&gt;&lt;br /&gt;AUPA IKUSUKIIIIIIII!!!!]]></description>
+			<content:encoded><![CDATA[<p>He visto los carteles finalistas de los carnavales de Bilbao y que quieres que te diga, a mi me gusta mucho mas el tuyo que los que han quedado finalistas&#8230;!!!! </p>
+<p>Hay un par que o son hijos del alcalde o no se ni como lo han podido elegir!!!! </p>
+<p>AUPA IKUSUKIIIIIIII!!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-88</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Mon, 15 Jan 2007 07:25:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=57#comment-88</guid>
+
+					<description><![CDATA[Asustao me he quedao!!!! Barbara, lo que se dice de Burgos Burgos tu no eres, eh?]]></description>
+			<content:encoded><![CDATA[<p>Asustao me he quedao!!!! Barbara, lo que se dice de Burgos Burgos tu no eres, eh?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Barbara		</title>
+		<link>./../index.html#comment-87</link>
+
+		<dc:creator><![CDATA[Barbara]]></dc:creator>
+		<pubDate>Sun, 14 Jan 2007 21:39:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=57#comment-87</guid>
+
+					<description><![CDATA[Ovedel inti, zen um, flor ci han  yomemposse! Ketros com suando xadnew, mos nelico, esc, bev  wile. Fare uom  riccheio. Yo dico me, chermambri pareixao  homeculgai!]]></description>
+			<content:encoded><![CDATA[<p>Ovedel inti, zen um, flor ci han  yomemposse! Ketros com suando xadnew, mos nelico, esc, bev  wile. Fare uom  riccheio. Yo dico me, chermambri pareixao  homeculgai!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

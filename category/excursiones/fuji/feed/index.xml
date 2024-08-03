@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Fuji &#8211; El blog de Ikusuki</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 31 Oct 2017 21:58:51 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">63392761</site>	<item>
+		<title>Cráter del monte Fuji a vista de dron</title>
+		<link>./../../../../crater-del-monte-fuji-a-vista-de-dron/index.html</link>
+					<comments>./../../../../crater-del-monte-fuji-a-vista-de-dron/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Tío Tosca]]></dc:creator>
+		<pubDate>Fri, 13 Oct 2017 01:00:09 +0000</pubDate>
+				<category><![CDATA[Fuji]]></category>
+		<category><![CDATA[Regulero]]></category>
+		<category><![CDATA[Videos]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=10532</guid>
+
+					<description><![CDATA[Esta mañana me he acordado de mis planes para grabar la cima del Fuji con un dron y como el bicho duró veinte segundos en el aire para estamparse contra la ladera donde yacerá para siempre jamás Total, que yo quería hacer algo parecido a esto, bendito de mi (probablemente aunque hubiese conseguido volarlo sin &#8230; <a href="./../../../../crater-del-monte-fuji-a-vista-de-dron/index.html" class="more-link">Seguir leyendo <span class="screen-reader-text">Cráter del monte Fuji a vista de dron</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Esta mañana me he acordado de mis <a href="./../../../../la-segunda-subida-al-fuji/index.html">planes para grabar la cima del Fuji con un dron</a> y como el bicho duró veinte segundos en el aire para estamparse contra la ladera donde yacerá para siempre jamás <img src="./../../../../wp-includes/images/smilies/sCh_cookiemonster.gif" alt=":triki:" class="wp-smiley" style="height: 1em; max-height: 1em;" />  </p>
+<p>Total, que yo quería hacer algo parecido a esto, bendito de mi (probablemente aunque hubiese conseguido volarlo sin problema, no le habría llegado a este vídeo ni al dobladillo del calcetín)&#8230;</p>
+<p style="margin-top: 15px; margin-bottom: 15px">
+<div style="text-align:center;">
+<p><a href="//www.youtube.com/watch?v=wbNURTVsVYc&#038;fmt=18">//www.youtube.com/watch?v=wbNURTVsVYc</a></p>
+<p><a href="//www.youtube.com/watch?v=wbNURTVsVYc&#038;fmt=18"><img decoding="async" src="//img.youtube.com/vi/wbNURTVsVYc/default.jpg" width="130" height="97" border=0></a></p>
+</div>
+<p style="margin-top: 15px; margin-bottom: 15px">
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../crater-del-monte-fuji-a-vista-de-dron/feed/index.html</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10532</post-id>	</item>
+	</channel>
+</rss>

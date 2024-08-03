@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: ¡¡Menudo fin de semana!!	</title>
+	<atom:link href="./../../%C2%A1%C2%A1menudo-fin-de-semana/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Mon, 21 Feb 2011 08:22:42 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: Josune		</title>
+		<link>./../index.html#comment-22160</link>
+
+		<dc:creator><![CDATA[Josune]]></dc:creator>
+		<pubDate>Mon, 21 Feb 2011 08:22:42 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=306#comment-22160</guid>
+
+					<description><![CDATA[Finalmente el monte Fuji No??]]></description>
+			<content:encoded><![CDATA[<p>Finalmente el monte Fuji No??</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Txisko		</title>
+		<link>./../index.html#comment-1305</link>
+
+		<dc:creator><![CDATA[Txisko]]></dc:creator>
+		<pubDate>Sun, 06 Jan 2008 23:51:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=306#comment-1305</guid>
+
+					<description><![CDATA[Kokiii, feliz año nuevo!! pa donde te has ido que vaya foto mas guapa! eres tu o te has puesto ahi con el fotosop?!?!?]]></description>
+			<content:encoded><![CDATA[<p>Kokiii, feliz año nuevo!! pa donde te has ido que vaya foto mas guapa! eres tu o te has puesto ahi con el fotosop?!?!?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: el Dr. Alban		</title>
+		<link>./../index.html#comment-1304</link>
+
+		<dc:creator><![CDATA[el Dr. Alban]]></dc:creator>
+		<pubDate>Sun, 06 Jan 2008 19:29:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=306#comment-1304</guid>
+
+					<description><![CDATA[Eso eso, a ver si cuentas...]]></description>
+			<content:encoded><![CDATA[<p>Eso eso, a ver si cuentas&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

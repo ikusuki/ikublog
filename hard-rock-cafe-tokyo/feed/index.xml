@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Hard Rock Café Tokyo	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Haciendo el siberet en Tokyo desde el 2007</description>
+	<lastBuildDate>Tue, 04 Oct 2011 02:39:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Por: saruli		</title>
+		<link>./../index.html#comment-326</link>
+
+		<dc:creator><![CDATA[saruli]]></dc:creator>
+		<pubDate>Mon, 28 May 2007 15:27:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=110#comment-326</guid>
+
+					<description><![CDATA[como sabias q era yo la de sahkira?????]]></description>
+			<content:encoded><![CDATA[<p>como sabias q era yo la de sahkira?????</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Toscano		</title>
+		<link>./../index.html#comment-319</link>
+
+		<dc:creator><![CDATA[Toscano]]></dc:creator>
+		<pubDate>Mon, 28 May 2007 00:57:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=110#comment-319</guid>
+
+					<description><![CDATA[jajaja, esa Winnie y su campaña por el caracol!!!! Pues no lo había pensado lo del mono, pero también es verdad!!!!! jejeje&lt;br/&gt;&lt;br/&gt;Saruli, estamos de acuerdo... la verdad es que creo que nos quedamos con Shakira]]></description>
+			<content:encoded><![CDATA[<p>jajaja, esa Winnie y su campaña por el caracol!!!! Pues no lo había pensado lo del mono, pero también es verdad!!!!! jejeje</p>
+<p>Saruli, estamos de acuerdo&#8230; la verdad es que creo que nos quedamos con Shakira</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: accenturecustomerworkslepasoconshakirasiseñor!!		</title>
+		<link>./../index.html#comment-316</link>
+
+		<dc:creator><![CDATA[accenturecustomerworkslepasoconshakirasiseñor!!]]></dc:creator>
+		<pubDate>Sun, 27 May 2007 20:40:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=110#comment-316</guid>
+
+					<description><![CDATA[Pues Shakira le da un toke de glamour, si señor, con lo de Bisbi me asustaron los japos, pero ya veo q algunos si tienen gusto musical. VIVA SHAKIRA!!!!!]]></description>
+			<content:encoded><![CDATA[<p>Pues Shakira le da un toke de glamour, si señor, con lo de Bisbi me asustaron los japos, pero ya veo q algunos si tienen gusto musical. VIVA SHAKIRA!!!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Winnie (No sin mi caracol)		</title>
+		<link>./../index.html#comment-315</link>
+
+		<dc:creator><![CDATA[Winnie (No sin mi caracol)]]></dc:creator>
+		<pubDate>Sun, 27 May 2007 11:57:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=110#comment-315</guid>
+
+					<description><![CDATA[Jajaja, en cuanto he visto el mono, lo primero que he pensado... pues como le entren ganas de hacer kk, pobre coche que esta debajo... lo destroza!!!!&lt;br/&gt;&lt;br/&gt;jejejjee... Ademas el Hard Rock ese no tiene pinta de muy grande, no???&lt;br/&gt;&lt;br/&gt;&lt;b&gt;No sin mi caracol!!!&lt;/b&gt;]]></description>
+			<content:encoded><![CDATA[<p>Jajaja, en cuanto he visto el mono, lo primero que he pensado&#8230; pues como le entren ganas de hacer kk, pobre coche que esta debajo&#8230; lo destroza!!!!</p>
+<p>jejejjee&#8230; Ademas el Hard Rock ese no tiene pinta de muy grande, no???</p>
+<p><b>No sin mi caracol!!!</b></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
